@@ -59,3 +59,8 @@ backup/WaypointData_backup_04-03-2026_13-53-33.dat
 config/paxi/datapacks/arsnouveauminecoldatapack/
 
 config/paxi/datapacks/biomesoplentyminecoldatapack/
+immersive_furniture/cache/
+
+immersive_furniture/library/
+
+realms_persistence.json
