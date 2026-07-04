@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "croptopia"
+	group: "0739057429E7DE4D"
+	id: "0BE37B2700DA04A2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

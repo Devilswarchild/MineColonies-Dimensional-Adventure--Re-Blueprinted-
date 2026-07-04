@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "project_alpha"
+	group: "5DF77DB923AC9901"
+	id: "31E759EEBB78FBDC"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

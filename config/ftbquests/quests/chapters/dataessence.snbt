@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dataessence"
+	group: "250FD3D3997385F0"
+	id: "7B08C3F2DC373C04"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

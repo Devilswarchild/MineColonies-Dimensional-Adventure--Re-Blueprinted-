@@ -1,0 +1,612 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "twilight_forest"
+	group: "5DF77DB923AC9901"
+	id: "0CF61BD8855339B8"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5D7B2EFAB7E59856"
+			tasks: [{
+				id: "72594D680861CD32"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5D7B2EFAB7E59856"]
+			id: "1565DEE3F59CEDD4"
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "3CF90FC6D5D04531"
+				type: "dimension"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1565DEE3F59CEDD4"]
+			id: "406737E4C4072AB9"
+			rewards: [{
+				id: "5482346EA7767CB9"
+				item: {
+					components: {
+						"ftbquests:missing_item": "tropicraft:scale_boots"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "twilightforest:naga"
+				id: "19EE888E91F71A6A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["406737E4C4072AB9"]
+			id: "555AA7172905288B"
+			rewards: [
+				{
+					id: "1E9ECA12DC73BAF9"
+					item: {
+						components: {
+							"ftbquests:missing_item": "magistuarmory:gold_claymore"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "10A2D31340C10795"
+					item: {
+						count: 1
+						id: "farmersdelight:golden_knife"
+					}
+					type: "item"
+				}
+				{
+					id: "7108E73F06578ADE"
+					item: {
+						components: {
+							"ftbquests:missing_item": "nethersdelight:golden_machete"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:lich"
+				id: "6F8593E05E9531DB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1565DEE3F59CEDD4"]
+			id: "42D2E85CD0BF6D1F"
+			tasks: [{
+				id: "0481CAE663F0EBC8"
+				item: { count: 1, id: "twilightforest:magic_map" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["51B59619BAB0620F"]
+			id: "5D1F4B6E9CED99E7"
+			rewards: [
+				{
+					id: "496A1441B147551A"
+					item: {
+						count: 1
+						id: "skd:red_mushroom_table"
+					}
+					type: "item"
+				}
+				{
+					id: "250BC7CAB9C98381"
+					item: {
+						components: {
+							"ftbquests:missing_item": "fantasyfurniture:decorations/mushrooms_red"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:minoshroom"
+				id: "2948FB525F911A4C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["555AA7172905288B"]
+			id: "51B59619BAB0620F"
+			tasks: [{
+				biome: "twilightforest:swamp"
+				id: "3CDF31AFEE7043D9"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["555AA7172905288B"]
+			id: "6F4BD1431AB81612"
+			tasks: [{
+				biome: "twilightforest:dark_forest"
+				id: "5075A6FF627DF256"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6F4BD1431AB81612"]
+			id: "61A4D6C2B0B4786D"
+			rewards: [{
+				id: "50EB38E23361800C"
+				item: {
+					components: {
+						"ftbquests:missing_item": "shadowlands:ghostly_boots"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4456B128CA781839"
+				item: { count: 1, id: "twilightforest:knight_phantom_trophy" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["61A4D6C2B0B4786D"]
+			id: "30869148EDA52DBB"
+			tasks: [{
+				biome: "twilightforest:dark_forest_center"
+				id: "4EBF9925F2AC53B7"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["30869148EDA52DBB"]
+			id: "6918F58588CE9115"
+			rewards: [{
+				id: "408385B2D34FEECD"
+				item: {
+					components: {
+						"ftbquests:missing_item": "twilightdelight:grilled_ghast"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "twilightforest:progress_ur_ghast"
+				criterion: ""
+				id: "1CD2585812BBEB88"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["555AA7172905288B"]
+			id: "7CDA9D29A9BC04B1"
+			tasks: [{
+				biome: "twilightforest:snowy_forest"
+				id: "6A948A14A402B4FC"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["7CDA9D29A9BC04B1"]
+			id: "1278DBA393B22F10"
+			rewards: [{
+				count: 2
+				id: "587AA122116DB60A"
+				item: {
+					count: 1
+					id: "minecraft:blue_ice"
+				}
+				random_bonus: 6
+				type: "item"
+			}]
+			tasks: [{
+				entity: "twilightforest:alpha_yeti"
+				id: "29F89D75DA45A485"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1278DBA393B22F10"]
+			id: "2941644FD4A18796"
+			tasks: [{
+				biome: "twilightforest:glacier"
+				id: "1D8248B223CFA61C"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["2941644FD4A18796"]
+			id: "0AE0E58BA5703400"
+			rewards: [
+				{
+					count: 16
+					id: "0264A35961DE58DC"
+					item: {
+						count: 1
+						id: "twilightforest:aurora_block"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "524B1237B8E7116C"
+					item: {
+						components: {
+							"ftbquests:missing_item": "fantasyfurniture:decorations/snowballs"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:snow_queen"
+				id: "67D6D0EE816F87A6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5D1F4B6E9CED99E7"]
+			id: "102B1A00F4513036"
+			tasks: [{
+				biome: "twilightforest:fire_swamp"
+				id: "5C41759A5534BAB0"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["102B1A00F4513036"]
+			id: "1AC6E2D85CA2B199"
+			rewards: [
+				{
+					id: "562C98C5D2F44D2F"
+					item: {
+						count: 1
+						id: "croptopia:dragonfruit_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "21766FDC9D819CE8"
+					item: {
+						components: {
+							"ftbquests:missing_item": "infinite_abyss:fire_crystal"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "50AA5674A7034A74"
+					item: {
+						count: 1
+						id: "minecraft:burn_pottery_sherd"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "twilightforest:hydra"
+				id: "7C65148396BB7D72"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6918F58588CE9115"
+				"1AC6E2D85CA2B199"
+				"0AE0E58BA5703400"
+			]
+			id: "73B5D6ACB7EDFEE2"
+			tasks: [{
+				biome: "twilightforest:highlands"
+				id: "165DEF7A8EC9A122"
+				type: "biome"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["73B5D6ACB7EDFEE2"]
+			id: "4F6C2DEA1E6A31A3"
+			tasks: [{
+				id: "26DDAA6E401868FC"
+				item: { count: 1, id: "twilightforest:magic_beans" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F6C2DEA1E6A31A3"]
+			id: "422F020921C08527"
+			tasks: [{
+				id: "084932FCB33764FF"
+				item: { count: 1, id: "twilightforest:giant_pickaxe" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["422F020921C08527"]
+			id: "64D73FF43C7D5AB9"
+			rewards: [{
+				id: "721CA67DECFA4CFE"
+				item: {
+					components: {
+						"ftbquests:missing_item": "mcwlights:lava_lamp"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "76B45B79225D9217"
+				item: { count: 1, id: "twilightforest:lamp_of_cinders" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["64D73FF43C7D5AB9"]
+			id: "74A7079C5088AF8D"
+			rewards: [{
+				count: 4
+				id: "58187F95F862915E"
+				item: {
+					count: 1
+					id: "biomesoplenty:rose"
+				}
+				random_bonus: 8
+				type: "item"
+			}]
+			tasks: [{
+				biome: "twilightforest:thornlands"
+				id: "7A4FF54A723F4EE7"
+				type: "biome"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["74A7079C5088AF8D"]
+			id: "1F686EB9580FA28A"
+			rewards: [{
+				id: "22A69D9EE915504E"
+				item: {
+					components: {
+						"ftbquests:missing_item": "infinite_abyss:cursed_opal_sword"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "397024741F3D12FC"
+				structure: "twilightforest:final_castle"
+				type: "structure"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1565DEE3F59CEDD4"]
+			id: "0BC2506F05B65F3C"
+			rewards: [{
+				count: 3
+				id: "76C71E0D3BD3D0BD"
+				item: {
+					count: 1
+					id: "twilightforest:rainbow_oak_sapling"
+				}
+				random_bonus: 6
+				type: "item"
+			}]
+			tasks: [{
+				id: "0125377F5FEC09AC"
+				item: { count: 1, id: "twilightforest:quest_ram_trophy" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["30869148EDA52DBB"]
+			id: "36C2BEA4A039BE75"
+			optional: true
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:experiment_115"
+				criterion: ""
+				id: "496FC71FCDDB2EE9"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["36C2BEA4A039BE75"]
+			id: "632BFEC0E8AF7126"
+			optional: true
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:experiment_115_self_replenishing"
+				criterion: ""
+				id: "165B3C346F3B3FA0"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2941644FD4A18796"]
+			id: "4A08245126368C0C"
+			optional: true
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:break_glass_sword"
+				criterion: ""
+				id: "274270BEEB05407C"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["632BFEC0E8AF7126"]
+			id: "579A707576F931C8"
+			optional: true
+			rewards: [{
+				count: 4
+				id: "6A0A65D6F82071EA"
+				item: {
+					count: 1
+					id: "minecraft:experience_bottle"
+				}
+				type: "item"
+			}]
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:experiment_115_115"
+				criterion: ""
+				id: "49D3731749F20427"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51B59619BAB0620F"]
+			id: "6224E46C00B69F5D"
+			optional: true
+			size: 0.8d
+			tasks: [{
+				id: "4B2430FCA889572C"
+				item: { count: 1, id: "twilightforest:mazebreaker_pickaxe" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1565DEE3F59CEDD4"]
+			id: "6FA1D1BAD194187D"
+			optional: true
+			rewards: [{
+				id: "6FE67EB628A98AEA"
+				item: {
+					components: {
+						"ftbquests:missing_item": "shadowlands:glowing_crystal"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:hill3"
+				criterion: ""
+				id: "09CBB1D374F27884"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1565DEE3F59CEDD4"]
+			id: "662922793C0ED6E0"
+			optional: true
+			rewards: [
+				{
+					id: "438174F70E47BFAE"
+					item: {
+						count: 1
+						id: "biomesoplenty:rainbow_birch_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "79CE40FFC0008C04"
+					item: {
+						count: 1
+						id: "biomesoplenty:redwood_sapling"
+					}
+					type: "item"
+				}
+			]
+			size: 0.8d
+			tasks: [{
+				advancement: "twilightforest:arborist"
+				criterion: ""
+				id: "0E4240AE2ED0C2EB"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+}

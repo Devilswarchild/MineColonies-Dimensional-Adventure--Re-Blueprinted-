@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting_realms"
+	group: "5DF77DB923AC9901"
+	id: "1B77050413CE8ABC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "swashbucklers"
+	group: "520E04A597624BFA"
+	id: "28520F576C5DE7B9"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

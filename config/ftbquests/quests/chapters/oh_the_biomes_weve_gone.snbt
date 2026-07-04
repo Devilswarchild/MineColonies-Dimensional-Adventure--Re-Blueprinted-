@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "oh_the_biomes_weve_gone"
+	group: "43E31B445BBEB0CA"
+	id: "70023FDA6296CC73"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

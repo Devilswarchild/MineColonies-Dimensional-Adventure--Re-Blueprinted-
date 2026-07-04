@@ -1,0 +1,47 @@
+{
+	quest.0AE0E58BA5703400.quest_desc: ["Slay the Snow Queen found at the top of the Aurora Palace."]
+	quest.0AE0E58BA5703400.title: "Slay a Snow Queen"
+	quest.0BC2506F05B65F3C.quest_desc: ["Find a Quest Grove and give every colour of wool to the ram."]
+	quest.1278DBA393B22F10.quest_desc: ["Found in large ice caves."]
+	quest.1278DBA393B22F10.title: "Slay an Alpha Yeti"
+	quest.1565DEE3F59CEDD4.title: "Visit the Twilight Forest"
+	quest.30869148EDA52DBB.quest_desc: ["The leaves turn orange in the centre."]
+	quest.30869148EDA52DBB.title: "Find the Dark Forest Centre"
+	quest.36C2BEA4A039BE75.quest_desc: ["Eat an Experiment 115."]
+	quest.36C2BEA4A039BE75.title: "Mystery Meat?"
+	quest.406737E4C4072AB9.title: "Slay a Naga"
+	quest.422F020921C08527.quest_desc: ["Plant the magic beans on some Uberous Soil, then climb the beanstalk to one of the floating cloud cottages slay a giant and obtain a giant pickaxe."]
+	quest.42D2E85CD0BF6D1F.quest_desc: ["Not essential, but very helpful for finding your way around."]
+	quest.4A08245126368C0C.quest_desc: ["Use and break a Glass Sword."]
+	quest.4A08245126368C0C.title: "One Hit Wonder"
+	quest.51B59619BAB0620F.title: "Find a Twilight Swamp"
+	quest.555AA7172905288B.title: "Slay a Lich"
+	quest.579A707576F931C8.quest_desc: ["Eat 115 pieces of Experiment 115. But why stop there? Why ever stop?"]
+	quest.5D1F4B6E9CED99E7.quest_desc: ["Once you have located a swamp, go the the centre and you will find a mostly buried maze containing the Minoshroom boss."]
+	quest.5D1F4B6E9CED99E7.title: "Slay a Minoshroom"
+	quest.5D7B2EFAB7E59856.quest_desc: ["Throw a diamond into a 2x2 pool of water surrounded by poppies/dandelions"]
+	quest.61A4D6C2B0B4786D.quest_desc: ["Find a stronghold in the Dark Forest biome, then place a boss trophy on the pedestal to access it. Then locate the room with the Knight Phantoms."]
+	quest.61A4D6C2B0B4786D.title: "Slay the 6 Knight Phantoms"
+	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
+	quest.632BFEC0E8AF7126.quest_desc: ["Have a full block of Experiment 115 with Redstone sprinkles."]
+	quest.632BFEC0E8AF7126.title: "Making a note: Huge Success!"
+	quest.64D73FF43C7D5AB9.quest_desc: ["Go back to the Troll Cave, locate the large obsidian vault and mine inside with the giant pickaxe to obtain the Lamp of Cinders."]
+	quest.662922793C0ED6E0.quest_desc: ["Obtain all different wood, leaf, or natural block and their variants from the Twilight Forest mod!"]
+	quest.662922793C0ED6E0.title: "Maniacal Dendrologist"
+	quest.6918F58588CE9115.quest_desc: ["Reach the top of the massive tower and slay the Ur Ghast. Killing Carminite Ghastlings near the Ghast Traps, then powering the trap when the Ur Ghast is near will do heavy damage to it."]
+	quest.6918F58588CE9115.title: "Slay the Ur Ghast"
+	quest.6F4BD1431AB81612.title: "Find a Dark Forest"
+	quest.6FA1D1BAD194187D.quest_desc: ["Defeat a Twilight Wraith in a large Hollow Hill."]
+	quest.6FA1D1BAD194187D.title: "I See Right Through You"
+	quest.74A7079C5088AF8D.quest_desc: ["Use your Lamp of Cinders to burn away the thorns and enter the Thornlands."]
+	quest.74A7079C5088AF8D.title: "Enter the Thornlands"
+	quest.7CDA9D29A9BC04B1.title: "Find a Snowy Forest"
+	task.09CBB1D374F27884.title: "I See Right Through You"
+	task.165DEF7A8EC9A122.title: "Enter the Highlands"
+	task.1D8248B223CFA61C.title: "Find a Glacier"
+	task.397024741F3D12FC.title: "Enter the Final Castle!"
+	task.49D3731749F20427.title: "Eating 115 Everyday, 115 Years"
+	task.5C41759A5534BAB0.title: "Find the Fire Swamp"
+	task.67D6D0EE816F87A6.title: "Slay the Snow Queen"
+	task.7C65148396BB7D72.title: "Slay a Hydra"
+}

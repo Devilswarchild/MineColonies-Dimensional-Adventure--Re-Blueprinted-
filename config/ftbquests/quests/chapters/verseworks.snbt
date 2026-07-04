@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "verseworks"
+	group: "5DF77DB923AC9901"
+	id: "37B86466045EF639"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}

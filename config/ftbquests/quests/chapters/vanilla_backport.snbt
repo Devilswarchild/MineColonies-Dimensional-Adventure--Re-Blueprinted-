@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vanilla_backport"
+	group: "43E31B445BBEB0CA"
+	id: "2D5B93718E96FBA7"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

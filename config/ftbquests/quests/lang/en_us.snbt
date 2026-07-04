@@ -1,0 +1,306 @@
+{
+	chapter.0BE37B2700DA04A2.title: "Croptopia"
+	chapter.0C67F441F8E71DB5.title: "PneumaticCraft: Repressurized"
+	chapter.0CBB57C882A0A3E8.title: "Oritech"
+	chapter.0CF61BD8855339B8.title: "Twilight Forest"
+	chapter.0E21FB2EFB41A583.title: "MineColonies"
+	chapter.10C794EB6B6E39A4.title: "Powah! (Rearchitected)"
+	chapter.11657710BFB80347.title: "Biomes O' Plenty"
+	chapter.149D2C983550FDEE.title: "Ars Nouveau"
+	chapter.1AF0719459F5D7A4.title: "Hostile Neural Networks"
+	chapter.1B77050413CE8ABC.title: "Enchanting Realms"
+	chapter.1C88686C9C5005E8.title: "Lithereal"
+	chapter.1EC0FFDFAA78D9DE.title: "Bosses'Rise"
+	chapter.2292B56117055C86.title: "Demon Realm"
+	chapter.2447D014F820492A.title: "Ancient Beyond"
+	chapter.25FA2945980E5DAC.title: "Ephemeral Dimensions"
+	chapter.28520F576C5DE7B9.title: "Swashbucklers!"
+	chapter.2D5B93718E96FBA7.title: "Vanilla Backport"
+	chapter.311B9B609F9C8443.title: "Enchanted: Witchcraft"
+	chapter.31E759EEBB78FBDC.title: "Project Alpha"
+	chapter.3293295477066FD8.title: "Better Furnaces Reforge"
+	chapter.33DFD5DA9FE961D5.title: "Moving Elevetors"
+	chapter.341B2F08284371E1.title: "Cyberspace"
+	chapter.37B86466045EF639.title: "VerseWorks"
+	chapter.3904E70D0E85DAA7.title: "Deeper and Darker"
+	chapter.3C92CD262B9CED80.title: "The Aether"
+	chapter.3EC572AED114F1DB.title: "Functional Storage"
+	chapter.436D97CCFBD1EAC5.title: "Forbidden and Arcanus"
+	chapter.44C9B75391977E35.title: "LanteaCraft"
+	chapter.4A0788A10CB44DEF.title: "Deep Aether"
+	chapter.4DB6FB5A078AFC9F.title: "Extreme Reactors"
+	chapter.5150D945901579BA.title: "Just Dire Things"
+	chapter.55CB40ABC320C0A5.title: "Artificer"
+	chapter.57BEA3534D294D14.title: "Dragon Mounts Remastered"
+	chapter.582E448E54F02992.title: "Traveler's Backpack"
+	chapter.5BBCC13DD1730548.title: "Refined Storage"
+	chapter.5C8F08B736535243.title: "Immersive Furniture"
+	chapter.66AC153A751D2DF3.title: "Warehouse Workshop"
+	chapter.6A04DD255448B2FC.title: "Pipez"
+	chapter.6B180854CF011802.title: "End Remastered"
+	chapter.6F68DADFFF98AB78.title: "Railcraft Reborn"
+	chapter.70023FDA6296CC73.title: "Oh The Biomes We've Gone"
+	chapter.707B1134EC7C0B5E.title: "Occultism"
+	chapter.78145945818D171A.title: "BiblioCraft Legacy"
+	chapter.7B08C3F2DC373C04.title: "Halcyon | Data \\& Essence"
+	chapter.7D3CAD640A795A3B.title: "The Block Box"
+	chapter_group.0739057429E7DE4D.title: "Food"
+	chapter_group.0A99FA6EC8572C42.title: "Magic"
+	chapter_group.250FD3D3997385F0.title: "Tech and Storage"
+	chapter_group.43E31B445BBEB0CA.title: "Biomes"
+	chapter_group.520E04A597624BFA.title: "Adventure and RPG"
+	chapter_group.5DF77DB923AC9901.title: "Dimensions"
+	quest.00DC2BA6CFAA1F8B.quest_desc: ["Fishing loot."]
+	quest.0501F76E80B4BC31.quest_subtitle: "Bring your pickaxe along!"
+	quest.0501F76E80B4BC31.title: "Small underground Mazes"
+	quest.052980924E1F11B4.quest_subtitle: "These rare creatures can withstand the fall from any height, but still need to be taken care off well."
+	quest.05839D9537FA2FDD.quest_desc: [
+		"Step 4: Tavern"
+		""
+		"Your colonists will need a place to sleep and a house, so it is recommended to build a Tavern next. The Tavern also allows visitors to come to your colony, and you can recruit them to stay as citizens."
+	]
+	quest.05FFFD19E6761FD9.quest_desc: ["Have a small chance to get it when enchanting."]
+	quest.08FCBB3A1B289757.quest_desc: ["Dropped by The Wither."]
+	quest.0AE0E58BA5703400.quest_desc: ["Slay the Snow Queen found at the top of the Aurora Palace."]
+	quest.0AE0E58BA5703400.title: "Slay a Snow Queen"
+	quest.0B51F404F1E84C17.quest_desc: [
+		"Step 3: Town Hall"
+		""
+		"The Town Hall block is what actually creates the colony. It also functions as the center of it. This is where you start using the build tool to place buildings. Using the build tool ensures you can see exactly where the building will be, which direction it will face, and if it is at the right Y level (some buildings need to be raised to the correct Y level)."
+		""
+		"Once the Town Hall block is placed, you will start receiving your initial 4 citizens."
+		""
+		"The protected area of your colony (once the Town Hall has been placed) will be a square 4 chunks in radius, measured from the chunk where you placed your Town Hall block the first time (with the default config). Therefore, plan carefully where you want to place your Town Hall. 64 blocks (4 chunks x 4 chunks) in every direction from that chunk will be your protected Town area including mountains, hills, lakes, oceans, caves, world generated structures, etc. from bedrock to sky limit."
+		""
+		"Hint: The most important tool you will need for the entire mod is the build tool (check our build tool page). Obtain one from the Supply Ship/Camp or craft another so you can place all the huts (including the Town Hall) in the perfect spot."
+		""
+		"Due to the protected area of each colony, you have to carefully scout your surrounding to make sure you are clear of any other colonies nearby preventing you from placing your Town Hall or limiting your colony area in that direction (in multiplayer, etc.). If there is another colony too close to your current position, you won’t be able to place a Town Hall."
+		""
+		"Location info of the next closest colony exists in the debug screen (displayed when you press F3). If there is a colony close to your current position, it will also show you the required distance away to place your Town Hall."
+	]
+	quest.0B51F404F1E84C17.title: "Town Hall"
+	quest.0B9CBAC5D036021A.quest_subtitle: "Discover a new way of dealing ranged damage"
+	quest.0BC2506F05B65F3C.quest_desc: ["Find a Quest Grove and give every colour of wool to the ram."]
+	quest.0BF40B5B6ED8203F.quest_subtitle: "Craft yourself a new start with skyroot"
+	quest.0BF40B5B6ED8203F.title: "New Wood!"
+	quest.0D56A15EC335C11A.quest_subtitle: "This ice has fused with stone itself, creating a new type of block with some unique uses"
+	quest.0D56A15EC335C11A.title: "Compressed Ice"
+	quest.0FFF3856AE0806F6.quest_subtitle: "Obtain a weapon fitting for a heavenly challenger from the bronze dungeon"
+	quest.0FFF3856AE0806F6.title: "Better than a sword!"
+	quest.100CF061D413A567.quest_subtitle: "Grab yourself some sunscreen, live a healthy lifestyle!"
+	quest.100CF061D413A567.title: "Prepare adequately"
+	quest.1278DBA393B22F10.quest_desc: ["Found in large ice caves."]
+	quest.1278DBA393B22F10.title: "Slay an Alpha Yeti"
+	quest.12E5DD67806388F3.quest_subtitle: "Combine with Glowstone for the ultimate builder experience"
+	quest.12E5DD67806388F3.title: "Glorious Brick"
+	quest.13B658487B62A140.quest_subtitle: "Home to the Sun Spirit"
+	quest.13B658487B62A140.title: "Find The Golden Island"
+	quest.14E93FEC6AE1ABA9.quest_subtitle: "These non craftable tools of glory seem to greatly increase your reach"
+	quest.14E93FEC6AE1ABA9.title: " Holy Arms"
+	quest.1565DEE3F59CEDD4.title: "Visit the Twilight Forest"
+	quest.161865F4B886E5B7.quest_desc: ["Not everything here seems friendly to strangers, angry clouds, poison spewing plants and chickens combined with a mysterious darkness give off the feeling of a hostile paradise, maybe we aren't as welcome here as we initially thought?"]
+	quest.161865F4B886E5B7.quest_subtitle: "Every poison has its antidote"
+	quest.161865F4B886E5B7.title: "Perfect Paradise?"
+	quest.17452A76067CC6C0.quest_desc: ["Found in Mineshafts."]
+	quest.1808E988F815E641.quest_subtitle: "Highly resistant clouds"
+	quest.1808E988F815E641.title: "New Building Materials!"
+	quest.19689F3D7477D89D.quest_desc: ["Found in Pillager Outposts,"]
+	quest.19D85E1B63ADFF34.quest_desc: [
+		"Step 1: Supply Camp/Supply Ship"
+		""
+		"Once you have chosen a location for your colony, you must place a Supply Ship or Supply Camp. You can only place one of these per world. The Supply Camp/Ship gives you the Town Hall block you need to officially start your colony. They also have some other supplies you may need during the building of your colony. Once you have the Town Hall block and the build tool, the remaining camp/ship is just decoration. You can leave it or tear it down."
+		""
+		"To place the Supply Camp, you need to have a large enough flat, clear piece of land (at least 16x17 blocks)."
+		""
+		"When you place the Supply Camp, it will spawn a chest that will contain the Town Hall block and the build tool. Once the Supply Camp is placed, you can’t place another in the world."
+		""
+		"Place the Supply Camp by right-clicking the item directly on the water/ground – if you have a build tool already, don’t use it for this (you’re expected to get the tool from the camp rather than already having one)."
+		""
+		"Hint: If you’re not able to place the Supply Camp, try it block by block: one to the right, left, closer or further from the area you cleared. The area cannot contain any holes or have any flowers, grass, ferns, seaweed, coral etc."
+	]
+	quest.1A67AF47E8282424.quest_subtitle: "Find an egg dropped rarely by a naturally spawned moa, or just steal one from a chest"
+	quest.1A67AF47E8282424.title: "Moas are BACK!"
+	quest.1B0EDBFE8ED76110.quest_subtitle: "Tools made with this stone have a chance to drop amrbosium shards when used"
+	quest.1B0EDBFE8ED76110.title: "Holier Stone"
+	quest.1C9032F0B333E605.quest_subtitle: "Gear made out of this gem seems to be on the same level as iron, however they  bear an innate effect of increasing efficiency the closer they are to being broken"
+	quest.1C9032F0B333E605.title: "New Iron?"
+	quest.1CF790252F0F1A77.quest_subtitle: "You've obtained temporal control over the aether, congrats!"
+	quest.1CF790252F0F1A77.title: "The Final Block"
+	quest.2009CB12D69BCED8.quest_subtitle: "Meet the majestic ruler of the clouds, the untouchable aerwhale!"
+	quest.202C506FA06B4E39.quest_desc: ["Buy it from a master cleric."]
+	quest.204D53D25ECC3882.quest_subtitle: "This ice powered machine can automate the freezing process and even adds some new items"
+	quest.204D53D25ECC3882.title: "Fridge?"
+	quest.210EF23262133E20.quest_subtitle: "Find the fuel from the heavens"
+	quest.210EF23262133E20.title: "Holy Coal!"
+	quest.216FAD99B6E85C69.quest_desc: ["Fishing loot."]
+	quest.247AD8A7F03FC0B1.quest_subtitle: "Salvage those magnificent pillars to incorporate them in your next build!"
+	quest.247AD8A7F03FC0B1.title: "Pillars"
+	quest.2615A9F7168A46CD.quest_subtitle: "Craft and sacrifice a piece of each of these new equipments to unlock further guidance"
+	quest.2615A9F7168A46CD.title: "A whole new Inventory?"
+	quest.2742EF745632141A.quest_subtitle: "Discover a handful of useful accessories, and new inventory slots for them, hidden behind a cloud"
+	quest.2742EF745632141A.title: "New Trinkets"
+	quest.295DA5B88AC567AE.quest_desc: [""]
+	quest.2AC8314F7AA00426.quest_desc: ["Build a portal out of glowstone and activate it with water!"]
+	quest.2AC8314F7AA00426.quest_subtitle: "Use the book of lore to explore items"
+	quest.2C8A8B315B4EC99B.quest_desc: [
+		"A worm farm is a block you can craft to obtain worms that can be used as bait for fishing."
+		""
+		"You can use any of the same items that can be used in the composter."
+		""
+		"Just right click on the worm farm with an empty hand or a non-compostable item to get the worms out."
+	]
+	quest.30869148EDA52DBB.quest_desc: ["The leaves turn orange in the centre."]
+	quest.30869148EDA52DBB.title: "Find the Dark Forest Centre"
+	quest.32BF2E4192A2652C.quest_desc: ["Even the ground has changed, it seems those changes go beyond just the surface."]
+	quest.32BF2E4192A2652C.quest_subtitle: "Be careful while harvesting!"
+	quest.32BF2E4192A2652C.title: "Faster Sand"
+	quest.32DB907C440E77A0.quest_desc: [
+		"Step 7: Miner"
+		""
+		"Stone and ores are another major need for any colony, so a Mine is the next logical step."
+	]
+	quest.34E8AE9BB4D37DA7.quest_desc: ["Get it by killing an Elder Guardian."]
+	quest.36C2BEA4A039BE75.quest_desc: ["Eat an Experiment 115."]
+	quest.36C2BEA4A039BE75.title: "Mystery Meat?"
+	quest.36FE3019E97AA3F9.quest_subtitle: "Deafeat glorious warriors in 1 versus 1 combat in preparation for the final battle"
+	quest.36FE3019E97AA3F9.title: "Valkyries?"
+	quest.394C24C83DA2ECFE.quest_desc: ["Found in Jungle Pyramids"]
+	quest.3BCA33834716DA39.quest_desc: ["Found in Buried Chests."]
+	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
+	quest.3C4B6468B14C039E.title: "Buckets made easy"
+	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
+	quest.406737E4C4072AB9.title: "Slay a Naga"
+	quest.41B4C7B9D3AE6317.quest_desc: ["Craft it using a witch's pupil"]
+	quest.4204538C06CA4F3A.quest_subtitle: "It seems the skyroot bucket can be used to harvest a poison like substance from those small poisonous plants, to achieve a similar effect to a cockatrice attack"
+	quest.422F020921C08527.quest_desc: ["Plant the magic beans on some Uberous Soil, then climb the beanstalk to one of the floating cloud cottages slay a giant and obtain a giant pickaxe."]
+	quest.42D2E85CD0BF6D1F.quest_desc: ["Not essential, but very helpful for finding your way around."]
+	quest.45317C2150B7879A.quest_subtitle: "This gem has a perplexing quality, with lower durability certain qualities strenghten themselves, such as armor becomes more durable"
+	quest.4756A1D3F1F9F5B2.quest_subtitle: "This machine incubates wild moas eggs, a new mount for you!"
+	quest.48867549FFD29F2E.quest_subtitle: "These trees do not hold gold but a new substances, amber. Amber is very useful for making a new type of ranged weapon."
+	quest.48867549FFD29F2E.title: "Gold in Trees?"
+	quest.49D1C02DA93922F4.quest_desc: [
+		"You can store fishing related items and fish bait in one of these."
+		"The Tackle Box is also where you can attatch equipment to the fishing rods."
+	]
+	quest.4A08245126368C0C.quest_desc: ["Use and break a Glass Sword."]
+	quest.4A08245126368C0C.title: "One Hit Wonder"
+	quest.4B7870B5DBF67428.quest_desc: ["Found in Igloos."]
+	quest.4B9C8C7BAB6C36AF.quest_desc: ["Craft it using an Undead Soul."]
+	quest.4C1A96E1E8A233BA.quest_desc: ["Fishing loot."]
+	quest.51641B23C6AED9DC.quest_subtitle: "Craft yourself a makeshift parachute out of clouds"
+	quest.51641B23C6AED9DC.title: "Parachutes!"
+	quest.517977BB9C67C6FC.quest_desc: ["Found in Piglin Bastion treasure chests."]
+	quest.51B59619BAB0620F.title: "Find a Twilight Swamp"
+	quest.555AA7172905288B.title: "Slay a Lich"
+	quest.564E530B7D181364.quest_subtitle: "Many challenges and just as much loot is waiting for the brave explorer"
+	quest.564E530B7D181364.title: "Discover the Ancient Temple of the Valkyries!"
+	quest.579A707576F931C8.quest_desc: ["Eat 115 pieces of Experiment 115. But why stop there? Why ever stop?"]
+	quest.5AC42BFB6EFAF258.quest_subtitle: "Craft yourself an altar, a multifunctional enchanting and repairing device"
+	quest.5AC42BFB6EFAF258.title: "Altar to whom?"
+	quest.5ACCF56D41A5CC27.quest_desc: [
+		"In order to find the dungeon, the player must throw one of the Eyes which will fly for a few blocks in the direction of the nearest End Gate before dropping to the ground. By default, the eyes have a 10% chance to shatter upon being thrown. "
+		""
+		"The dungeon is procedurally generated, which means that it doesn't have a particular layout. However, the dungeon has 9 different puzzles and a portal room. Before accessing the End Gate, the player must complete 3 puzzles. "
+		""
+		"The Portal Room is located right after the final puzzle. In order to activate the portal, you need to find 11 eyes and to craft the powered core. "
+	]
+	quest.5ACCF56D41A5CC27.title: "Use 12 eyes to visit the End"
+	quest.5D1F4B6E9CED99E7.quest_desc: ["Once you have located a swamp, go the the centre and you will find a mostly buried maze containing the Minoshroom boss."]
+	quest.5D1F4B6E9CED99E7.title: "Slay a Minoshroom"
+	quest.5D7B2EFAB7E59856.quest_desc: ["Throw a diamond into a 2x2 pool of water surrounded by poppies/dandelions"]
+	quest.6148DA91475AF128.quest_desc: [""]
+	quest.61A4D6C2B0B4786D.quest_desc: ["Find a stronghold in the Dark Forest biome, then place a boss trophy on the pedestal to access it. Then locate the room with the Knight Phantoms."]
+	quest.61A4D6C2B0B4786D.title: "Slay the 6 Knight Phantoms"
+	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
+	quest.632BFEC0E8AF7126.quest_desc: ["Have a full block of Experiment 115 with Redstone sprinkles."]
+	quest.632BFEC0E8AF7126.title: "Making a note: Huge Success!"
+	quest.64D73FF43C7D5AB9.quest_desc: ["Go back to the Troll Cave, locate the large obsidian vault and mine inside with the giant pickaxe to obtain the Lamp of Cinders."]
+	quest.662922793C0ED6E0.quest_desc: ["Obtain all different wood, leaf, or natural block and their variants from the Twilight Forest mod!"]
+	quest.662922793C0ED6E0.title: "Maniacal Dendrologist"
+	quest.67F454DF06908583.quest_subtitle: "You should try feeding this to animals"
+	quest.67F454DF06908583.title: "Purple Shooty Plant"
+	quest.68640EC6825C9746.quest_subtitle: "Tools made of this diamond level equivalent of the skies have an odd effect when  used on other blocks"
+	quest.68640EC6825C9746.title: "This is not Diamond!"
+	quest.68741956F948EAE3.quest_desc: ["It appears as though nature has adjusted well to this new climate, pigs and cows grew wings, sheep can float thru the skies. This berry bush seems to be a major source of food."]
+	quest.68741956F948EAE3.quest_subtitle: "Flora and Fauna"
+	quest.6918F58588CE9115.quest_desc: ["Reach the top of the massive tower and slay the Ur Ghast. Killing Carminite Ghastlings near the Ghast Traps, then powering the trap when the Ur Ghast is near will do heavy damage to it."]
+	quest.6918F58588CE9115.title: "Slay the Ur Ghast"
+	quest.6B3B0F9EE26ABAD3.quest_desc: [
+		"Step 6: Forester"
+		""
+		"If your style is wood, it’s recommended to build a Forester’s Hut next. That way your new Forester can start gathering wood for your next builds and for tools and other items."
+	]
+	quest.6EB945C2C1B04265.quest_subtitle: "In the past, this mythical armor bestowed wings upon the heavenly warriors, only the cape retained a fraction of that ancient power"
+	quest.6EB945C2C1B04265.title: "The ultimate armor"
+	quest.6F4BD1431AB81612.title: "Find a Dark Forest"
+	quest.6FA1D1BAD194187D.quest_desc: ["Defeat a Twilight Wraith in a large Hollow Hill."]
+	quest.6FA1D1BAD194187D.title: "I See Right Through You"
+	quest.70F342782B5E0997.quest_desc: [
+		"Step 2: Builder"
+		""
+		"Before anything can be built, you need a Builder. The Builder must build their own Builder’s Hut before building any other huts, and they cannot build or upgrade a hut to a higher level than their own hut level."
+		""
+		"Hint: Gather as many materials as possible to give to your Builder when they start building. They will ask you for all kinds of materials for each building or upgrade, depending on the style of building you have chosen. The materials needed for most styles will be mainly wood, cobblestone, and torches for the lower levels. Further upgrades will require more elaborate materials."
+		""
+		"Hint: Consider upgrading the Builder’s Hut to level 2 as soon as you can so the Builder can upgrade other buildings."
+		""
+		"Hint: Upgrade your huts to the highest level possible (level 5 for all of them except the Tavern) to get achievements (and increase the speed at which the worker levels)."
+	]
+	quest.70F342782B5E0997.title: "Builder's Hut"
+	quest.7145EC3C300E7DBB.quest_subtitle: "Pray for little lag, we wish you success!"
+	quest.7145EC3C300E7DBB.title: "Complete The Final Dungeon"
+	quest.716FD0C8F4A7AD60.title: "Gravity Defying Gravitite"
+	quest.71BFA98D54EA1BAD.quest_subtitle: "Use this powerful wand to command your pets"
+	quest.7333E2A32FC534C0.quest_desc: ["Found in Desert Pyramids."]
+	quest.73862CAC8625B649.quest_desc: ["Fishing loot."]
+	quest.74A7079C5088AF8D.quest_desc: ["Use your Lamp of Cinders to burn away the thorns and enter the Thornlands."]
+	quest.74A7079C5088AF8D.title: "Enter the Thornlands"
+	quest.74A8812364ECCF90.quest_desc: [""]
+	quest.753B1F74B1AB46FF.quest_subtitle: "Countless useful relic can be found in ancient structures, guarded by powerful entities, can you collect them all?"
+	quest.753B1F74B1AB46FF.title: "Remains of Better Times"
+	quest.7617AC4CACC5045C.quest_desc: ["Click to be given a link to the Minecolonies wiki page. Quest only works once so save the link if you need it or use google."]
+	quest.768C7CE1F3C4331F.quest_desc: [
+		"Step 5: Food"
+		""
+		"The next major thing you need for your colony is food. The fastest way to get food is to build a Fisher’s Hut. You could build a Farmer’s Hut or one of the animal herders, but a Fisher is faster. Building a Restaurant may also be advisable if you don’t want to feed your colonists (or cook their food) by hand."
+	]
+	quest.774420C19F369850.quest_desc: [
+		"Step 1: Supply Camp/Supply Ship"
+		""
+		"Once you have chosen a location for your colony, you must place a Supply Ship or Supply Camp. You can only place one of these per world. The Supply Camp/Ship gives you the Town Hall block you need to officially start your colony. They also have some other supplies you may need during the building of your colony. Once you have the Town Hall block and the build tool, the remaining camp/ship is just decoration. You can leave it or tear it down."
+		""
+		"To place the Supply Ship, you need to have a large enough body of water (at least 32 x 20). "
+		""
+		"When you place the Supply Ship, it will spawn a chest that will contain the Town Hall block and the build tool. Once the Supply Ship is placed, you can’t place another in the world."
+		""
+		"Place the Supply Ship by right-clicking the item directly on the water/ground – if you have a build tool already, don’t use it for this (you’re expected to get the tool from the ship rather than already having one)."
+		""
+		"Hint: If you’re not able to place the Supply Camp/Ship, try it block by block: one to the right, left, closer or further from the area you cleared. The area cannot contain any holes or have any flowers, grass, ferns, seaweed, coral etc."
+	]
+	quest.79AF484CC3F00727.quest_desc: [
+		"Step 8: Warehouse and courier"
+		""
+		"At this point, you might be tired of bringing all of the resources to the Builder and taking them from the Fisher, Forester, Miner, etc. You also might want to store items in one place. Well, the Warehouse and Courier’s Hut are the solution you are looking for! Courier transport items between the Warehouse and all of the workplaces. The Clipboard and Resource Scroll may be helpful!"
+	]
+	quest.7A6D9E7DAD77F895.quest_desc: ["Craft it using aquatic items."]
+	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
+	quest.7C9CB235D52BFE01.quest_desc: ["This place seems to have it's own set of tools, although your current ones should still do their job, somewhat."]
+	quest.7C9CB235D52BFE01.quest_subtitle: "New Stone? New Wood? Punch the Tree!"
+	quest.7C9CB235D52BFE01.title: "That shade of green drives me crazy"
+	quest.7CDA9D29A9BC04B1.title: "Find a Snowy Forest"
+	quest.7E010951FA8E6F84.quest_subtitle: "Obtain ALL the fabled rare moa eggs!"
+	quest.7E010951FA8E6F84.title: "The ultimate challenge"
+	task.09CBB1D374F27884.title: "I See Right Through You"
+	task.0A5D393BF4628A53.title: "Observe pure beauty"
+	task.165DEF7A8EC9A122.title: "Enter the Highlands"
+	task.1870FC2AF136D3AB.title: "Visit Paradise!"
+	task.1C9659F96CDACE8D.title: "Discover a new breed of rabbits!"
+	task.1D8248B223CFA61C.title: "Find a Glacier"
+	task.397024741F3D12FC.title: "Enter the Final Castle!"
+	task.44C6E1CBAF1BC2EA.title: "Obtain an Aquaculture fishing rod"
+	task.49D3731749F20427.title: "Eating 115 Everyday, 115 Years"
+	task.4DE08737E4AB6BFF.title: "Wiki link"
+	task.5C41759A5534BAB0.title: "Find the Fire Swamp"
+	task.67D6D0EE816F87A6.title: "Slay the Snow Queen"
+	task.7C65148396BB7D72.title: "Slay a Hydra"
+}

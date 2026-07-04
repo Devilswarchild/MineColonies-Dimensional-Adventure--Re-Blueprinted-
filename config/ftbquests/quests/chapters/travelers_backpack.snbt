@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "travelers_backpack"
+	group: "520E04A597624BFA"
+	id: "582E448E54F02992"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+}

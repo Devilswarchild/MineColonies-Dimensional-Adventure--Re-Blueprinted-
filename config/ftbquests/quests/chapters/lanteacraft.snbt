@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lanteacraft"
+	group: "250FD3D3997385F0"
+	id: "44C9B75391977E35"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

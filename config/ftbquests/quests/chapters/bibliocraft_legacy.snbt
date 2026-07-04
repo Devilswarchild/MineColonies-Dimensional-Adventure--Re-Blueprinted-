@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bibliocraft_legacy"
+	group: "520E04A597624BFA"
+	id: "78145945818D171A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

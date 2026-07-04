@@ -1,0 +1,223 @@
+{
+	id: "3FCE6C893B181A17"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 8
+			id: "3D629576598749E5"
+			item: {
+				count: 1
+				id: "minecolonies:bell_pepper"
+			}
+		}
+		{
+			count: 8
+			id: "6DA2AE109F135A66"
+			item: {
+				count: 1
+				id: "minecolonies:cabbage"
+			}
+		}
+		{
+			count: 16
+			id: "5E29E041AA88BBCC"
+			item: {
+				count: 1
+				id: "minecolonies:durum"
+			}
+		}
+		{
+			count: 8
+			id: "0DEF8B06D50F4D58"
+			item: {
+				count: 1
+				id: "minecolonies:eggplant"
+			}
+		}
+		{
+			count: 8
+			id: "650763CFA9F83D1A"
+			item: {
+				count: 1
+				id: "minecolonies:garlic"
+			}
+		}
+		{
+			count: 8
+			id: "67F6BF7616D5AABC"
+			item: {
+				count: 1
+				id: "minecolonies:onion"
+			}
+		}
+		{
+			count: 8
+			id: "6C8DE4A0BAD58238"
+			item: {
+				count: 1
+				id: "minecolonies:tomato"
+			}
+		}
+		{
+			count: 8
+			id: "0B442B603868AA69"
+			item: {
+				count: 1
+				id: "minecolonies:rice"
+			}
+		}
+		{
+			count: 16
+			id: "1A0E084042032159"
+			item: {
+				count: 1
+				id: "minecolonies:corn"
+			}
+		}
+		{
+			count: 3
+			id: "74A7B1C5B016F0C3"
+			item: {
+				count: 1
+				id: "minecraft:honey_bottle"
+			}
+		}
+		{
+			count: 8
+			id: "130CE068C73CCA24"
+			item: {
+				count: 1
+				id: "minecolonies:large_milk_bottle"
+			}
+		}
+		{
+			count: 16
+			id: "1897D1F4A9A3B5C7"
+			item: {
+				count: 1
+				id: "minecraft:egg"
+			}
+		}
+		{
+			count: 16
+			id: "23611D2A13C0203F"
+			item: {
+				count: 1
+				id: "minecraft:sugar"
+			}
+		}
+		{
+			count: 16
+			id: "63D3EBFD7A1FAC3B"
+			item: {
+				count: 1
+				id: "minecraft:wheat"
+			}
+		}
+		{
+			count: 3
+			id: "14F2682D38AE46D2"
+			item: {
+				count: 1
+				id: "minecolonies:manchet_dough"
+			}
+		}
+		{
+			count: 3
+			id: "75F6FCB856030D2F"
+			item: {
+				count: 1
+				id: "minecolonies:muffin_dough"
+			}
+		}
+		{
+			count: 8
+			id: "77BB5C520D898D5E"
+			item: {
+				count: 1
+				id: "minecolonies:butternut_squash"
+			}
+		}
+		{
+			count: 8
+			id: "25B60A7CADA739F5"
+			item: {
+				count: 1
+				id: "minecolonies:peas"
+			}
+		}
+		{
+			count: 8
+			id: "371D5084BFAA0AD8"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 8
+			id: "0FA35D00931DD511"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+		}
+		{
+			count: 8
+			id: "432465D4BDCDE4E4"
+			item: {
+				count: 1
+				id: "minecraft:beetroot"
+			}
+		}
+		{
+			count: 8
+			id: "29C4630ECC771615"
+			item: {
+				count: 1
+				id: "minecraft:cooked_mutton"
+			}
+		}
+		{
+			count: 8
+			id: "6457D5E2DE4A183A"
+			item: {
+				count: 1
+				id: "minecraft:cooked_chicken"
+			}
+		}
+		{
+			count: 8
+			id: "4D90B9DC46C493CF"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+		}
+		{
+			count: 8
+			id: "0F7185C8E52346FC"
+			item: {
+				count: 1
+				id: "minecraft:cod"
+			}
+		}
+		{
+			count: 8
+			id: "0D6CCE28F5DF0532"
+			item: {
+				count: 1
+				id: "minecraft:cooked_salmon"
+			}
+		}
+		{
+			count: 8
+			id: "0EB9265C4617A019"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+	]
+}

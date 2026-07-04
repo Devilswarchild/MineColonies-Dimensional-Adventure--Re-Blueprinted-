@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bossessrise"
+	group: "520E04A597624BFA"
+	id: "1EC0FFDFAA78D9DE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

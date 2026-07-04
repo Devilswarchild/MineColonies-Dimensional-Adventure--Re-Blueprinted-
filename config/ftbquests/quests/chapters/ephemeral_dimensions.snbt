@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ephemeral_dimensions"
+	group: "5DF77DB923AC9901"
+	id: "25FA2945980E5DAC"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+}

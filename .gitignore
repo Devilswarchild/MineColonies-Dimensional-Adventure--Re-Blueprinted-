@@ -1,0 +1,61 @@
+## FOLDERS
+.persistent/
+armourers_workshop/
+blueprints/
+crash-reports/
+data/
+datapacks/
+debug/
+defaultconfigs/
+downloads/
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+fancymenu_data/
+immersive_paintings_cache
+journeymap/
+local/
+logs/
+moddata/
+mods/
+moonlight-global-datapacks
+patchouli_books
+resourcepacks/
+saves/
+scripts/
+shaderpacks/
+waypoints/
+
+## FILES
+.curseclient
+command_history.txt
+manifest.json
+minecraftinstance.json
+modlist.html
+options.txt
+patchouli_data.json
+servers.dat
+server.dat_old
+TrashSlotSaveState.json
+usercache.json
+usernamecache.json
+user-prefs.json
+
+## Ignore everything in config
+config/*
+
+## But keep these folders
+!config/paxi/
+!config/ftbquests/
+
+## And keep their contents
+!config/paxi/**
+!config/ftbquests/**
+*.dat_old
+
+WaypointData.dat
+
+backup/WaypointData_backup_04-03-2026_13-53-33.dat
+
+config/paxi/datapacks/arsnouveauminecoldatapack/
+
+config/paxi/datapacks/biomesoplentyminecoldatapack/
