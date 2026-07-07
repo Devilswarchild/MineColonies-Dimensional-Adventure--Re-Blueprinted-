@@ -64,3 +64,5 @@ immersive_furniture/cache/
 immersive_furniture/library/
 
 realms_persistence.json
+
+*.txt

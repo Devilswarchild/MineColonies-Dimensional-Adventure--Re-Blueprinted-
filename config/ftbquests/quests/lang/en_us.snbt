@@ -41,6 +41,7 @@
 	chapter.6F68DADFFF98AB78.title: "Railcraft Reborn"
 	chapter.70023FDA6296CC73.title: "Oh The Biomes We've Gone"
 	chapter.707B1134EC7C0B5E.title: "Occultism"
+	chapter.710A047603113A91.title: "Hexerei"
 	chapter.78145945818D171A.title: "BiblioCraft Legacy"
 	chapter.7B08C3F2DC373C04.title: "Halcyon | Data \\& Essence"
 	chapter.7D3CAD640A795A3B.title: "The Block Box"
@@ -51,6 +52,8 @@
 	chapter_group.520E04A597624BFA.title: "Adventure and RPG"
 	chapter_group.5DF77DB923AC9901.title: "Dimensions"
 	quest.00DC2BA6CFAA1F8B.quest_desc: ["Fishing loot."]
+	quest.0423D99FBFB5CB32.quest_subtitle: "Best Tool for Acquiring Sacrifical Meat!"
+	quest.0423D99FBFB5CB32.title: "Tools of the Trade: Butcher's Knife"
 	quest.0501F76E80B4BC31.quest_subtitle: "Bring your pickaxe along!"
 	quest.0501F76E80B4BC31.title: "Small underground Mazes"
 	quest.052980924E1F11B4.quest_subtitle: "These rare creatures can withstand the fall from any height, but still need to be taken care off well."
@@ -89,6 +92,12 @@
 	quest.0FFF3856AE0806F6.title: "Better than a sword!"
 	quest.100CF061D413A567.quest_subtitle: "Grab yourself some sunscreen, live a healthy lifestyle!"
 	quest.100CF061D413A567.title: "Prepare adequately"
+	quest.103F99D9C4385248.quest_desc: [
+		"With your Foliot Crusher successfully bound to the material plane, you can now &mexploit&r utilize its brute processing strength to pulverize high-density compounds."
+		""
+		"Your next logistical milestone requires feeding the spirit raw quantities of &eEnd Stone&r, &9Obsidian&r, and &7Calcite&r. The entity will rapidly grind these dense materials into specialized, hyper-purified dusts—vital alchemical components absolutely required to forge your next tier of ritual chalks."
+	]
+	quest.103F99D9C4385248.title: "&aRefining the Medium"
 	quest.1278DBA393B22F10.quest_desc: ["Found in large ice caves."]
 	quest.1278DBA393B22F10.title: "Slay an Alpha Yeti"
 	quest.12E5DD67806388F3.quest_subtitle: "Combine with Glowstone for the ultimate builder experience"
@@ -104,7 +113,30 @@
 	quest.17452A76067CC6C0.quest_desc: ["Found in Mineshafts."]
 	quest.1808E988F815E641.quest_subtitle: "Highly resistant clouds"
 	quest.1808E988F815E641.title: "New Building Materials!"
+	quest.19047AF0EDED198B.quest_desc: [
+		"No ritual matrix is complete without a proper &cSacrifice&r to appease the entities waiting on the other side."
+		""
+		"Fortunately, lower-tier spirits generally only demand physical catalysts rather than living blood, meaning your livestock is safe for now. You will utilize &aSacrificial Bowls&r to hold these necessary material offerings. "
+		""
+		"These pedestals can be placed freely around your ritual area, provided they do not obstruct or sit directly on top of the chalk glyphs forming the outer circles."
+		""
+		"While your current ceremonies only demand a cluster of four bowls, advanced rituals deeper in the tech tree will require upwards of ten peripheral bowls to feed the matrix."
+		""
+		"The central anchor of your setup is the &6Golden Ritual Bowl&r. Positioned directly in the geographic center of your pentacle, this block is used to initiate the ritual, and is almost always the vessel where your prepared Book of Binding must be placed to spark the summoning process."
+	]
+	quest.19047AF0EDED198B.title: "&4Blood&r and &6Offerings"
 	quest.19689F3D7477D89D.quest_desc: ["Found in Pillager Outposts,"]
+	quest.1984ECEC68F48221.quest_desc: [
+		"While transmuting resources via &dSpiritfire&r is highly efficient, you can also deploy specialized &9Divination Rods&r to survey and extract raw, hidden deposits directly from the environment."
+		""
+		"efore scanning, the instrument must be properly calibrated. To attune the rod, simply right-click an overworld block that corresponds to the target material you wish to hunt. For instance, right-clicking standard &aAndesite&r will program the rod's frequencies to detect underground veins of hidden &8Otherstone&r."
+		""
+		"Once attuned, holding right-click with the rod will project a continuous stream of resonance particles, pointing directly toward the geometric coordinates of the nearest matching node."
+		""
+		"Note that while the rod handles the physical location tracking, it does not bypass the planar barrier. You must still be under the active status effects of the &3Third Eye&r to pierce the illusion and successfully harvest the revealed blocks."
+	]
+	quest.1984ECEC68F48221.quest_subtitle: "Hunting for Materials"
+	quest.1984ECEC68F48221.title: "Holy Tools"
 	quest.19D85E1B63ADFF34.quest_desc: [
 		"Step 1: Supply Camp/Supply Ship"
 		""
@@ -126,6 +158,21 @@
 	quest.1C9032F0B333E605.title: "New Iron?"
 	quest.1CF790252F0F1A77.quest_subtitle: "You've obtained temporal control over the aether, congrats!"
 	quest.1CF790252F0F1A77.title: "The Final Block"
+	quest.1E8AEFFA2E43CAFC.quest_desc: [
+		"Your structural offerings are not strictly limited to basic stone; you can also manufacture &cCopper Sacrificial Bowls&r and &cSilver Sacrificial Bowls&r to line your pentacle perimeters."
+		""
+		"While these metallic tiers are entirely cosmetic and introduce zero functional modifications to your ritual speed or material efficiency, they provide a significantly more polished, high-tier architectural aesthetic for an established automation laboratory."
+	]
+	quest.1E8AEFFA2E43CAFC.title: "Aesthetic Realignment"
+	quest.1F70366D737E9FBC.quest_desc: [
+		"You will find a cross-mod bridge from Ars Nouveau resting within this tech branch, made possible by the integration features of Ars Occultas. This bridge allows your summoned entities—such as the &aFoliot Crusher&r—to be securely housed inside these containment jars."
+		""
+		"Once an entity is sealed inside, you can pipe raw materials directly into the jar's input matrix. The resident spirit will instantly process the items and automatically export the finished products into any directly adjacent inventory."
+		""
+		"When configuring your logistics lines, note that utilizing the bottom face of the jar provides the most consistent and reliable automation export connection. Be aware that if no valid storage container or pipe interface is detected on an adjacent face, the spirit will simply drop the processed items directly into the world as loose entities."
+	]
+	quest.1F70366D737E9FBC.quest_subtitle: "Imprisoning lesser entities to serve as infinite, power-free factory workers."
+	quest.1F70366D737E9FBC.title: "Arcane Isolation: &aContainment Jars&r"
 	quest.2009CB12D69BCED8.quest_subtitle: "Meet the majestic ruler of the clouds, the untouchable aerwhale!"
 	quest.202C506FA06B4E39.quest_desc: ["Buy it from a master cleric."]
 	quest.204D53D25ECC3882.quest_subtitle: "This ice powered machine can automate the freezing process and even adds some new items"
@@ -137,6 +184,16 @@
 	quest.247AD8A7F03FC0B1.title: "Pillars"
 	quest.2615A9F7168A46CD.quest_subtitle: "Craft and sacrifice a piece of each of these new equipments to unlock further guidance"
 	quest.2615A9F7168A46CD.title: "A whole new Inventory?"
+	quest.26FDEE21CE8BBD6C.quest_desc: [
+		"The denizens of the Otherworld demand a proper atmosphere, and almost every ritual requires the soft glow of candlelight to anchor the entities to our realm.To harvest the raw materials, craft a &aButcher Knife&r and slay livestock—such as pigs, cows, sheep, horses, or wandering trader llamas—to extract their &aTallow&r for candle crafting. "
+		""
+		"Alternatively, standard vanilla candles can serve as an acceptable substitute if you prefer to bypass the slaughter. &mJust don't ask what the wandering trader thinks about your resource gathering.&r"
+		""
+		"In addition to lighting, the ambient energy must be focused. "
+		""
+		"&9Spirit Attuned Crystals&r act as vital focal points for several upcoming advanced rituals, making it wise to secure a steady supply of them immediately."
+	]
+	quest.26FDEE21CE8BBD6C.title: "Preparing for a Ritual: &aCandles"
 	quest.2742EF745632141A.quest_subtitle: "Discover a handful of useful accessories, and new inventory slots for them, hidden behind a cloud"
 	quest.2742EF745632141A.title: "New Trinkets"
 	quest.295DA5B88AC567AE.quest_desc: [""]
@@ -159,6 +216,16 @@
 		""
 		"Stone and ores are another major need for any colony, so a Mine is the next logical step."
 	]
+	quest.34D15631537C26AE.quest_desc: [
+		"Consuming &cDemon's Dream Fruit&r is completely safe for mortal consumption, though you must prepare for its distinct metaphysical side effects."
+		""
+		"Consuming &cDemon's Dream Fruit&r is completely safe for mortal consumption, though you must prepare for its distinct metaphysical side effects."
+		""
+		"Ingesting the crop temporarily grants you the &3Third Eye&r status effect, piercing the veil of reality to reveal hidden geometry within &9The Otherworld&r. While active, your heightened vision will expose secret resources disguised as standard blocks—such as uncovering hidden groves and mineral deposits necessary for your early progression."
+		""
+		"Alternatively, you can bypass this manual foraging process entirely. Igniting the fruit inside a dedicated brazier or casting it into a fire source will trigger an immediate alchemical reaction, allowing you to bypass the need for direct sensory sight to gather these materials. The choice of methodology is entirely yours."
+	]
+	quest.34D15631537C26AE.title: "&cDemons Tasty Fruit"
 	quest.34E8AE9BB4D37DA7.quest_desc: ["Get it by killing an Elder Guardian."]
 	quest.36C2BEA4A039BE75.quest_desc: ["Eat an Experiment 115."]
 	quest.36C2BEA4A039BE75.title: "Mystery Meat?"
@@ -169,6 +236,24 @@
 	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
 	quest.3C4B6468B14C039E.title: "Buckets made easy"
 	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
+	quest.403271A8740E9141.quest_desc: [
+		"The volatile oils within &cDemon's Dream Fruit&r possess highly exotic, flammable properties."
+		""
+		"Casting the crop onto the ground and igniting it with a flint and steel will manifest a localized patch of &dSpiritfire&r. This stable, ethereal flame acts as your primary alchemical catalyst, stripping away earthly illusions to transform mundane overworld items into true &9Otherworld&r components."
+		""
+		"The resulting purple fire emits no heat to the surrounding environment, serving as a visually striking, permanent focal point for your automation room."
+	]
+	quest.403271A8740E9141.title: "&9The Otherworldly&r Flames"
+	quest.403A4FCD9ECB1282.quest_desc: [
+		"Scaling the resource capacity of your sub-spatial storage network requires anchoring specialized &dStorage Stabilizers&r to your central matrix."
+		""
+		"To initialize the connection, these stabilizing pylons must face and point directly at the floating Dimensional Matrix core hovering above your Storage Actuator, rather than the mechanical base block itself. The stabilizers can be positioned up to a maximum distance of 5 blocks away, but they require a completely unobstructed, clear line of sight to the matrix core to sustain the field."
+		""
+		"When upgrading your network to a higher-tier stabilizer, breaking an active pylon will not destroy or drop your stored commodities. However, removing a stabilizer instantly downscales your total slot allowance; you will be completely locked out from depositing any new materials into the system until a valid stabilizing field is restored or upgraded."
+		""
+		"Refer to the visual schematic below for an example of a validated spatial configuration."
+	]
+	quest.403A4FCD9ECB1282.title: "Matrix Expansion: &dStorage Stabilizers&r"
 	quest.406737E4C4072AB9.title: "Slay a Naga"
 	quest.41B4C7B9D3AE6317.quest_desc: ["Craft it using a witch's pupil"]
 	quest.4204538C06CA4F3A.quest_subtitle: "It seems the skyroot bucket can be used to harvest a poison like substance from those small poisonous plants, to achieve a similar effect to a cockatrice attack"
@@ -186,7 +271,37 @@
 	quest.4A08245126368C0C.title: "One Hit Wonder"
 	quest.4B7870B5DBF67428.quest_desc: ["Found in Igloos."]
 	quest.4B9C8C7BAB6C36AF.quest_desc: ["Craft it using an Undead Soul."]
+	quest.4BD97F45798CD89C.quest_desc: [
+		"Welcome to the arcane arts of &dOccultism&r."
+		""
+		"This branch of progression relies on breaching the planar veil to harness the labor of otherworldly &c&mDemons&r &bSpirits&r. These extra-dimensional entities will serve as the backbone of your automated processing networks, performing tireless labor for your factory line. Do not fear their origins; they are perfectly compliant under contractual binding. &oUsually&r."
+		""
+		"To open your gateway into this discipline, you must harvest raw &aDemon's Dream Seeds&r. Scour the landscape and clear away standard wild grass patches until you uncover a cache of these exotic seeds."
+	]
+	quest.4BD97F45798CD89C.quest_subtitle: "Step of Beginnings"
+	quest.4BD97F45798CD89C.title: "&cDemons&r are &dDreaming"
 	quest.4C1A96E1E8A233BA.quest_desc: ["Fishing loot."]
+	quest.4C46EF35796A9833.quest_desc: [
+		"This codex serves as your primary intelligence briefing on &dRituals&r. Understanding the core classifications is vital before constructing your first containment zones."
+		""
+		"&lTiers of Rituals&r"
+		""
+		"Ceremonies are categorized into four primary tiers, dictated by the raw power and instability of the entity you are invoking. Progression scales upward from lesser &eFoliot&r spirits, advancing through &aDjini&r, &cAfrit&r, and culminating in the highly volatile &9Marid&r tier. Highly specialized intermediate tiers—such as the &6Unbound Afrit&r tier—exist for anomalous entities."
+		""
+		"&lTypes of Rituals&r"
+		""
+		"While five distinct disciplines exist, your factory progression strictly relies on four. The core methodologies consist of &9Summoning Rituals&r, &5Possession Rituals&r, and &6Infusion Rituals&r, each detailed extensively upon their introduction. The fourth variant comprises &dDemon-less Rituals&r—hybrid matrices that draw upon elements of all three core paths to trigger localized alchemical reactions without binding a physical entity."
+		""
+		"The final discipline, &eFamiliar Rituals&r, is entirely optional for logistical progression but remains highly valuable if you wish to manifest specialized utility entities to secure unique passive buffs."
+		""
+		"&lChalks&r"
+		""
+		"Arcane chalks are divided into two operational classes: Foundation Chalks and Colored Chalks."
+		""
+		"Foundation variants act as the structural anchors required for every single geometric pentacle. Their tier correlates directly to their density and color, darkening sequentially as you advance from basic &l&f&lWhite&r&r&r Chalk up to midnight &0&lBlack&r&r Chalk."
+		""
+		"Conversely, &cC&r&6o&r&el&r&ao&r&9r&r&5e&r&dd&r Chalks act as the secondary modifiers that program the ritual's exact parameters. Unlike foundations, a colored chalk's pigment indicates its specific alchemical function rather than a strict power tier."
+	]
 	quest.51641B23C6AED9DC.quest_subtitle: "Craft yourself a makeshift parachute out of clouds"
 	quest.51641B23C6AED9DC.title: "Parachutes!"
 	quest.517977BB9C67C6FC.quest_desc: ["Found in Piglin Bastion treasure chests."]
@@ -195,6 +310,14 @@
 	quest.564E530B7D181364.quest_subtitle: "Many challenges and just as much loot is waiting for the brave explorer"
 	quest.564E530B7D181364.title: "Discover the Ancient Temple of the Valkyries!"
 	quest.579A707576F931C8.quest_desc: ["Eat 115 pieces of Experiment 115. But why stop there? Why ever stop?"]
+	quest.5A79137D9EA9EFC0.quest_desc: [
+		"Managing mass-resource generation lines demands a sophisticated logistical backbone. If you have not yet established a digitized inventory network, anchoring your logistics to a &dDimensional Storage&r network is highly recommended."
+		""
+		"To initialize this system, you must construct and place a &dDimensional Storage Actuator&r. This device serves as the core master anchor for your pocket dimension. The block retains its internal memory layout when broken, allowing you to relocate the entire physical block without losing any of your stored commodities."
+		""
+		"By default, the matrix provides 128 unique inventory slots, with each slot capable of compressing and holding up to 16 full stacks of a single item. However, note that items containing unique &5NBT&r data are completely incompatible with this compression logic. Tools, armor, and modified components will not stack and will consume an entire slot by themselves, making it vital to filter these items out of your automated input pipelines."
+	]
+	quest.5A79137D9EA9EFC0.title: "The Planar Matrix: &dDimensional Storage&r"
 	quest.5AC42BFB6EFAF258.quest_subtitle: "Craft yourself an altar, a multifunctional enchanting and repairing device"
 	quest.5AC42BFB6EFAF258.title: "Altar to whom?"
 	quest.5ACCF56D41A5CC27.quest_desc: [
@@ -205,8 +328,28 @@
 		"The Portal Room is located right after the final puzzle. In order to activate the portal, you need to find 11 eyes and to craft the powered core. "
 	]
 	quest.5ACCF56D41A5CC27.title: "Use 12 eyes to visit the End"
+	quest.5C776EA056A14C57.quest_desc: [
+		"Before you can begin shackling entities to your automated factory lines, you must manufacture the fundamental medium of all occult geometry: &aChalk&r."
+		""
+		"Advanced blueprints demand multiple colors of chalk to complete their intricate grids. To begin your arcane progression, &bWhite Chalk&r serves as the base layer."
+		""
+		"Your first step requires smelting Otherstone within a standard furnace to produce burnt variants, alongside throwing raw Otherworld Logs into the cleansing flames of a &dSpiritfire&r matrix. Combining these resulting components allows you to forge Impure White Chalk."
+		""
+		"To refine the medium, toss the impure chalk directly back into the &dSpiritfire&r to cleanse it of earthly impurities. Left-clicking the ground with your purified tool will transcribe the required &mdemonic&r runic glyphs into the world. Because these etched symbols are notoriously tedious to scrub away by hand, it is highly recommended to craft a specialized &aChalk Brush&r to easily wipe the floor clean when re-configuring your ritual rooms."
+	]
+	quest.5C776EA056A14C57.title: "Preparing for a Ritual: &eChalk"
 	quest.5D1F4B6E9CED99E7.quest_desc: ["Once you have located a swamp, go the the centre and you will find a mostly buried maze containing the Minoshroom boss."]
 	quest.5D1F4B6E9CED99E7.title: "Slay a Minoshroom"
+	quest.5D5C73EE97599674.quest_desc: [
+		"To dictate exactly which extra-dimensional entity you pull across the veil, you must craft a designated &bBook of Binding&r tailored to that tier of spirit."
+		""
+		"The process requires casting standard black dye into the cleansing flames of a &dSpiritfire&r matrix to yield Purified Ink. Using this specialized pigment, you can construct your first Book of Binding to securely shackle a lesser &aFoliot&r class entity to your bidding."
+		""
+		"Alternatively, you may craft an Empty Book of Binding. This blank ledger serves as a generic template that can be dyed at a later date to match whatever ritual tier your factory demands."
+		""
+		"To finalize the attunement, ensure you have your target entity's specific page material ready. Fulfilling the ritual without a properly matching ledger will cause the summoning matrix to destabilize, wasting your hard-earned chalk charges and sacrificial materials."
+	]
+	quest.5D5C73EE97599674.title: "&bBooks of &dBinding"
 	quest.5D7B2EFAB7E59856.quest_desc: ["Throw a diamond into a 2x2 pool of water surrounded by poppies/dandelions"]
 	quest.6148DA91475AF128.quest_desc: [""]
 	quest.61A4D6C2B0B4786D.quest_desc: ["Find a stronghold in the Dark Forest biome, then place a boss trophy on the pedestal to access it. Then locate the room with the Knight Phantoms."]
@@ -214,11 +357,43 @@
 	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
 	quest.632BFEC0E8AF7126.quest_desc: ["Have a full block of Experiment 115 with Redstone sprinkles."]
 	quest.632BFEC0E8AF7126.title: "Making a note: Huge Success!"
+	quest.64A6C2A397051CFA.quest_desc: [
+		"The gateway to this mod begins with the &9Summoning Ritual&r. These dark ceremonies allow you to pull helpful extra-dimensional entities across the veil, securing loyal thralls to automate your resource crushing, smelting, and advanced processing as your power grows."
+		""
+		"Your initial target is a &aFoliot Crusher&r. This lesser spirit will serve as your automated ore pulverizer, generating the specific crushed dusts required to forge higher-tier ritual chalks."
+		""
+		"To begin, drop your Unbound Book and your &aDictionary of Spirits&r into any crafting grid. This process binds a native entity to the pages, preparing the vessel required for the upcoming ritual."
+		""
+		"Next, consult your &aDictionary of Spirits&r directly. Navigate to the &dPentacles&r tab on the left sidebar and select the blueprint for &bAviar's Circle&r. If the schematic is hidden, browse through the introductory lore pages or click \"Mark All As Read\" to instantly unlock the full catalog of blueprints."
+		""
+		"This specific geometric pattern is the key to summoning your new minion. While viewing the blueprint, click the eye icon in the bottom-left corner of the page to project a holographic overlay directly into the world, guiding your block placement."
+		""
+		"After constructing the foundation, place at least 4 Sacrificial Bowls anywhere within an 8-block horizontal radius of your central Golden Sacrificial Bowl. Deposit the required catalysts into the standard bowls, then right-click the central Golden Bowl with your Bound Book to ignite the summoning circle."
+		""
+		"This is what it should look like before you acttually start the ritual."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/aviarcircle.png width:200 height:200 align:center}"
+	]
+	quest.64A6C2A397051CFA.quest_subtitle: "Aviar's Circle"
+	quest.64A6C2A397051CFA.title: "&bFirst &dRitual"
 	quest.64D73FF43C7D5AB9.quest_desc: ["Go back to the Troll Cave, locate the large obsidian vault and mine inside with the giant pickaxe to obtain the Lamp of Cinders."]
 	quest.662922793C0ED6E0.quest_desc: ["Obtain all different wood, leaf, or natural block and their variants from the Twilight Forest mod!"]
 	quest.662922793C0ED6E0.title: "Maniacal Dendrologist"
 	quest.67F454DF06908583.quest_subtitle: "You should try feeding this to animals"
 	quest.67F454DF06908583.title: "Purple Shooty Plant"
+	quest.681FB9758B02412D.quest_desc: [
+		"Utilizing &dSpiritfire&r allows you to bypass manual exploration by directly transmuting mundane overworld resources into their ethereal counterparts. While you can harvest these items naturally in the wild under the sensory influence of the &bThird Eye&r, utilizing the flame matrix provides a much more direct, automatable path for your early logistics."
+		""
+		"Tossing standard &bAndesite&r into the flames converts it into &3Otherstone&r, an inorganic material that serves as a permanent, non-consuming hearth block when ignited with &dSpiritfire&r."
+		""
+		"Casting an &aOak Sapling&r into the matrix yields an Otherworld variant. Once planted and matured, this tree appears identical to standard oak to the untrained eye. However, breaking its bark while under the active status effects of the &bThird Eye&r allows you to harvest its true form."
+		""
+		"&o(Note: If the harvested wood accidentally reverts to standard oak logs, a known physical limitation requires you to harvest the tree's canopy from the top downward to secure the drop.)&r"
+		""
+		"Finally, dropping pristine &eDiamonds&r into the pyre converts them into &dSpirit Attuned Gems&r, a vital structural component for almost every advanced mechanism and ritual foundation in your upcoming progression."
+	]
+	quest.681FB9758B02412D.title: "Holy &dSpiritfire&r Batman!!"
 	quest.68640EC6825C9746.quest_subtitle: "Tools made of this diamond level equivalent of the skies have an odd effect when  used on other blocks"
 	quest.68640EC6825C9746.title: "This is not Diamond!"
 	quest.68741956F948EAE3.quest_desc: ["It appears as though nature has adjusted well to this new climate, pigs and cows grew wings, sheep can float thru the skies. This berry bush seems to be a major source of food."]
@@ -277,11 +452,35 @@
 		""
 		"Hint: If you’re not able to place the Supply Camp/Ship, try it block by block: one to the right, left, closer or further from the area you cleared. The area cannot contain any holes or have any flowers, grass, ferns, seaweed, coral etc."
 	]
+	quest.788138E50FC2E340.quest_desc: [
+		"The &aDictionary Of Spirits&r serves as the foundational codex for &dOccultism&r. Constructing this grimoire is a strict requirement if you intend to advance through any branch of this arcane discipline."
+		""
+		"While this chapter provides your primary automation roadmap, the physical dictionary contains its own comprehensive, internal reference entries detailing precise geometric schematics, entity behaviors, and advanced lore."
+		""
+		"Beyond serving as an informative reference guide, the book itself functions as a critical material component in numerous advanced crafting recipes throughout the modpack, making its immediate fabrication mandatory for your logistical progression."
+	]
+	quest.788138E50FC2E340.title: "Book of &cDeeeemonsssss"
 	quest.79AF484CC3F00727.quest_desc: [
 		"Step 8: Warehouse and courier"
 		""
 		"At this point, you might be tired of bringing all of the resources to the Builder and taking them from the Fisher, Forester, Miner, etc. You also might want to store items in one place. Well, the Warehouse and Courier’s Hut are the solution you are looking for! Courier transport items between the Warehouse and all of the workplaces. The Clipboard and Resource Scroll may be helpful!"
 	]
+	quest.7A3D002083346C50.quest_desc: [
+		"Before expanding your operations deeper into &dOccultism&r, you must understand how structural geometric multi-blocks scale. Advanced pentacles are explicitly designed to build directly upon the layout foundations of their predecessors."
+		""
+		"This backward-compatible blueprint architecture means you do not need to construct separate, individual structures for every single tier of a specific discipline. A single, high-tier summoning circle can seamlessly handle lower-tier actions as well. For example, the advanced &9Fatma's Incentivized Attraction&r layout natively incorporates the footprint of all previous &aFoliot&r and &aDjini&r summoning matrices."
+		""
+		"To optimize your base layout for future upgrades without needing to constantly tear down walls, it is highly recommended to dedicate four distinct 19x19 floor grids early on. Assign one perimeter block for Summoning, one for Infusion, one for Possession, and a final zone for miscellaneous (Wild and Eldritch) rituals."
+	]
+	quest.7A3D002083346C50.title: "Geometric Foundations: &dPentacles&r"
+	quest.7A4D535DC0EDFDA8.quest_desc: [
+		"Extending your logistical reach beyond your central storage laboratory requires a dedicated sub-spatial data link. You can establish remote access to your active network using either a physical &eStable Wormhole&r terminal or a portable &aStorage Accessor&r remote."
+		""
+		"To calibrate a &eStable Wormhole&r, shift-right-click your central &dStorage Actuator&r block to lock the terminal's frequency matrix. Once synced, you can deploy the Wormhole block anywhere else in your base to serve as an identical, instantly synchronized physical access terminal."
+		""
+		"Conversely, the hand-held &aStorage Accessor&r operates as a wireless remote control using the exact same shift-linking mechanic. This mobile interface bypasses traditional physical constraints, allowing you to access, store, and request resources from your network even when exploring entirely separate dimensions."
+	]
+	quest.7A4D535DC0EDFDA8.title: "Wireless Network Access"
 	quest.7A6D9E7DAD77F895.quest_desc: ["Craft it using aquatic items."]
 	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
 	quest.7C9CB235D52BFE01.quest_desc: ["This place seems to have it's own set of tools, although your current ones should still do their job, somewhat."]
@@ -290,17 +489,32 @@
 	quest.7CDA9D29A9BC04B1.title: "Find a Snowy Forest"
 	quest.7E010951FA8E6F84.quest_subtitle: "Obtain ALL the fabled rare moa eggs!"
 	quest.7E010951FA8E6F84.title: "The ultimate challenge"
+	quest.7FC7DC38E9E5741E.quest_desc: [
+		"The utility of these extra-dimensional entities extends far beyond mere ore pulverization."
+		""
+		"The mod features a robust array of specialized spirits capable of managing entire automated logistical networks—including dedicated transportation thralls to transfer items between containers, tireless lumberjacks to clear timber grids, and precise sorting agents."
+		""
+		""
+		"Additionally, you can channel your resources into manifesting &dFamiliars&r. These minor helper entities follow you throughout your journey, providing powerful passive stat buffs, carrying mobile storage inventories, or actively engaging hostile entities in combat. Consult the dedicated &dFamiliar Rituals&r tab inside your guidebook to evaluate the unique mechanical traits of each available companion."
+	]
+	quest.7FC7DC38E9E5741E.title: "My &dFamiliars&r"
+	task.06455C9720302986.title: "Golden Bowls"
 	task.09CBB1D374F27884.title: "I See Right Through You"
 	task.0A5D393BF4628A53.title: "Observe pure beauty"
+	task.11D8F96BD720CDC0.title: "Any #minecraft:candles"
 	task.165DEF7A8EC9A122.title: "Enter the Highlands"
 	task.1870FC2AF136D3AB.title: "Visit Paradise!"
 	task.1C9659F96CDACE8D.title: "Discover a new breed of rabbits!"
 	task.1D8248B223CFA61C.title: "Find a Glacier"
+	task.27421DAF862375BC.title: "Ritual Basics"
+	task.30DCA9D5C68655B5.title: "Sacrificial Bowls"
 	task.397024741F3D12FC.title: "Enter the Final Castle!"
 	task.44C6E1CBAF1BC2EA.title: "Obtain an Aquaculture fishing rod"
 	task.49D3731749F20427.title: "Eating 115 Everyday, 115 Years"
 	task.4DE08737E4AB6BFF.title: "Wiki link"
 	task.5C41759A5534BAB0.title: "Find the Fire Swamp"
 	task.67D6D0EE816F87A6.title: "Slay the Snow Queen"
+	task.6FDE41B84EA1BDDC.title: "My Familiars"
+	task.7AE1910B7DBC4CA7.title: "Storage Stabilizers"
 	task.7C65148396BB7D72.title: "Slay a Hydra"
 }
