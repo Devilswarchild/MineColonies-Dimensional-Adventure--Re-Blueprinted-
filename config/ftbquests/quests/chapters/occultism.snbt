@@ -24,7 +24,7 @@
 		{
 			color: 16755200
 			height: 4.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram_3.png"
+			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			order: -1
 			rotation: 0.0d
 			width: 4.0d
@@ -33,21 +33,39 @@
 		}
 		{
 			color: 5635925
-			height: 2.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram_3.png"
+			height: 3.0d
+			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			rotation: 0.0d
-			width: 2.0d
+			width: 3.0d
 			x: -6.0d
 			y: 17.65d
 		}
 		{
 			color: 16733525
-			height: 2.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram_3.png"
+			height: 3.0d
+			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			rotation: 0.0d
-			width: 2.0d
+			width: 3.0d
 			x: -6.0d
 			y: 20.5d
+		}
+		{
+			color: 5592575
+			height: 3.0d
+			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			color: 3477759
+			height: 3.0d
+			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 37.0d
+			y: 14.0d
 		}
 	]
 	order_index: 8
@@ -976,10 +994,7 @@
 			y: 16.5d
 		}
 		{
-			dependencies: [
-				"2FE6737D0DF28142"
-				"2D7161D9084B377B"
-			]
+			dependencies: ["2D7161D9084B377B"]
 			icon: {
 				id: "occultism:chalk_pink_impure"
 			}
@@ -1116,6 +1131,7 @@
 		}
 		{
 			dependencies: ["41EDEF510157A6F8"]
+			hide_dependent_lines: true
 			id: "71EE6E6BA4C564FE"
 			rewards: [{
 				id: "69ECE53C77BB0D21"
@@ -1348,8 +1364,8 @@
 		}
 		{
 			dependencies: [
-				"54468ED84F34EEFE"
 				"0A5AE5ADB477805C"
+				"2FE6737D0DF28142"
 			]
 			icon: {
 				id: "occultism:chalk_light_blue_impure"
@@ -1568,6 +1584,77 @@
 			]
 			x: 33.5d
 			y: 16.5d
+		}
+		{
+			dependencies: ["72E3BA59807C4464"]
+			id: "0594025A747665CF"
+			tasks: [{
+				id: "493D26ABA3F394FD"
+				item: { count: 1, id: "occultism:trinity_gem" }
+				type: "item"
+			}]
+			x: 37.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"0594025A747665CF"
+				"10B6FDA1362E3C52"
+				"05252B9E55232054"
+				"403A4FCD9ECB1282"
+			]
+			hide_details_until_startable: true
+			id: "05369F8F4DF5A5BA"
+			min_width: 300
+			shape: "rsquare"
+			size: 2.5d
+			tasks: [{
+				id: "08346C479E2B4584"
+				type: "checkmark"
+			}]
+			x: 43.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["72E3BA59807C4464"]
+			id: "21FF14E8B61F515F"
+			rewards: [{
+				id: "03C9D15166C44458"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "459F802EB52F6C81"
+				item: { count: 1, id: "occultism:chalk_rainbow" }
+				type: "item"
+			}]
+			x: 36.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["21FF14E8B61F515F"]
+			id: "10B6FDA1362E3C52"
+			tasks: [{
+				id: "4E91F7C2EB46C52A"
+				item: { count: 1, id: "occultism:chalk_void" }
+				type: "item"
+			}]
+			x: 39.0d
+			y: 16.5d
+		}
+		{
+			dependencies: [
+				"71EE6E6BA4C564FE"
+				"72E3BA59807C4464"
+			]
+			id: "05252B9E55232054"
+			tasks: [{
+				id: "2AD4F4CB819E930D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:celestial_chalice)item(occultism:eldritch_chalice))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 37.0d
+			y: 19.5d
 		}
 	]
 }

@@ -67,12 +67,45 @@
 	quest.0423D99FBFB5CB32.title: "Tools of the Trade: Butcher's Knife"
 	quest.0501F76E80B4BC31.quest_subtitle: "Bring your pickaxe along!"
 	quest.0501F76E80B4BC31.title: "Small underground Mazes"
+	quest.05252B9E55232054.quest_desc: [
+		"Utilizing the ultimate planar frequencies of &dRonaza's Contact&r, you can subject an existing &bIesnium Sacrificial Bowl&r to extreme extra-dimensional compression, permanently transmuting the block into the Eldritch Chalice."
+		""
+		"Installing this pinnacle artifact at the absolute geometric center of any pentacle completely shatters the baseline speed limits of occult geometry. The device acts as an immediate sub-spatial gateway, forcing the local fabric of reality to bypass traditional casting intervals and dimensional tearing delays entirely."
+		""
+		"Once active, every ceremony, summoning matrix, and material infusion initiated within the runic perimeter will complete instantly. Runic calculations, offering consumption, and entity manifestation happen in a single computational tick—allowing your facility to establish maximum-efficiency, hands-free automation loops with zero operational downtime."
+	]
+	quest.05252B9E55232054.quest_subtitle: "Eliminating dimensional tearing latency through supreme sub-spatial channels."
+	quest.05252B9E55232054.title: "Instantaneous Breach: The Eldritch Chalice"
 	quest.052980924E1F11B4.quest_subtitle: "These rare creatures can withstand the fall from any height, but still need to be taken care off well."
+	quest.05369F8F4DF5A5BA.quest_desc: [
+		"Reaching this milestone marks the complete assembly of your extra-dimensional manufacturing toolkit. While your structured progression path through this chapter is finalized, your integration of these arcane sciences is only just beginning."
+		""
+		"To transition your temporary workshop into a permanent, automated industrial center, consider prioritizing the following facility optimizations:"
+		""
+		"&l&o&nComprehensive Schematic Audit&r: Consult your &6Dictionary of Spirits&r to review the full, unrestricted catalog of unlisted auxiliary recipes, niche transmutes, and utility constructs to discover new material optimization routes for your factory floor."
+		""
+		"&l&o&nDedicated Perimeter Zoning&r: If you are still operating out of a temporary layout, finalize your infrastructure by constructing three separate, heavily decorated 19x19 ritual zones. Separating your Summoning, Possession, and Infusion matrices permanently prevents block overlap errors and streamlines your automation pipeline."
+		""
+		"&l&o&nCross-Mod Logistics Hookups&r: Link your newly manufactured endgame assets—such as the high-output crushing circuits and infinite miners—directly into your centralized storage and automated crafting networks to completely eliminate all remaining resource bottlenecks."
+		""
+		"The veil has been thoroughly shattered, and the laws of the Otherworld are entirely yours to dictate."
+	]
+	quest.05369F8F4DF5A5BA.quest_subtitle: "Maximizing the full operational potential of your established occult network."
+	quest.05369F8F4DF5A5BA.title: "Absolute Mastery: The Path Forward"
 	quest.05839D9537FA2FDD.quest_desc: [
 		"Step 4: Tavern"
 		""
 		"Your colonists will need a place to sleep and a house, so it is recommended to build a Tavern next. The Tavern also allows visitors to come to your colony, and you can recruit them to stay as citizens."
 	]
+	quest.0594025A747665CF.quest_desc: [
+		"Utilizing the ultimate cosmic frequencies of &dRonaza's Contact&r, you can permanently restructure your standard containment equipment, upgrading a base Soul Gem into a pristine Trinity Gem.This elite apparatus represents the absolute zenith of biological capture technology, featuring an overhauled resonance grid that significantly expands your logistical capabilities:"
+		""
+		"&l&o&nMassive Variable Capture&r: The device easily overpowers and siphons high-density, large-scale entities that completely resist lower-tier containment cells—allowing you to easily transport massive livestock, elite monstrous guards, and high-health sacrificial catalysts across dimensions."
+		""
+		"&l&o&nPlanar Boundaries&r: Note that while the gem's energetic fields are drastically amplified, they are still bound by universal reality constants. The matrix is incapable of fully compressing supreme world anomalies, meaning it cannot contain or shackle catastrophic regional bosses."
+	]
+	quest.0594025A747665CF.quest_subtitle: "Expanding biological capture matrices to absorb massive extra-dimensional targets."
+	quest.0594025A747665CF.title: "Pinnacle Containment: The Trinity Gem"
 	quest.05FFFD19E6761FD9.quest_desc: ["Have a small chance to get it when enchanting."]
 	quest.08FCBB3A1B289757.quest_desc: ["Dropped by The Wither."]
 	quest.0A5AE5ADB477805C.quest_desc: [
@@ -125,6 +158,15 @@
 		"Your next logistical milestone requires feeding the spirit raw quantities of &eEnd Stone&r, &9Obsidian&r, and &7Calcite&r. The entity will rapidly grind these dense materials into specialized, hyper-purified dusts—vital alchemical components absolutely required to forge your next tier of ritual chalks."
 	]
 	quest.103F99D9C4385248.title: "&aRefining the Medium"
+	quest.10B6FDA1362E3C52.quest_desc: [
+		"This advanced tool serves as the ultimate functional upgrade to the Rainbow Chalk, engineered specifically for facility designers who prefer a pristine, unified laboratory environment over rapid, flashing color loops."
+		""
+		"The apparatus retains the exact same master-tier utility as its rainbow counterpart, but completely dampens the chaotic visual shifts. When drawn onto the floor, every single runic glyph manifests as a clean, uniform white engraving—allowing you to maintain a highly polished, cohesive aesthetic across your entire ritual floor without sacrificing an ounce of performance."
+		""
+		"Beyond the cosmetic refinement, this tool introduces a critical structural upgrade. While the previous rainbow model was strictly limited to colored modifiers, this advanced matrix successfully incorporates monochrome compression logic. This means a single tool now seamlessly mimics both color parameters and every tier of Foundation Chalk (from White up to midnight Black Chalk)—effectively consolidating your entire occult scribing inventory into one singular, infinite-durability instrument."
+	]
+	quest.10B6FDA1362E3C52.quest_subtitle: "Consolidating the full structural spectrum into a clean, unyielding visual layout."
+	quest.10B6FDA1362E3C52.title: "Monochromatic Synthesis: Void Chalk"
 	quest.1278DBA393B22F10.quest_desc: ["Found in large ice caves."]
 	quest.1278DBA393B22F10.title: "Slay an Alpha Yeti"
 	quest.12E5DD67806388F3.quest_subtitle: "Combine with Glowstone for the ultimate builder experience"
@@ -214,6 +256,15 @@
 	quest.210EF23262133E20.quest_subtitle: "Find the fuel from the heavens"
 	quest.210EF23262133E20.title: "Holy Coal!"
 	quest.216FAD99B6E85C69.quest_desc: ["Fishing loot."]
+	quest.21FF14E8B61F515F.quest_desc: [
+		"Reaching the pinnacle of geometric design allows you to permanently solve the inventory clutter of your scribing toolkit. Activating the ultimate matrix of &dRonaza's Contact&r allows you to combine your entire chemical arsenal into a singular, mastery-tier instrument: the Rainbow Chalk."
+		""
+		"Once forged from the center of the circle, this tool completely eliminates the need to haul sixteen separate colored chalk sticks across your base. When drawn into the world, the chalk creates a fluctuating, color-changing rune that dynamically morphs its frequency to satisfy the requirements of any colored glyph modifier within a multi-block layout. Furthermore, this advanced apparatus possesses infinite durability, removing all future tool restoration or material re-smelting cycles from your automation routine."
+		""
+		"Note that the rainbow matrix is strictly tuned to handle color parameters. It cannot mirror the dense material foundations required by monochrome paths (White, Light Gray, Gray, and Black Chalk). To achieve complete multi-block consolidation for your foundational lines, you must advance a step further and manufacture its sister component, the Void Chalk, to handle your base structural geometry."
+	]
+	quest.21FF14E8B61F515F.quest_subtitle: "Consolidating the colored runic spectrum into a single, infinite modifier tool."
+	quest.21FF14E8B61F515F.title: "The Ultimate Medium: Rainbow Chalk"
 	quest.23DB36F62D07026B.quest_desc: [
 		"Constructing the complex geometric matrix for &dOsorin's Unbound Calling&r marks your entry into the second operational tier of &dDemon-less rituals&r. Because the foundational tier of this discipline focuses strictly on niche auxiliary operations—such as resurrecting fallen Familiars or cleansing hostile Vexes into friendly Allays—you can completely bypass it to focus your logistical resources here."
 		""
@@ -819,6 +870,7 @@
 	]
 	quest.7FC7DC38E9E5741E.title: "My &dFamiliars&r"
 	task.06455C9720302986.title: "Golden Bowls"
+	task.08346C479E2B4584.title: "What's Next"
 	task.09CBB1D374F27884.title: "I See Right Through You"
 	task.0A5D393BF4628A53.title: "Observe pure beauty"
 	task.11D8F96BD720CDC0.title: "Any #minecraft:candles"
@@ -831,6 +883,7 @@
 	task.27421DAF862375BC.title: "Ritual Basics"
 	task.278EC8E90B288744.title: "Demon Miner"
 	task.2A323BE18E61A0B1.title: "Osorin"
+	task.2AD4F4CB819E930D.title: "Eldritch Chalice"
 	task.303D6C09ED07D006.title: "Repairing Items"
 	task.30DCA9D5C68655B5.title: "Sacrificial Bowls"
 	task.397024741F3D12FC.title: "Enter the Final Castle!"
