@@ -552,6 +552,7 @@
 		""
 		"To optimize your base layout for future upgrades without needing to constantly tear down walls, it is highly recommended to dedicate four distinct 19x19 floor grids early on. Assign one perimeter block for Summoning, one for Infusion, one for Possession, and a final zone for miscellaneous (Wild and Eldritch) rituals."
 	]
+	quest.7A3D002083346C50.quest_subtitle: ""
 	quest.7A3D002083346C50.title: "Geometric Foundations: &dPentacles&r"
 	quest.7A4D535DC0EDFDA8.quest_desc: [
 		"Extending your logistical reach beyond your central storage laboratory requires a dedicated sub-spatial data link. You can establish remote access to your active network using either a physical &eStable Wormhole&r terminal or a portable &aStorage Accessor&r remote."

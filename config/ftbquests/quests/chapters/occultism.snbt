@@ -10,16 +10,16 @@
 			image: "ftb_quests:textures/gui/ftb_quests/images/ornate_key.png"
 			rotation: 0.0d
 			width: 15.0d
-			x: 0.0d
-			y: 4.5d
+			x: 9.5d
+			y: 0.5d
 		}
 		{
 			height: 13.0d
 			image: "ftb_quests:textures/gui/ftb_quests/images/logo.png"
 			rotation: 0.0d
 			width: 18.0d
-			x: 0.5d
-			y: -6.0d
+			x: 10.0d
+			y: -8.5d
 		}
 		{
 			color: 16755200
@@ -99,8 +99,8 @@
 				item: { count: 1, id: "occultism:datura_seeds" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -1.0d
+			x: 9.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["4BD97F45798CD89C"]
@@ -115,8 +115,8 @@
 				item: { count: 1, id: "occultism:dictionary_of_spirits" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 2.0d
+			x: 8.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["4BD97F45798CD89C"]
@@ -126,8 +126,8 @@
 				item: { count: 1, id: "occultism:datura" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.0d
+			x: 11.0d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -163,8 +163,8 @@
 				item: { count: 1, id: "minecraft:flint_and_steel" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.0d
+			x: 9.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["403271A8740E9141"]
@@ -199,8 +199,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 7.5d
+			x: 9.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["681FB9758B02412D"]
@@ -215,8 +215,8 @@
 				item: { count: 1, id: "occultism:divination_rod" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 7.5d
+			x: 11.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["681FB9758B02412D"]
@@ -235,8 +235,8 @@
 				id: "27421DAF862375BC"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: 9.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
@@ -252,8 +252,8 @@
 				id: "6FDE41B84EA1BDDC"
 				type: "checkmark"
 			}]
-			x: 1.5d
-			y: 9.0d
+			x: 11.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -428,7 +428,7 @@
 				id: "1F2F1FE1B5912F5E"
 				type: "checkmark"
 			}]
-			x: -12.0d
+			x: -9.5d
 			y: 17.65d
 		}
 		{

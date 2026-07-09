@@ -1,11 +1,12 @@
 {
+	chapter.0A52D0932DA3F809.title: "Hostile Neural Networks"
 	chapter.0BE37B2700DA04A2.title: "Croptopia"
-	chapter.0C67F441F8E71DB5.title: "PneumaticCraft: Repressurized"
 	chapter.0CBB57C882A0A3E8.title: "Oritech"
 	chapter.0CF61BD8855339B8.title: "Twilight Forest"
 	chapter.0E21FB2EFB41A583.title: "MineColonies"
 	chapter.10C794EB6B6E39A4.title: "Powah! (Rearchitected)"
 	chapter.11657710BFB80347.title: "Biomes O' Plenty"
+	chapter.13B172FA69904D9F.title: "Deeper and Darker"
 	chapter.149D2C983550FDEE.title: "Ars Nouveau"
 	chapter.1AF0719459F5D7A4.title: "Hostile Neural Networks"
 	chapter.1B77050413CE8ABC.title: "Enchanting Realms"
@@ -16,6 +17,7 @@
 	chapter.25FA2945980E5DAC.title: "Ephemeral Dimensions"
 	chapter.28520F576C5DE7B9.title: "Swashbucklers!"
 	chapter.2D5B93718E96FBA7.title: "Vanilla Backport"
+	chapter.2FB24A5A597459FC.title: "Railcraft Reborn"
 	chapter.311B9B609F9C8443.title: "Enchanted: Witchcraft"
 	chapter.31E759EEBB78FBDC.title: "Project Alpha"
 	chapter.3293295477066FD8.title: "Better Furnaces Reforge"
@@ -23,20 +25,26 @@
 	chapter.341B2F08284371E1.title: "Cyberspace"
 	chapter.37B86466045EF639.title: "VerseWorks"
 	chapter.3904E70D0E85DAA7.title: "Deeper and Darker"
+	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
 	chapter.3C92CD262B9CED80.title: "The Aether"
 	chapter.3EC572AED114F1DB.title: "Functional Storage"
 	chapter.436D97CCFBD1EAC5.title: "Forbidden and Arcanus"
 	chapter.44C9B75391977E35.title: "LanteaCraft"
 	chapter.4A0788A10CB44DEF.title: "Deep Aether"
 	chapter.4DB6FB5A078AFC9F.title: "Extreme Reactors"
+	chapter.4EBB2171D5A3AAAC.title: "Forbidden and Arcanus"
+	chapter.4EEDECACDE8F5A67.title: "Oritech"
 	chapter.5150D945901579BA.title: "Just Dire Things"
 	chapter.55CB40ABC320C0A5.title: "Artificer"
 	chapter.57BEA3534D294D14.title: "Dragon Mounts Remastered"
 	chapter.582E448E54F02992.title: "Traveler's Backpack"
 	chapter.5BBCC13DD1730548.title: "Refined Storage"
 	chapter.5C8F08B736535243.title: "Immersive Furniture"
+	chapter.5E31DF282998B992.title: "PneumaticCraft: Repressurized"
+	chapter.65A95C2312976E49.title: "The Undergarden"
 	chapter.66AC153A751D2DF3.title: "Warehouse Workshop"
 	chapter.6A04DD255448B2FC.title: "Pipez"
+	chapter.6AEDA2F9BEB57759.title: "Ars Nouveau"
 	chapter.6B180854CF011802.title: "End Remastered"
 	chapter.6F68DADFFF98AB78.title: "Railcraft Reborn"
 	chapter.70023FDA6296CC73.title: "Oh The Biomes We've Gone"
@@ -108,6 +116,8 @@
 	quest.0594025A747665CF.title: "Pinnacle Containment: The Trinity Gem"
 	quest.05FFFD19E6761FD9.quest_desc: ["Have a small chance to get it when enchanting."]
 	quest.08FCBB3A1B289757.quest_desc: ["Dropped by The Wither."]
+	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need to start Mining underground... deep underground. \\n\\nLike Y Level 1 and below. "]
+	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
 	quest.0A5AE5ADB477805C.quest_desc: [
 		"While your entry-tier &eFoliot Crusher&r served as an adequate baseline for early operations, scaling your automated factory lines demands the absolute maximum optimization of your mineral logistics."
 		""
@@ -312,6 +322,8 @@
 	]
 	quest.29953CDAA8A3B0B6.quest_subtitle: "Sacrificing forged weaponry to ignite a volatile, high-density elemental rift."
 	quest.29953CDAA8A3B0B6.title: "Planar Concussion: The &9Marid&r Breach"
+	quest.2A20000FAEC2E16A.quest_desc: ["To extract power or items from your reactor, or even input fuel, you'll need these &crequired&r blocks.\\n\\nThe &cPower Tap&r provides a way for you to \"tap\" into the power that a &9passive&r reactor makes. You can attach pipes and cables to extract the power from it.\\n\\nThe &aAccess Ports&r are required for every reactor, and allows you to both input fuel from the reactor, or extract waste. It's usually a good idea to have 2 per reactor, one for each job."]
+	quest.2A20000FAEC2E16A.title: "Interacting with the Reactor"
 	quest.2AC8314F7AA00426.quest_desc: ["Build a portal out of glowstone and activate it with water!"]
 	quest.2AC8314F7AA00426.quest_subtitle: "Use the book of lore to explore items"
 	quest.2C8A8B315B4EC99B.quest_desc: [
@@ -385,6 +397,7 @@
 	quest.36FE3019E97AA3F9.quest_subtitle: "Deafeat glorious warriors in 1 versus 1 combat in preparation for the final battle"
 	quest.36FE3019E97AA3F9.title: "Valkyries?"
 	quest.394C24C83DA2ECFE.quest_desc: ["Found in Jungle Pyramids"]
+	quest.3999AE0921641E60.quest_desc: ["&8Dark Matter&r is created by Smelting Edelwood. \\n\\n&5Corrupti Dust&r is made with &5Obsidiansteel&r and some Mob Drops. \\n\\nThrow both these on the ground together and a &8Black Hole&r will spawn! \\n\\nThe &8Black Hole&r will void every Item or Projectile that comes near, but what we want to feed it is &aExperience&r! \\n\\nWhen you feed it enough &aEXP&r it will give back an &aXpetrified Orb&r."]
 	quest.3BCA33834716DA39.quest_desc: ["Found in Buried Chests."]
 	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
 	quest.3C4B6468B14C039E.title: "Buckets made easy"
@@ -465,6 +478,15 @@
 	]
 	quest.4A11729731A3ED72.quest_subtitle: "Infusing high-density pastes into baseline ritual mediums."
 	quest.4A11729731A3ED72.title: "Chemical Doping: Gray Chalk"
+	quest.4AD8363D7359A072.quest_desc: [
+		"We're going to build the smallest passive reactor possible, the &93x3x3&r. The requirements for the quest are the exact amounts for what you'll need to build one.\\n\\nTo build this, you start by building a 3x3x3 frame made out of Casings. In the middle of the bottom face, you can just use another Reactor Casing. You'll want each outer wall to have a &9reactor component&r, like an Active Power Tap or Solid Access Port."
+		""
+		"Every reactor you build will require exactly 1 &6Reactor Controller&r, which is usually put in the middle of the front wall. Next, we'll place 1 &aFuel Rod&r in the center of the multiblock, and 1 &eControl Rod&r above it on the top face.\\n\\nYou will need a way to input and output waste, which is done by using &9Reactor Solid Access Ports&r. For this build, place one on the left side and one on the right.\\n\\nTo extract power, we'll place the &cActive Power Tap&r on the middle of the back wall. Once placed, the reactor should complete! You can now right click the Controller to open up the interface and turn it on!\\n\\nNote: The biggest reactor you can make using &aBasic Reactor Parts&r is 5x5x5. To build a larger reactor, you will need &eReinforced Reactor Parts&r."
+		""
+		"This is what a 3x3x3 reactor will look like:\\n"
+	]
+	quest.4AD8363D7359A072.quest_subtitle: "Learning The Basics"
+	quest.4AD8363D7359A072.title: "&dOur First Reactor"
 	quest.4B535B3689DF24DF.quest_desc: [
 		"The entities waiting in the next tier of progression belong to a volatile class of fire elementals known as &cAfrit Demons&r. These highly advanced spirits possess immense processing power, but their physical compliance scales entirely with the geometric strength of your binding pentacle."
 		""
@@ -476,6 +498,8 @@
 	quest.4B535B3689DF24DF.title: "Thermal Instability: &cAfrit Demons&r"
 	quest.4B7870B5DBF67428.quest_desc: ["Found in Igloos."]
 	quest.4B9C8C7BAB6C36AF.quest_desc: ["Craft it using an Undead Soul."]
+	quest.4B9E9497E44D0096.quest_desc: ["To build a reactor, you'll need to start by making &6Reactor Casings&r.\\n\\nThese make up the frame and walls of your reactor, although the walls can be replaced by &9Reactor Glass&r if you'd like to see inside of your reactor.\\n\\nFor future reference, when a part says \"Basic\", this means that it can only be used with other basic parts. The Basic parts can also only be used to build smaller reactors, as it has a certain size limit. Keep this in mind!"]
+	quest.4B9E9497E44D0096.title: "Reactor Building Components"
 	quest.4BD97F45798CD89C.quest_desc: [
 		"Welcome to the arcane arts of &dOccultism&r."
 		""
@@ -507,6 +531,8 @@
 		""
 		"Conversely, &cC&r&6o&r&el&r&ao&r&9r&r&5e&r&dd&r Chalks act as the secondary modifiers that program the ritual's exact parameters. Unlike foundations, a colored chalk's pigment indicates its specific alchemical function rather than a strict power tier."
 	]
+	quest.4FA6BEA4E646B742.quest_desc: ["Before we can start building our reactor, we'll need to smelt some Coal or Charcoal to create &9Graphite Ingots&r.\\n\\nGraphite, coupled with Iron, is one of the main materials when making a Reactor."]
+	quest.4FA6BEA4E646B742.title: "Graphite for Casings"
 	quest.505E193E3466871A.quest_desc: [
 		"Your next metallurgical milestone requires the acquisition of &cIesnium&r, an exotic ore crucial for forging top-tier ritual components."
 		""
@@ -534,6 +560,8 @@
 	]
 	quest.54468ED84F34EEFE.quest_subtitle: "Extracting corrupted tissue samples via spatial command matrices."
 	quest.54468ED84F34EEFE.title: "Abyssal Tissues: Pink Chalk"
+	quest.54E1E84080816F13.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need some Arcane Crystals. Go sieve some Dust."]
+	quest.54E1E84080816F13.title: "&6&lForbidden \\& Arcanus"
 	quest.555AA7172905288B.title: "Slay a Lich"
 	quest.56208AC5F5672FC3.quest_desc: [
 		"While the baseline satchel significantly reduces field inventory clutter, its mechanical placement cycle introduces noticeable construction downtime as your production lines expand. Achieving complete spatial efficiency requires channeling the stabilization field of the &cSevira's Permanent Confinement&r matrix to manufacture an upgraded Artisanal Ritual Satchel."
@@ -564,6 +592,11 @@
 	quest.5737623C55009253.quest_subtitle: "Bypassing standard mechanics to achieve hyper-optimized gear modification."
 	quest.5737623C55009253.title: "Unbreaking Synthesis: The &bIesnium Anvil&r"
 	quest.579A707576F931C8.quest_desc: ["Eat 115 pieces of Experiment 115. But why stop there? Why ever stop?"]
+	quest.580148D1141446A6.quest_desc: [
+		"&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r!\\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around.\\n\\nYou can kill them for the Souls that they drop! It is much less efficient though...\\n"
+		"If you are having troubles finding Souls, you might wanna look into Soul Looting enchantment on your sword. Killing mobs with this enchantment will occassionally spawn Souls."
+	]
+	quest.580148D1141446A6.title: "Lost Souls"
 	quest.5A79137D9EA9EFC0.quest_desc: [
 		"Managing mass-resource generation lines demands a sophisticated logistical backbone. If you have not yet established a digitized inventory network, anchoring your logistics to a &dDimensional Storage&r network is highly recommended."
 		""
@@ -797,6 +830,7 @@
 	quest.74A8812364ECCF90.quest_desc: [""]
 	quest.753B1F74B1AB46FF.quest_subtitle: "Countless useful relic can be found in ancient structures, guarded by powerful entities, can you collect them all?"
 	quest.753B1F74B1AB46FF.title: "Remains of Better Times"
+	quest.75AD0CEBC1335915.quest_desc: ["The &dReactor Controller&r is the heart of the reactor. When a reactor is formed, you can right-click the terminal to open up the reactor interface.\\n\\nDepending on if it is a &9Passively Cooled&r or an &eActively Cooled&r reactor, the interface will change. Passively Cooled reactors are used to produce power directly by burning fuel. Actively Cooled Reactors use the heat created to vaporize the coolant, which is then sent into a Turbine to create power.\\n\\nIn the interface of a passive reactor, you can see and toggle the status and waste ejection. You'll also see the temps, how much FE/t the reactor is producing, and how much fuel the reactor is burning per tick."]
 	quest.7617AC4CACC5045C.quest_desc: ["Click to be given a link to the Minecolonies wiki page. Quest only works once so save the link if you need it or use google."]
 	quest.768C7CE1F3C4331F.quest_desc: [
 		"Step 5: Food"
@@ -846,7 +880,11 @@
 	]
 	quest.7A4D535DC0EDFDA8.title: "Wireless Network Access"
 	quest.7A6D9E7DAD77F895.quest_desc: ["Craft it using aquatic items."]
+	quest.7B4AAC741F0A6073.quest_desc: ["Every reactor needs &9Reactor Control Rods&r and &9Fuel Rods&r. These control how fuel is inserted into the reactor.\\n\\nThe Control Rods are placed on the top face of the reactor. You can also have more than one per reactor, but you must have at least 1. Typically, the more you have, the more fuel the reactor can use and burn. That can mean more overall power, but at the cost of higher burn rates, depending on the setup of your reactor.\\n\\nFor every Control Rod, you'll need enough Fuel Rods to extend to the base of the reactor. For example, if your reactor is 5 blocks tall, you'll need 3 Fuel Rods extending from each Control Rod.\\n\\nIf you right-click on a Control Rod, you can control how much fuel is burned in the reactor by inserting or retracting the fuel rods. The further that you extend the rods, the less fuel that will be burned."]
+	quest.7B4AAC741F0A6073.title: "Reactor Control Rods"
 	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
+	quest.7C4E4793DA887DE4.quest_desc: ["Based off of the original mod &eBig Reactors&r, &aExtreme Reactors&r allows you to build customizable multiblock Reactors!\\n\\nThe main element is of course, Uranium. You'll need this and a lot of coal and iron to get building.\\n\\nIf you're ever lost along the way, refer to &aThe Extreme Book&r for help! "]
+	quest.7C4E4793DA887DE4.title: "Welcome to &9Extreme Reactors&r!"
 	quest.7C9CB235D52BFE01.quest_desc: ["This place seems to have it's own set of tools, although your current ones should still do their job, somewhat."]
 	quest.7C9CB235D52BFE01.quest_subtitle: "New Stone? New Wood? Punch the Tree!"
 	quest.7C9CB235D52BFE01.title: "That shade of green drives me crazy"
