@@ -20,20 +20,12 @@
 			y: 10.0d
 		}
 		{
-			height: 1.5d
-			image: "ftbquests:tasks/input_only"
-			rotation: 90.0d
-			width: 1.5d
-			x: 0.0d
-			y: 10.0d
-		}
-		{
-			height: 0.6d
-			image: "hostilenetworks:item/prediction_matrix"
+			height: 10.0d
+			image: "ftb_quests:textures/gui/ftb_quests/images/hnn.png"
 			rotation: 0.0d
-			width: 0.6d
+			width: 10.0d
 			x: 0.0d
-			y: 2.8d
+			y: -6.5d
 		}
 	]
 	order_index: 3
@@ -43,7 +35,7 @@
 		{
 			icon: {
 				components: {
-					"hostilenetworks:data_model": "hostilenetworks:zombie"
+					"hostilenetworks:data_model": "hostilenetworks:twilightforest/skeleton_druid"
 				}
 				id: "hostilenetworks:data_model"
 			}
@@ -188,7 +180,7 @@
 				item: { count: 1, id: "hostilenetworks:overworld_prediction" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: -1.5d
 			y: 5.0d
 		}
 		{
@@ -217,7 +209,7 @@
 				item: { count: 1, id: "hostilenetworks:nether_prediction" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -0.5d
 			y: 5.0d
 		}
 		{
@@ -246,7 +238,7 @@
 				item: { count: 1, id: "hostilenetworks:end_prediction" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.5d
 			y: 5.0d
 		}
 		{
@@ -1316,6 +1308,790 @@
 			}]
 			x: -2.0d
 			y: 11.5d
+		}
+		{
+			dependencies: ["104EBBC08B4733F5"]
+			hide_dependency_lines: false
+			id: "785AC64B477BAC33"
+			rewards: [
+				{
+					count: 3
+					id: "10A2DDF78BF6EA68"
+					item: {
+						count: 1
+						id: "hostilenetworks:twilight_prediction"
+					}
+					type: "item"
+				}
+				{
+					id: "1CA12F3846D882F5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "6EA499A63B49311F"
+				item: { count: 1, id: "hostilenetworks:twilight_prediction" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "68A06681607CEAD7"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "658186312461BF9E"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "1B01A0E808815CF6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2D3D83AF8A454D00"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:breeze" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "1092EF6DB584D1A4"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "6E947F923F530268"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "6AA51E567853A052"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2917D4456313AA51"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:mooshroom" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "30881101BE8072E4"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "1EEB8EE49B9945EC"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "038753ED0E1664C0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "35317391252F0A80"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/alpha_yeti" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "44685A5D1C4DD309"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "61A880E1688E8A52"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "699EE6AFD1C8F79F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "63140924534B4AAD"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/carminite_golem" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "282686B3AEBFE436"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "2954F0EFD199663E"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "7A68C8A5C7564FBC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "15010D3F6FC4C361"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/death_tome" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "30A383126A6A6AC7"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "0872D6456CE76AB6"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "68838117242CBAE4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1E72416CDD317894"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/deer" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "032A129A1218EE1B"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "74BCDDC8082F1A3F"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "5697328BB7B4B127"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1A47221DF2213C53"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/fire_beetle" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "1B88065DE0AB6B91"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "2BB7CE5BD4E9458B"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "419F2FA7A745D1A1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "193FF63A4E898FC0"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/giant" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			id: "1C5C2382EEF5B5B3"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "06C22D5D302AE3A6"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "2425E0C85F36BE35"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "3E411847FC3C854D"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/goblin" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "3BC2C2F9ED28C00A"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "46B74B85F0777D09"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "5552747CB5F47FEC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6E3369C2443EDBC4"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/helmet_crab" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "386A8BE439F09748"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "4778087A65A597BB"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "4E0EFF518A8D3B2D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "11DD2E6265251A00"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/hydra" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "1E40AF7EFEF33F8D"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "7DE14977302B6887"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "076BCF3844155BF8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6322ED394E8EAD33"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/kobold" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "5C79B8145B490846"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "37881BFCCEE827B4"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "247FB403FD49745E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0A59DFC1EA895061"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/lich" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "35EBC4A337832ABA"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "11E4CE176CAF4B7C"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "60272813A9E294FB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "594C9A49FD8ED048"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/minoshroom" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "72F2A7E9CBFFEABD"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "7BE79A4C13760548"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "0800280D9D92F9A5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "58A99C0871DCE61E"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/minotaur" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "24ECB475FAC05ADC"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "0CAE66280C9F4DFA"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "7B2EB315C88E8473"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6F41EB8A9496E4E2"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/naga" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "5D7932AF94CC2AF9"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "04E199C5C3969C6A"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "6A56CD1DC546F3E2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "40ED9299AD3F7030"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/raven" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "4C4DF471A8EA7A51"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "21ADA24A7841F4B4"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "4952DD3EB9150AB1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "13C2440D4FF2A688"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/redcap" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "7043B196B26BA51C"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "4F9CF7D18DC97472"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "1E5395CE887E91D8"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6B1308ABE1CCB8B9"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/skeleton_druid" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "71A8ABBA0F66D981"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "79BED6271A8EF13C"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "2D5E94432E30A947"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0611439004E08067"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/snow_queen" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 25.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "072F9E77FE1CF4C1"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "55774A848384BFEF"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "1E74BE9FF0489E96"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "284ABDEB409B58FC"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/stable_ice_core" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "282FCC431085909E"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "3DF401DAA129B3C5"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "67C5872C175CD9A6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "03CCC77B642081C7"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/towerwood_borer" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "3C990B31FF600DF2"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "5E175D99BF3F9D96"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "793F715848DA828F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "39C7AA2A0E8DB211"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/troll" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "114F69A770FAAC05"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "767F84990DF12222"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "62AAD6C24471325D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "62C2B596E307AF39"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/ur_ghast" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "2317B7487D2E78E9"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "51FEFB8B8516CCEC"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "00AFEC3E00E96BDA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2A7802520CA8847A"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/winter_wolf" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "431438CA8C6E6CEF"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "5384CE897C829E9D"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "10D6A2EEE0BA1A8F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "56D1D90F42C756DF"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/wraith" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["14B3542ECB59869C"]
+			id: "59FBDDEF4AA30936"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "147C1BC5C8A2D943"
+					item: {
+						count: 1
+						id: "hostilenetworks:prediction_matrix"
+					}
+					type: "item"
+				}
+				{
+					id: "3E63D768EE561ABA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2FDCE32FF2761C1F"
+				item: { components: { "hostilenetworks:data_model": "hostilenetworks:twilightforest/yeti" }, count: 1, id: "hostilenetworks:prediction" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 24.0d
 		}
 	]
 }

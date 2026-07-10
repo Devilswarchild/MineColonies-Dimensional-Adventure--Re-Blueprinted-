@@ -8,6 +8,7 @@
 	chapter.11657710BFB80347.title: "Biomes O' Plenty"
 	chapter.13B172FA69904D9F.title: "Deeper and Darker"
 	chapter.149D2C983550FDEE.title: "Ars Nouveau"
+	chapter.15AAF17B6665223D.title: "Refined Storage"
 	chapter.1AF0719459F5D7A4.title: "Hostile Neural Networks"
 	chapter.1B77050413CE8ABC.title: "Enchanting Realms"
 	chapter.1C88686C9C5005E8.title: "Lithereal"
@@ -38,7 +39,6 @@
 	chapter.55CB40ABC320C0A5.title: "Artificer"
 	chapter.57BEA3534D294D14.title: "Dragon Mounts Remastered"
 	chapter.582E448E54F02992.title: "Traveler's Backpack"
-	chapter.5BBCC13DD1730548.title: "Refined Storage"
 	chapter.5C8F08B736535243.title: "Immersive Furniture"
 	chapter.5E31DF282998B992.title: "PneumaticCraft: Repressurized"
 	chapter.65A95C2312976E49.title: "The Undergarden"
@@ -168,6 +168,8 @@
 		"Your next logistical milestone requires feeding the spirit raw quantities of &eEnd Stone&r, &9Obsidian&r, and &7Calcite&r. The entity will rapidly grind these dense materials into specialized, hyper-purified dusts—vital alchemical components absolutely required to forge your next tier of ritual chalks."
 	]
 	quest.103F99D9C4385248.title: "&aRefining the Medium"
+	quest.104EBBC08B4733F5.quest_desc: ["The &dSimulation Chamber&r is the main machine within HNN.\\n\\nWhen given power, it will run simulations based on the &bData Model&r that is placed inside. The power required also depends on the Data Model placed inside, and can be seen within the Model's tooltip. \\n\\nThe machine also requires at least one &9Prediction Matrix&r to run a simulation.\\n\\nThe result of the simulation will be output onto the Matrix. Simulations will always produce some kind of &eGeneralized Prediction&r, which can be used in various crafting recipes. They also vary depending on the origin of the mob in the Data Model.\\n\\nIf the simulation succeeds, you will receive a &dMob Prediction&r based off of the model. The higher the tier of the Data Model used, the higher the success rate is for a simulation."]
+	quest.104EBBC08B4733F5.title: "&aSimulating Deaths"
 	quest.10B6FDA1362E3C52.quest_desc: [
 		"This advanced tool serves as the ultimate functional upgrade to the Rainbow Chalk, engineered specifically for facility designers who prefer a pristine, unified laboratory environment over rapid, flashing color loops."
 		""
@@ -177,12 +179,15 @@
 	]
 	quest.10B6FDA1362E3C52.quest_subtitle: "Consolidating the full structural spectrum into a clean, unyielding visual layout."
 	quest.10B6FDA1362E3C52.title: "Monochromatic Synthesis: Void Chalk"
+	quest.10E8BC20D406D9FB.quest_subtitle: "Makes various Nether Materials"
 	quest.1278DBA393B22F10.quest_desc: ["Found in large ice caves."]
 	quest.1278DBA393B22F10.title: "Slay an Alpha Yeti"
 	quest.12E5DD67806388F3.quest_subtitle: "Combine with Glowstone for the ultimate builder experience"
 	quest.12E5DD67806388F3.title: "Glorious Brick"
 	quest.13B658487B62A140.quest_subtitle: "Home to the Sun Spirit"
 	quest.13B658487B62A140.title: "Find The Golden Island"
+	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
+	quest.14B3542ECB59869C.title: "Creating &dLoot"
 	quest.14E93FEC6AE1ABA9.quest_subtitle: "These non craftable tools of glory seem to greatly increase your reach"
 	quest.14E93FEC6AE1ABA9.title: " Holy Arms"
 	quest.1565DEE3F59CEDD4.title: "Visit the Twilight Forest"
@@ -284,6 +289,7 @@
 	quest.23DB36F62D07026B.title: "Material Synthesis: &dOsorin's Unbound Calling&r"
 	quest.247AD8A7F03FC0B1.quest_subtitle: "Salvage those magnificent pillars to incorporate them in your next build!"
 	quest.247AD8A7F03FC0B1.title: "Pillars"
+	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
 	quest.2615A9F7168A46CD.quest_subtitle: "Craft and sacrifice a piece of each of these new equipments to unlock further guidance"
 	quest.2615A9F7168A46CD.title: "A whole new Inventory?"
 	quest.26ACAAF08905AF85.quest_desc: [
@@ -361,6 +367,8 @@
 		""
 		"Stone and ores are another major need for any colony, so a Mine is the next logical step."
 	]
+	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
+	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
 	quest.34D15631537C26AE.quest_desc: [
 		"Consuming &cDemon's Dream Fruit&r is completely safe for mortal consumption, though you must prepare for its distinct metaphysical side effects."
 		""
@@ -396,12 +404,17 @@
 	quest.36ED3AE12A48BD4D.title: "Absolute Subjugation: &9Xeovrenth Adjure&r"
 	quest.36FE3019E97AA3F9.quest_subtitle: "Deafeat glorious warriors in 1 versus 1 combat in preparation for the final battle"
 	quest.36FE3019E97AA3F9.title: "Valkyries?"
+	quest.37EBB8E0D6E5F821.quest_desc: ["&6Hostile Neural Networks&r (HNN for short) is a mod based around simulating mob kills for loot!\\n\\nTo do this, you will be collecting \"data\" on mobs, then running simulations from the data to create their drops!\\n"]
+	quest.37EBB8E0D6E5F821.title: "Welcome to &9Hostile Neural Networks&r!"
 	quest.394C24C83DA2ECFE.quest_desc: ["Found in Jungle Pyramids"]
 	quest.3999AE0921641E60.quest_desc: ["&8Dark Matter&r is created by Smelting Edelwood. \\n\\n&5Corrupti Dust&r is made with &5Obsidiansteel&r and some Mob Drops. \\n\\nThrow both these on the ground together and a &8Black Hole&r will spawn! \\n\\nThe &8Black Hole&r will void every Item or Projectile that comes near, but what we want to feed it is &aExperience&r! \\n\\nWhen you feed it enough &aEXP&r it will give back an &aXpetrified Orb&r."]
 	quest.3BCA33834716DA39.quest_desc: ["Found in Buried Chests."]
 	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
 	quest.3C4B6468B14C039E.title: "Buckets made easy"
 	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "The Learning HUD"
+	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs"
 	quest.403271A8740E9141.quest_desc: [
 		"The volatile oils within &cDemon's Dream Fruit&r possess highly exotic, flammable properties."
 		""
@@ -597,6 +610,8 @@
 		"If you are having troubles finding Souls, you might wanna look into Soul Looting enchantment on your sword. Killing mobs with this enchantment will occassionally spawn Souls."
 	]
 	quest.580148D1141446A6.title: "Lost Souls"
+	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
+	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
 	quest.5A79137D9EA9EFC0.quest_desc: [
 		"Managing mass-resource generation lines demands a sophisticated logistical backbone. If you have not yet established a digitized inventory network, anchoring your logistics to a &dDimensional Storage&r network is highly recommended."
 		""
@@ -850,6 +865,7 @@
 		""
 		"Hint: If you’re not able to place the Supply Camp/Ship, try it block by block: one to the right, left, closer or further from the area you cleared. The area cannot contain any holes or have any flowers, grass, ferns, seaweed, coral etc."
 	]
+	quest.785AC64B477BAC33.quest_subtitle: "Makes various Nether Materials"
 	quest.788138E50FC2E340.quest_desc: [
 		"The &aDictionary Of Spirits&r serves as the foundational codex for &dOccultism&r. Constructing this grimoire is a strict requirement if you intend to advance through any branch of this arcane discipline."
 		""

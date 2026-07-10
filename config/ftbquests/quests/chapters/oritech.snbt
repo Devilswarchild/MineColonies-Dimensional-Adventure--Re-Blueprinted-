@@ -40,7 +40,7 @@
 			tasks: [{
 				count: 4L
 				id: "3824247686C3D875"
-				item: { components: { "ftbquests:missing_item": "alltheores:nickel_ingot" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "bno:nickel_ingot" }
 				type: "item"
 			}]
 			x: 0.5d
