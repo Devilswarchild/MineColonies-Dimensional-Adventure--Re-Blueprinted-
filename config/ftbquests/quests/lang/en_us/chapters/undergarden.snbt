@@ -1,0 +1,672 @@
+{
+	quest.01B13BBB41BBB460.quest_desc: [
+		"When encased in a complete set of &cUtherium Armor&r, a vanguard commander commands a defensive fortification that stands as an absolute equal to the legendary, blast-resistant strength of refined netherite plating. "
+		""
+		"The dense, volatile matrix of the alloy absorbs monumental kinetic impacts, protecting the wearer from catastrophic trauma on the front lines of battle. "
+		""
+		"Remarkably, this supreme level of protection completely defies standard modern metallurgy. "
+		""
+		"It bypasses the tedious requirement of an ancient Smithing Template entirely, allowing an artisan to shape the raw plates directly upon a standard anvil and instantly unlock the pinnacle of defensive martial engineering."
+	]
+	quest.01B13BBB41BBB460.title: "&cUtherium&r Armor"
+	quest.050D8480EE9D8E62.quest_desc: [
+		"The Wigglewood Forests appear just like any other forests. "
+		""
+		"However, the trees here have a habit of wandering as they please."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_wiggle.png width:200 height:100 align:center}"
+	]
+	quest.050D8480EE9D8E62.title: "Wigglewood Forest"
+	quest.06D13E319C26C949.quest_desc: [
+		"The Blood Mushroom Bog is home to giant Blood Mushrooms. "
+		""
+		"There is a deeply unsettling presence in the air here... so I think it is best to leave this entry short."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_blood.png width:200 height:100 align:center}"
+	]
+	quest.06D13E319C26C949.title: "Blood Mushroom Bog"
+	quest.073BA8470EA37A00.quest_desc: [
+		"Yet another endless expanse of water stretches into the gloom, though this sea bites back with a paralyzing, unnatural cold. "
+		""
+		"Its rigid waves whisper of forgotten depths, freezing the blood of any traveler daring enough to sail them."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_icey.png width:200 height:100 align:center}"
+	]
+	quest.073BA8470EA37A00.title: "Icy Sea"
+	quest.08D9C809CF4062E8.quest_desc: [
+		"The Underbean stands as the true cornerstone of subterranean survival, a versatile harvest that has kept many explorers from starvation. "
+		""
+		"Its firm texture allows it to be consumed raw directly from the vine for a quick burst of energy on the trail. "
+		""
+		"Alternatively, when subjected to the heat of a crackling campfire, they can be slow-roasted to bring out a rich, smoky flavor, or skewered upon a sharpened stick for a hearty, mobile meal. "
+		""
+		"In these harsh lands, it is the ultimate staple—there is virtually no limit to how it can sustain you."
+	]
+	quest.0A0A991BAC99092C.quest_desc: [
+		"The Indigo Mushroom Bog is far more densely choked with life than its crimson counterpart, the Blood Mushroom Bog. "
+		""
+		"Naturally, it is home to thriving Indigo Mushrooms, but it also conceals twisted Mini Smogstem Trees and stagnant ponds of a glowing Virulent Mix. "
+		""
+		"I cannot help but wonder what corruptive power that mixture possesses..."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_indigo.png width:200 height:100 align:center}"
+	]
+	quest.0A0A991BAC99092C.title: "Indigo Mushroom Bog"
+	quest.0A1D6E233C0ECC8E.quest_desc: [
+		"The vicious predators known as &dNargoyles&r claim absolute dominion over the deep earth, manifesting as a persistent plague within the dark tunnels underground. "
+		""
+		"Possessing a resilient vitality equivalent to fifteen standard measures of health, these unrelenting horrors will lock onto your scent and pursue you to the ends of the cavern with a singular, bloodthirsty focus. "
+		""
+		"They offer absolutely no salvageable materials or precious drops upon their destruction. "
+		""
+		"They exist purely as a chaotic, lethal obstacle, explicitly designed to butcher any miner who dares to shatter the silence of the stone."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_nargoyle.png width:100 height:100 align:center}"
+	]
+	quest.0A1D6E233C0ECC8E.title: "&dNargoyle&r"
+	quest.0C98503A2F20484D.quest_desc: [
+		"Bordering the frozen wastes lie the Frosty Smogstem Forests, where the biting cold of the Frostfields collides with a suffocating canopy. "
+		""
+		"Here, the dead landscape is overrun by colossal Smogstem Trees, their frozen branches trapping the pale mist in a perpetual, freezing gloom."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_frostytrees.png width:200 height:100 align:center}"
+	]
+	quest.0C98503A2F20484D.title: "Frosty Smogstem Forest"
+	quest.0D91A6B36BD2F526.quest_desc: [
+		"When wielding the formidable &7Cloggrum Battleaxe&r, a warrior commands an offensive weight only slightly inferior to the legendary density of diamond weaponry. "
+		""
+		"The crude, heavy craftsmanship anchors each swing firmly into the enemy, delivering immense kinetic shock to break through defensive stances. "
+		""
+		"However, this sheer mass demands a ruthless physical sacrifice. "
+		""
+		"The heavy, unyielding balance limits rapid recovery, locking the wielder into a precise combat rhythm and requiring a deliberate approach to every skirmish. "
+		""
+		"It is an instrument designed for the immovable executioner, not the swift duelist."
+	]
+	quest.0D91A6B36BD2F526.title: "Ultimate Weapon!"
+	quest.0FA77C28A57E06F1.quest_desc: [
+		"The Veiled Mushrooms are a highly specialized species, bound entirely to the damp microclimate of their native bogs. "
+		""
+		"They are easily recognized by their somber, mud-brown caps, but their true wonder is a mechanical reflex triggered by the atmosphere. "
+		""
+		"Should the earth fall away beneath them, leaving nothing but empty air, the exposed gills immediately begin spinning delicate, cascading structures known as Mushroom Veils. "
+		""
+		"It is a striking defense mechanism, clothing the empty space below in a shifting shroud of living mesh."
+	]
+	quest.1054168AFD8520D4.quest_desc: [
+		"The monumental titan known as the &aForgotten Guardian&r stands as a colossal golem forged entirely from pure, compressed &aBlock of Forgotten Ingots&r. "
+		""
+		"Animated by a relentless, primeval malice, this monolithic sentinel will immediately lock onto any trespassing traveler, executing a brutal, unyielding campaign to crush them into dust. "
+		""
+		"It possesses a staggering, near-impenetrable vitality equivalent to one hundred and sixty standard measures of health, rendering normal blades practically useless against its frame. "
+		""
+		"Should an exceptionally legendary warrior somehow shatter its defenses and bring about its ruin, its exploding core will surrender a precious scattering of highly coveted &aForgotten Nuggets&r."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_guardian.png width:100 height:200 align:center}"
+	]
+	quest.1054168AFD8520D4.title: "&aForgotten Guardian&r"
+	quest.1190BB433EFA3945.quest_desc: [
+		"The mechanical armament designated as the Slingshot stands as a remarkably versatile, highly unconventional weapon engineered within the boundaries of the &2&lUndergarden&r. "
+		""
+		"Utilizing a specialized tensile band, it is designed to chamber and launch four distinct variants of ammunition, each introducing a unique tactical payload upon the battlefield."
+		""
+		"Scintling Goo: Projectiles composed of this viscous fluid burst upon impact, instantly inflicting the restrictive Gooey Effect to trap fast-moving targets in a suffocating residue."
+		""
+		"Depthrock Pebbles: Deployed as the standard, high-velocity kinetic munition for reliable blunt-force trauma."
+		""
+		"Rotten Blisterberries: Volatile payloads that react violently upon physical contact, triggering a localized explosion to tear through tightly packed enemy formations."
+		""
+		"&eGronglets&r: This unique vegetative ammo inflicts zero structural damage upon a target, serving strictly as a psychological deterrent by projecting a sudden, disorienting burst of noise where they land.\""
+	]
+	quest.119242549BD21764.quest_desc: [
+		"The massive creatures known as &eBrutes&r roam across a select few biomes, maintaining a tense, neutral stance toward outsiders. "
+		""
+		"They possess a fierce, pack-minded loyalty that mirrors the defensive packs of wild wolves or the dreaded zombified piglins of the nether expanses. "
+		""
+		"To strike a single beast is to invite immediate doom; a lone blow will echo across the territory, driving every nearby pack member into a synchronized, relentless frenzy against the aggressor. "
+		""
+		"Should you successfully bring down one of these titans, their remains may yield their massive tusks—a dense, calcified material that carvers have found to be a perfect, structural replacement for traditional bone."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_brute.png width:100 height:100 align:center}"
+	]
+	quest.119242549BD21764.title: "&eBrutes&r"
+	quest.130577AD1A1A8222.quest_desc: [
+		"While a full set of &7Cloggrum&r Armor offers a defensive threshold slightly inferior to the refined iron plating of the surface world, its staggering abundance across the realm makes it an indispensable asset for common survival. "
+		""
+		"It is a material so easily pulled from the earth that it presents virtually no burden to replace. "
+		""
+		"Furthermore, armorers have introduced a crucial adaptation to the footwear; the heavy, dense composition of the &7Cloggrum&r Boots creates a specialized weight distribution, allowing travelers to march through the sticky, restrictive fields of Scintling Goo without losing their footing."
+	]
+	quest.130577AD1A1A8222.title: "&7Cloggrum&r Armor"
+	quest.141681FE9E524FB0.quest_desc: [
+		"The skeletal sentinels known as &7Forgottens&r endure as the tireless warriors bound eternally to the crumbling halls of the Catacomb Structure. "
+		""
+		"Clad in the rusted plating of Ancient Armor and clutching heavy Cloggrum Tools, these hollow soldiers carry weapons and defenses that can be completely plundered from their shattered frames upon their definitive fall. "
+		""
+		"Mysteriously, a flicker of their ancient allegiance remains locked within their bones; they harbor an absolute, unyielding hatred for the blighted &cRot Mobs&r, aggressively tracking and executing them whenever their paths cross within the dark corridors."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_forgotten.png width:100 height:200 align:center}"
+	]
+	quest.141681FE9E524FB0.title: "Forgotten"
+	quest.15A8F04BC10E619E.quest_desc: [
+		"While most flora in these lands isolates itself to specific realms, the Dense Forest defies the natural order. "
+		""
+		"It is as if an ancient force gathered the saplings of the world and bound them together within this single, tangled canopy."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_dense.png width:200 height:100 align:center}"
+	]
+	quest.15A8F04BC10E619E.title: "Dense Forest"
+	quest.16A04B2FC3F0D902.quest_desc: [
+		"The archaic implements known as &7Cloggrum&r Tools serve as a reliable, rugged alternative to standard iron hardware, though their textured surfaces bear a striking resemblance to compressed, dried mud rather than refined ore. "
+		""
+		"Do not let their primitive, earth-stained appearance deceive you; they possess a surprising resilience and utilitarian efficiency. "
+		""
+		"Furthermore, smiths have discovered that the dense composition of this material grants the &7Cloggrum&r Sword an unmatched weight, allowing it to deliver significantly more devastating damage upon a target than a blade forged from common iron."
+	]
+	quest.16A04B2FC3F0D902.title: "&7Cloggrum&r Tools"
+	quest.17C2C8F64B4AE6EE.quest_desc: [
+		"The sluggish beasts known as &2Dwellers&r serve as the primary livestock within the &2&lUndergarden&r, mirroring the domestic role that cattle hold in the surface world. "
+		""
+		"They are entirely passive creatures, wandering the dim landscapes with a heavy, harmless gait. "
+		""
+		"Should they be slaughtered for survival, their carcasses yield a coarse leather suitable for basic crafting, alongside a dense supply of raw Dweller Meat. "
+		""
+		"Mysteriously, these mammals possess no harvestable milk—a biological mercy that seasoned explorers are deeply grateful for, given the unsettling fluids that course through their subterranean bodies."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_dweller.png width:100 height:100 align:center}"
+	]
+	quest.17C2C8F64B4AE6EE.title: "&2Dweller&r"
+	quest.1BAE1519E44E40CE.quest_desc: [
+		"Take the Ancient Sea and drain it of all its kelp, leaving it entirely devoid of &bGwibs&r and &bGwiblings&r. \\n\\nWhat remains is the Dead Sea."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_dead.png width:200 height:100 align:center}"
+	]
+	quest.1BAE1519E44E40CE.title: "Dead Sea"
+	quest.1C232674CD04024D.quest_desc: [
+		"The &2&lUndergarden&r stands as a sprawling subterranean expanse, a realm defined by its starkly diverse and grotesque biomes. "
+		""
+		"Within its shadowed folds, an overwhelming abundance of alien vegetation thrives alongside a host of unpredictable entities—some deceptively docile, others overtly hostile. "
+		""
+		"Rich veins of untamed ores and forgotten relics lie buried deep beneath the soil, waiting to be claimed. "
+		""
+		"Steel your resolve, traveler, for this land demands blood, and a desperate struggle for survival awaits any who cross the threshold."
+	]
+	quest.1C232674CD04024D.quest_subtitle: "Take Us to the Threshold!"
+	quest.1C232674CD04024D.title: "Welcome to the &2&lUndergarden&r!"
+	quest.1E13D7CE5A9EFF74.quest_desc: [
+		"The Frostfields stretch out as one of the most frigid, unforgiving biomes within the &2&lUndergarden&r. "
+		""
+		"Towering icicles pierce the gloom, overlooking vast drifts of Powdered Snow and brittle, Frozen Deepturf. "
+		""
+		"Deep beneath the surface, the standard Depthrock gives way to Shiverstone—a deceitful material that looks like stone, but behaves like slick, treacherous ice to anyone foolish enough to step on it."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_frosty.png width:200 height:100 align:center}"
+	]
+	quest.1E13D7CE5A9EFF74.title: "Frostfields"
+	quest.1E81B903137BB62A.quest_desc: [
+		"Standard implements of war will rapidly fail when matched against the horrific predators stalking the &2&lUndergarden&r. "
+		""
+		"To withstand their onslaught, an artisan can forge the sturdy &7Cloggrum Shield&r, a bulwark that matches the reliable defensive capabilities of common surface shields. "
+		""
+		"However, acquiring true offensive supremacy requires unearthing a relic of the past: the devastating &7Battleaxe&r. "
+		""
+		"This heavy weapon cannot be crafted by mortal hands; it must be wrenched as a rare, hard-won trophy from the shattered remains of the tomb-dwelling &7Forgottens&r."
+	]
+	quest.1E81B903137BB62A.title: "&7Cloggrum&r Weapons"
+	quest.1FCF946B7BE3C0BD.quest_desc: [
+		"Implements forged from the volatile ore known as &cUtherium&r match the flawless cutting precision and structural durability of standard diamond hardware. "
+		""
+		"However, these specialized armaments harbor a profound biological paradox within their glowing edges. "
+		""
+		"When drawn against the corrupted forces of the blight, the weapons react with immense kinetic fury, proving significantly more effective at purging &cRot Mobs&r than any diamond blade could achieve. "
+		""
+		"It is a brilliant, cyclic law of metallurgy: the very essence harvested from the remains of the infected is weaponized directly against them, striking down the monsters with the refined power of their own toxic lineage."
+	]
+	quest.1FCF946B7BE3C0BD.title: "&cUtheric&r Tools"
+	quest.22739522F0D33D7B.quest_desc: [
+		"The Gloomgourd grows and spreads across the damp soil in a manner mirroring the common pumpkins of the surface world, sending out creeping vines that claim the earth. "
+		""
+		"Cultivators have found that its flesh can be safely hollowed out and baked into a rich, dark pie, or carved with leering faces and illuminated from within to create protective jack-o'-lanterns. "
+		""
+		"Yet, beneath its thick rind lies a volatile anatomy entirely alien to regular crops; when mixed with the correct catalysts, the compressed gases within the gourd react violently, allowing it to be repurposed into a devastating explosive."
+	]
+	quest.24D38DA8E86DD897.quest_desc: [
+		"The absolute lowest tier of the spreading corruption, this miserable creature crawls as the smallest and most fragile vector among the &cRot Mobs&r. "
+		""
+		"It possesses a frail, decaying vitality equivalent to a mere ten standard measures of health, making it an easy target for an alert traveler. "
+		""
+		"Driven by the primal, localized hatred inherent to all infected &cRot Mobs&r, it will mindlessly throw itself against the proud &2Stoneborns&r and the ancient &7Forgottens&r in a desperate attempt to spread its blight. "
+		""
+		"Upon its swift eradication, its dissolving tissue yields a small scattering of valuable &cUtheric Shards&r."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_rotling.png width:100 height:100 align:center}"
+	]
+	quest.24D38DA8E86DD897.title: "&cRotling&r"
+	quest.278D34BBC13356DF.quest_desc: [
+		"A bruised, purple haze hangs over this unique bog, where the very earth seems stained by corruption. "
+		""
+		"This volatile landscape is heavily choked with ink-black mushrooms and choked with pooling reservoirs of Virulent Mix, waiting for the careless traveler to misstep."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_ink.png width:200 height:100 align:center}"
+	]
+	quest.278D34BBC13356DF.title: "Ink Mushroom Bog"
+	quest.2C5A7E4CD8B57E08.quest_desc: ["The Grongle Trees endure as the towering, monolithic pillars of the Gronglegrowth biomes, their massive trunks defying the limits of the sky. \\n\\nThey are ancient titans born of a wild, primordial soil—and it is high within their tangled branches that the elusive &eGronglets&r make their home, hidden far above the forest floor."]
+	quest.2E596B5A4EA2ABF4.quest_desc: [
+		"A careless traveler might easily mistake a resting &3S'Mog&r for a stationary smog vent, only realizing their error when the stone itself begins to breathe. "
+		""
+		"This elusive entity stands as a close, deceptive cousin to the notorious &2Mog&r, perfectly mimicking its predatory habits, movement patterns, and hostile instincts. "
+		""
+		"They share an identical, aggressive nature, yet the true distinction lies within their thick hides. "
+		""
+		"Upon its destruction, a fallen &3S'Mog&r may surrender a harvest of Blue Mogmoss—a rare, glowing fiber highly valued by survivalists."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smog.png width:100 height:100 align:center}"
+	]
+	quest.2E596B5A4EA2ABF4.title: "&3S'Mog&r"
+	quest.30582B5FBED35FD1.quest_desc: [
+		"The volatile element known as &cUtherium&r can only be introduced into the armory through two distinct methods of material acquisition. "
+		""
+		"Prosperous excavators can locate its raw veins crystallizing within the deep strata, requiring precise extraction directly from the ancient rock faces. "
+		""
+		"Alternatively, the mineral displays a parasitic affinity with the forces of the blight; it is heavily hoarded within the tissue of wild &cRot Mobs&r, allowing vanguard units to bypass traditional mining operations entirely and plunder the unrefined shards directly from the carcasses of fallen monsters."
+	]
+	quest.30582B5FBED35FD1.title: "&cUtheric&r"
+	quest.353AEEC116A5DEEF.quest_desc: [
+		"The Ancient Seas are wide-open waters within the &2&lUndergarden&r."
+		""
+		"Miraculously, despite the heavy pollutants, the water is entirely safe to drink."
+		""
+		"These depths are home to &bGwibs&r and &bGwiblings&r—and, of course, you can't forget Glitterkelp"
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_ancient.png width:200 height:100 align:center}"
+	]
+	quest.353AEEC116A5DEEF.title: "Ancient Sea"
+	quest.36389696767EFB4E.quest_desc: [
+		"True to its name, the Barren Abyss is utterly desolate, housing nothing but hostile creatures and scattered pebbles. "
+		""
+		"Frankly, you are better off looking for pebbles anywhere else..."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_barren.png width:200 height:100 align:center}"
+	]
+	quest.36389696767EFB4E.title: "Barren Abyss"
+	quest.380D3212D1CBA593.quest_desc: [
+		"Stepping out from the shadows of the infected hordes comes the &cRotwalker&r, the terrifying, medium-sized vanguard of the corrupted &cRot Mobs&r. "
+		""
+		"It boasts a grotesque, heavily reinforced vitality equivalent to forty standard measures of health, standing as a durable monument to the spreading blight. "
+		""
+		"True to the relentless instincts driving all infected &cRot Mobs&r, this walking horror focuses its mindless aggression entirely on tearing down the proud &2Stoneborns&r and the ancient &7Forgottens&r. "
+		""
+		"Should you successfully survive its brutal assault and cleave through its rotting flesh, its remains will surrender a valuable harvest of &cUtheric Shards&r."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_rotwalker.png width:100 height:200 align:center}"
+	]
+	quest.380D3212D1CBA593.title: "&cRotwalker&r"
+	quest.3AF7446592D19FA6.quest_desc: [
+		"The glistening gemstone classified as &eRegalium&r reigns as the definitive equivalent to surface-world emeralds within the boundaries of the &2&lUndergarden&r. "
+		""
+		"Due to its rigid, brittle crystal lattice, it possesses zero structural malleability and cannot be forged into defensive armor plating or sharp tools at the anvil. "
+		""
+		"However, it holds supreme economic value as a medium of diplomatic exchange. "
+		""
+		"When presented to the stoic &2Stoneborns&r, this glittering mineral acts as the primary currency required to open commerce, allowing vanguard units to trade for high-value survival goods and exotic items."
+	]
+	quest.3AF7446592D19FA6.title: "&eRegalium&r"
+	quest.4141EF8B8C316118.quest_desc: [
+		"&7Cloggrum&r reigns undisputed as the foundational iron of the &2&lUndergarden&r, serving as the absolute bedrock of subterranean craftsmanship. "
+		""
+		"Its dense veins permeate nearly every strata of the earth, ensuring that diligent excavators will encounter it throughout their travels. "
+		""
+		"This highly adaptable mineral serves as a critical catalyst, bound into a vast multitude of structural, defensive, and alchemical recipes. "
+		""
+		"Its presence is so deeply woven into the dimension's biology that even certain ravenous entities have absorbed its raw shards into their flesh, surrendering unrefined chunks of the metal upon their destruction."
+	]
+	quest.4141EF8B8C316118.title: "&7Cloggrum&r"
+	quest.43A1BC20BB054A14.quest_desc: [
+		"\"Deep within the freezing depths of the Ancient and Icy Seas thrives the elusive Glitterkelp. "
+		""
+		"While it appears entirely passive—doing little more than casting a soft, bioluminescent glow through the dark currents—it holds a prized status among coastal gatherers. "
+		""
+		"When carefully harvested and drained of its briny fluids, this radiant flora can be baked into a rare, glowing pastry known to travelers as Glitterkelp Pie. "
+		""
+		"It is a dish celebrated as much for its eerie, shifting light as it is for its unique sweetness."
+	]
+	quest.43FD4AEBB9548E57.quest_desc: [
+		"Deeply entwined with its neighboring swamplands, the Smogstem Forest shares the same unnatural blue coloration and clusters of Indigo Mushrooms. "
+		""
+		"Yet, as the bog recedes, the terrain shifts into a towering labyrinth dominated by massive, overgrown Smogstem Trees that block out what little light remains."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smogstem.png width:200 height:100 align:center}"
+	]
+	quest.43FD4AEBB9548E57.title: "Smogstem Forest"
+	quest.4568C2F465EDB960.quest_desc: [
+		"The resilience of the Droopfruit is a marvel of the underworld, defying territorial boundaries to take root across nearly every biome. "
+		""
+		"To find them, one must cast their gaze away from the soil and search the high stone ceilings. "
+		""
+		"They cling tightly to the rocky vaults of the world, anchoring themselves to the overhead bedrock and cascading downward in luminescent strands that mirror the glowing flora of the ancient subterranean depths."
+	]
+	quest.46DCB235D3FEDA61.quest_desc: [
+		"These specialized implements match the fundamental capabilities of standard iron gear, yet they harbor a passive, cryogenic enchantment within their forged edges. "
+		""
+		"Upon delivering a successful strike, the weapon instantly leaches heat from the target's flesh, inflicting a freezing lethality that severely slows the movement and reflex speed of any hostile entity it cuts down. "
+		""
+		"The only exception to this crippling enchantment rests within the agricultural hoe, which lacks the necessary surface area to channel the frostbite—though an authentic warrior has little use for a farming tool when standing on the front lines of a frantic skirmish."
+	]
+	quest.46DCB235D3FEDA61.title: "&bFroststeel&r Tools"
+	quest.49EB9FB2133E3219.quest_desc: [
+		"The tattered plating designated as Ancient Armor serves as the standard martial uniform worn exclusively by the skeletal &7Forgottens&r patrolling the tombs. "
+		""
+		"Because the secrets of forging this specific alloy have been completely lost to time, the armor cannot be shaped at a modern anvil; it must be systematically stripped from their shattered frames upon their definitive fall in battle. "
+		""
+		"Remarkably, the full defensive set contains a permanent structural vacancy: there is no historical record or physical blueprint for Ancient Boots. "
+		""
+		"Extensive skeletal examinations reveal a bizarre anatomical anomaly, as the tomb-dwelling &7Forgottens&r are completely devoid of feet, floating or dragging across the stone without the need for footwear."
+	]
+	quest.49EB9FB2133E3219.title: "Ancient Armor"
+	quest.4C5CFA45D9B4F6D3.quest_desc: [
+		"To hunt for Indigo Mushrooms, one must look to the heavens and seek the sapphire canopies of the Smogstem Trees. "
+		""
+		"These unique fungi are rarely found wandering alone, preferring instead the dense company of their towering counterparts. "
+		""
+		"They claim the damp earth around the grey trunks, multipling rapidly within the suffocating fog as if the trees themselves were whispering life directly into the fungal spores."
+	]
+	quest.4D836B9D9E3B898F.quest_desc: [
+		"The stoic entities known as &2Stoneborns&r exist as a perfect, harmonious amalgamation of village merchant and iron sentinel. "
+		""
+		"They possess a deep intelligence and a willingness to cooperate with travelers, eagerly engaging in commerce and trading rare goods with anyone who approaches them with peaceful intent. "
+		""
+		"Yet, beneath their calm, trading demeanor rests the absolute martial might of a guardian; they will ruthlessly cut down any hostile monsters that threaten their domain, and will instantly turn their immense strength against any foolish traveler who dares to strike them."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_stoneborn.png width:100 height:150 align:center}"
+	]
+	quest.4D836B9D9E3B898F.title: "&2Stoneborn&r"
+	quest.4E3D548E5D8D7D26.quest_desc: [
+		"The Forgotten Fields stretch out as the silent, empty plains of the &2&lUndergarden&r. "
+		""
+		"No trees pierce the horizon, leaving the expanse to the cold earth, weeping flowers, and restless entities. "
+		""
+		"Yet, the true enigma lies in its name: despite the whispers of the past, no &7Forgotten&r has ever been seen walking these hollow lands."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_field.png width:200 height:100 align:center}"
+	]
+	quest.4E3D548E5D8D7D26.title: "Forgotten Fields"
+	quest.4F3B4990BE6C2A4A.quest_desc: [
+		"The gentle &7Scintlings&r thrive as the small, innocent gastropods found crawling across nearly every corner of the &2&lUndergarden&r. "
+		""
+		"They possess a curious trait akin to the fabled snow constructs of the outer worlds, painting the landscape with a continuous, glistening trail of viscous slime wherever they roam. "
+		""
+		"Upon their tragic demise, their fragile bodies surrender a small cluster of Scintling Goo. "
+		""
+		"However, because this precious substance can be gathered freely and endlessly from the residue of their passing, a righteous traveler has absolutely no reason to bring harm to these harmless creatures."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_scintling.png width:150 height:100 align:center}"
+	]
+	quest.4F3B4990BE6C2A4A.title: "Scintling"
+	quest.4F5A2E2A5C7F4837.quest_desc: [
+		"Acquiring the mythical &aForgotten Ingots&r requires a perilous descent into the dark, crumbling vaults of the Catacomb Structure. "
+		""
+		"These legendary bars of metal cannot be mined from the earth; they must be plundered directly from the sealed offering chests of the dead or violently wrenched from the shattered core of the monolithic &aForgotten Guardian&r. "
+		""
+		"Furthermore, anchoring their ancient power to your gear demands a specialized Smithing Template. "
+		""
+		"This elusive blueprint is a lost art, hidden exclusively within those same ancient chests, waiting for an artisan brave enough to claim it from the tomb."
+	]
+	quest.4F5A2E2A5C7F4837.title: "&aForgotten&r"
+	quest.511144EF336BFAF5.quest_desc: [
+		"The Smog Spires pierce the heavens as the primary source of the realm's suffocating haze. "
+		""
+		"Yet, the towers do not choke the skies alone—one cannot overlook the unnatural contributions of the &2Mogs&r and &3S'mogs&r. "
+		""
+		"Those who dare traverse this blighted landscape will encounter Blisterberries, Coarse Deepsoil, and active Smog Vents. Approach them at your own peril..."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smogspires.png width:200 height:100 align:center}"
+	]
+	quest.511144EF336BFAF5.title: "Smog Spires"
+	quest.51C59FDF0BD11FDF.quest_desc: [
+		"To define a Wigglewood Tree is to look upon total structural unpredictability. "
+		""
+		"These strange entities grow with a frantic, shifting energy, contorting themselves into bizarre shapes and unpredictable sizes as if trying to break free from the soil. "
+		""
+		"Their dark brown trunks stand in stark, beautiful contrast to the pale pink leaves that whisper in the wind. "
+		""
+		"They claim sole dominion over the Wigglewood Forests, though travelers have also reported sightings of their crooked silhouettes stretching deep within the Dense Forests."
+	]
+	quest.51E2728C5E35A152.quest_desc: [
+		"The precious mineral known as &bFroststeel&r is a rare treasure locked exclusively within the unforgiving, frozen biomes of the realm. "
+		""
+		"It takes root deep inside the treacherous veins of Shiverstone—the slippery, ice-like substrate that completely replaces common Depthrock within the bleak Frostfields and the suffocating Frosty Smogstem Forests, extending its reach into the sub-zero abysses of the Icy Seas. "
+		""
+		"Excavating this ore is a perilous endeavor, as the Shiverstone floor robs travelers of their traction while inflicting a numbing chill that slightly slows their movements. "
+		""
+		"Fortunately, a mining pick is not the sole method of acquisition; the ravenous &4Munchers&r frequently devour these crystalline veins, allowing clever hunters to plunder a bounty of raw nuggets directly from the beasts' ruptured bellies."
+	]
+	quest.51E2728C5E35A152.title: "&bFroststeel&r"
+	quest.53FDC6C536E50A1A.quest_desc: [
+		"The gentle shoals of &bGwiblings&r represent some of the few peaceful anomalies navigating the dark undercurrents of the seas."
+		""
+		"Noticeably smaller than their gargantuan counterparts, the &bGwibs&r, these fragile creatures exhibit standard schooling and swimming behaviors indistinguishable from the common fish of the surface world. "
+		""
+		"They are completely harmless to travelers, darting rhythmically through the deep waters in a constant, graceful dance for survival."
+		""
+		""
+		"{image:undergarden:item/raw_gwibling width:100 height:100 align:center}"
+	]
+	quest.53FDC6C536E50A1A.title: "&bGwibling&r"
+	quest.5B4B5C148D63ACA1.quest_desc: [
+		"The enigmatic constructs known as &aForgotten Minions&r do not belong to the natural order of birth and decay; they are entities born entirely of deliberate creation. "
+		""
+		"To breathe life into one, an artisan must align a Carved Gloomgourd atop a solid &aBlock of Forgotten Ingots&r, triggering a sudden, silent awakening. "
+		""
+		"These metallic guardians mirror the defensive behaviors of snow constructs from distant worlds, maintaining absolute loyalty to their creators while relentlessly hurling projectiles at hostile entities. "
+		""
+		"Possessing a resilient vitality equivalent to twenty standard measures of health, they yield absolutely no earthly remains upon destruction—though only a truly hollow soul would ever raise a blade against them."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_minion.png width:125 height:100 align:center}"
+	]
+	quest.5B4B5C148D63ACA1.title: "&aForgotten Minions&r"
+	quest.5D229FA3A5F92954.quest_desc: [
+		"While the bloodthirsty beasts known as &4Munchers&r share the same relentless aggression as other hostile horrors haunting the &2&lUndergarden&r, their unique biological dietary habits make them an incredibly valuable target for resource gatherers. "
+		""
+		"These ravenous creatures constantly feast upon the raw veins of the earth, storing unrefined minerals directly within their heavy gullets. "
+		""
+		"Should you successfully cut them down, their ruptured bellies can surrender a precious harvest of refined &7Cloggrum&r and shimmering &bFroststeel Nuggets&r—making them a dangerous but highly lucrative source of metallurgy for those daring enough to hunt them."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_muncher.png width:100 height:100 align:center}"
+	]
+	quest.5D229FA3A5F92954.title: "&4Muncher&r"
+	quest.5E63C78CDC44FF95.quest_desc: [
+		"In their raw, unrefined form, Rotten Blisterberries possess a highly unstable structure that prevents them from being launched or thrown by hand without premature rupture. "
+		""
+		"However, when sealed and bound into tactical Blisterbombs, their structural integrity is secured, transforming them into a highly effective thrown ordnance. "
+		""
+		"For siege-level devastation, an artisan can advance this chemical engineering to construct Boomgourds. "
+		""
+		"This heavy explosive behaves identically to traditional surface-world TNT upon ignition, but introduces a catastrophic secondary effect: the blast wall shatters to violently scatter burning Blisterberry shrapnel across a massive radius, choking the battlefield in a rain of corrosive rot."
+	]
+	quest.5E63C78CDC44FF95.title: "Explosives!!!"
+	quest.5FCA6F5FE97780B7.quest_desc: [
+		"Though they possess a distinct, animalistic presence, &eGronglets&r are technically unique vegetative growths rather than living creatures. "
+		""
+		"These fascinating entities grow exclusively along the bark of the colossal Grongle Trees, anchoring themselves to the timber as fixed landmarks of the canopy. "
+		""
+		"Once mature, they continuously bleed a comforting, ambient noise and a soft, rhythmic light into the surrounding wilderness. "
+		""
+		"They remain highly coveted by architects and travelers alike, serving as the ultimate organic decoration for those seeking to bring the warmth of the jungle indoors."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_gronglet.png width:100 height:100 align:center}"
+	]
+	quest.5FCA6F5FE97780B7.title: "&eGronglets&r"
+	quest.6124C0E9E419694B.quest_desc: [
+		"When a craftsman melds common &7Cloggrum&r implements with rare &aForgotten Ingots&r via a sacred Smithing Template, the resulting armaments transcend standard smithing boundaries. "
+		""
+		"These stand undisputed as the pinnacle of tools within the realm, forged with an innate, structural efficiency attuned specifically to dismantle the dense stone and flora of the &2&lUndergarden&r. "
+		""
+		"When drawn in anger, the blades and axes channel a primeval malice, delivering devastating, heightened damage to almost every native entity stalking the dark. "
+		""
+		"Only the colossal &aForgotten Guardian&r—sharing the weapon's own metallic bloodline—and the ancient, corrupted &cRot Beast&r possess the unique resilience required to shrug off this absolute lethality."
+	]
+	quest.6124C0E9E419694B.title: "&aForgotten&r Tools"
+	quest.647A87E800C703C3.quest_desc: [
+		"The Green Jungle stands as a breathtaking spectacle within the realm. "
+		""
+		"It is a colossal, untamed paradise dominated by massive, towering Gronglegrowth Trees that stretch high into the canopy. "
+		""
+		"If you dare to look up into their ancient branches, you might just spot the elusive &eGronglets&r clinging to the bark."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_grongle.png width:200 height:100 align:center}"
+	]
+	quest.647A87E800C703C3.title: "Gronglegrowth"
+	quest.6751F2651063B3A5.quest_desc: [
+		"To encounter a Blood Mushroom is to witness a grotesque anomaly of the lowlands. "
+		""
+		"These gargantuan fungi grow with heavy, branching crowns, spreading wide to block out the twilight sky. "
+		""
+		"Their trunks and caps are predominantly bone-white, but the stark coloration is marred by localized, bleeding capillaries. "
+		""
+		"These stark crimson patches seep into the pale fibers, giving the unsettling illusion that the landscape itself is bleeding."
+	]
+	quest.67A2347534269528.quest_desc: [
+		"The vile entities known as &9Sploogies&r emerge only rarely from the dark recesses of the earth, yet their presence is an immediate curse to any traveler. "
+		""
+		"They maintain a cowardly, parasitic strategy—firing streams of caustic, pressurized spit from a distance while emitting wet, deeply repulsive sucking sounds that echo through the caverns. "
+		""
+		"Despite their sudden aggression, they possess no true courage; a single retaliatory strike will shatter their nerve, causing them to turn and flee in a panicked scramble reminiscent of a startled baby piglin. "
+		""
+		"Upon their demise, their fluid-bloated bodies burst to leave behind nothing of worth save for a few common Depthrock Pebbles."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_sploogie.png width:125 height:100 align:center}"
+	]
+	quest.67A2347534269528.title: "&9Sploogie&r"
+	quest.6C4B93FE64BD418D.quest_desc: [
+		"Tearing open a passage to the &2&lUndergarden&r requires a ritual heavily reminiscent of the gateway to &c&lThe Nether&r. "
+		""
+		"A grand, rectangular threshold must be constructed, mirroring the exact height and width of those obsidian gates. "
+		""
+		"Yet, this realm rejects volcanic glass; its gateway must be forged from the heavy weight of stone, requiring a frame of classic Stone Bricks, weathered Mossy Stone Bricks, or dark Deepslate Bricks. "
+		""
+		"Once the monolithic arch stands complete, striking its inner hollow with the elusive Catalyst will ignite the veil and open the path."
+	]
+	quest.6D4FB6291CA8D1A6.quest_desc: [
+		"The Smogstem Trees are defined by their thick, bulbous bases, reminiscent of the ancient giants that once braced the surface world. "
+		""
+		"They bear leaves of a deep sapphire hue and trunks of a muted, ash-grey bark. "
+		""
+		"These imposing structures possess an adaptive resilience, claiming domain across multiple territories: they anchor the suffocating Smogstem Forests, choke the light from the Dense Forests, and even take root within the damp soil of the Indigo Mushroom Bogs."
+	]
+	quest.6F416275B6F6D8F0.quest_desc: [
+		"Deep within the choking fumes of the Smog Spires hangs the volatile fruit known as Blisterberries. "
+		""
+		"Born in such an abrasive, toxic environment, a vast portion of the harvest is rapidly overtaken by a necrotic decay before it can even be plucked. "
+		""
+		"To consume these blackened, rotten specimens is an act of sheer madness—yet, for the daring alchemist, this very rot holds a different kind of promise, harboring volatile compounds that may prove highly useful in the brewing of potent blights."
+	]
+	quest.70FD8856BFCD9AEE.quest_desc: [
+		"The absolute zenith of the spreading plague, this cataclysmic behemoth reigns as the largest and most dangerous titan among the &cRot Mobs&r. "
+		""
+		"It carries a staggering, near-impenetrable vitality equivalent to one hundred and sixty standard measures of health, elevating it to a catastrophic threat that strikes absolute terror into the hearts of seasoned explorers. "
+		""
+		"Driven by the raw, consuming hatred inherent to all infected &cRot Mobs&r, this towering horror launches into a brutal campaign to butcher the proud &2Stoneborns&r and dismantle the ancient &7Forgottens&r. "
+		""
+		"Should a legendary champion somehow orchestrate its definitive fall, its bursting flesh will surrender a massive bounty of precious &cUtheric Shards&r."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_rotbeast.png width:100 height:100 align:center}"
+	]
+	quest.70FD8856BFCD9AEE.title: "&cRotbeast&r"
+	quest.71E1454990DEC451.quest_desc: [
+		"The absolute zenith of malice beneath the waves, the gargantuan &bGwibs&r exist as the swollen, violently mutated sovereigns of the abyssal seas. "
+		""
+		"They share a lineage with the fragile &bGwiblings&r, yet they have traded all innocence for an insatiable, blinding fury. "
+		""
+		"Do not expect to conquer them for profit or glory; their massive, thick hides yield absolutely zero salvageable materials upon their slaughter, nor can their colossal frames be contained within a simple traveler's bucket. "
+		""
+		"They exist purely to punish the arrogant. To disturb their waters is to realize your own insignificance, for they offer nothing to this world but unmitigated agony."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_gwib.png width:100 height:100 align:center}"
+	]
+	quest.71E1454990DEC451.title: "&bGwib&r"
+	quest.739601B0C43B239B.quest_desc: [
+		"Though their outer flesh burns with a vibrant sapphire radiance, the true secret of the Indigo Mushrooms lies locked within their bleeding spores. "
+		""
+		"When crushed and subjected to intense refinement, their brilliant blue pigment undergoes a drastic, unnatural transformation—yielding a pitch-black dye of absolute opacity. "
+		""
+		"Alchemists and weavers highly prize this fluid, as it drinks in the light and permanently stains any fabric it touches with the deep shadows of the lowlands."
+	]
+	quest.744DBE831C120B2F.quest_desc: [
+		"A sudden shift in the gravel can spell doom for the uninitiated, for what appears to be a dormant stone may well be a camouflaged &2Mog&r. "
+		""
+		"These rock-bound entities possess a bizarre, mineral-based biology that reacts uniquely to the environment. "
+		""
+		"Cultivators have discovered that a pair of &2Mogs&r can be enticed to propagate their species when offered a steady diet of Depthrock Pebbles. "
+		""
+		"Should they fall in battle, their stony carapaces fracture to reveal a harvest of raw pebbles or patches of standard Mogmoss—a highly versatile, fibrous growth utilized across a vast array of craft and alchemical recipes."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_mog.png width:100 height:100 align:center}"
+	]
+	quest.744DBE831C120B2F.title: "&2Mog&r"
+	quest.7617737FC179EA1A.quest_desc: [
+		"When encased in a full suit of &bFroststeel&r Armor, a warrior commands a defensive threshold only slightly inferior to the legendary brilliance of diamond plating. "
+		""
+		"The dense, freezing composition of the metal anchors the wearer firmly to the earth, absorbing heavy impacts to grant immense resistance against devastating knockback attacks. "
+		""
+		"However, this absolute stability demands a severe physical sacrifice. "
+		""
+		"The biting, localized frost emanating from the plates penetrates the bones, locking the muscles into a sluggish state and inflicting a permanent reduction to movement speed. "
+		""
+		"It is a bulwark designed for the immovable guardian, not the swift scout."
+	]
+	quest.7617737FC179EA1A.title: "&bFroststeel&r Armor"
+	quest.76CDC18D7A208512.quest_desc: [
+		"Deep within the shadowed expanse of the &2&lUndergarden&r, the vile creatures known as &cRot Mobs&r carry a insidious blight, capable of infecting travelers with the corruptive essence of &cUtherium&r. "
+		""
+		"When contracted in minor amounts, the body can naturally fight off the sickness, allowing the rot to slowly decay and fade over time. "
+		""
+		"However, should the infection reach a critical threshold, it permanently binds to the host's vitality and will never subside on its own. "
+		""
+		"The only known salvation lies in &3Rogdorium&r, a rare mineral found exclusively within the crushing depths of the Dreadrock regions. "
+		""
+		"This precious substance can be consumed directly to purge the sickness, or meticulously infused into your armor to forge a permanent ward against the blight."
+	]
+	quest.76CDC18D7A208512.title: "Warning"
+	quest.79C652E3FCB88550.quest_desc: [
+		"The unusual beasts known as &5Gloompers&r maintain a deceptively passive demeanor as they wander the lowlands, yet they possess a biological retaliation system that elevates them to a truly neutral status. "
+		""
+		"When provoked or struck by a careless blade, their skin instantly secretes a volatile mist, unleashing a localized cloud that lingers in the air much like an alchemical potion. "
+		""
+		"Should a hunter successfully neutralize the beast, its carcass surrenders premium leather hides and a harvest of its muscular legs—a meat celebrated across the realm for its incredibly rich, savory taste. "
+		""
+		"For those looking to domesticate them, a pair of &5Gloompers&r can be enticed to breed when offered a harvest of ripe Gloomgourds."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_gloomper.png width:100 height:100 align:center}"
+	]
+	quest.79C652E3FCB88550.title: "&5Gloomper&r"
+	quest.7E3DA4168D352B42.quest_desc: [
+		"At first glance, these mushrooms appear ordinary. "
+		""
+		"Their true secret, however, lies in what they produce: \\n\\nVeils! "
+		""
+		"They make for an incredibly useful decoration block."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_veil.png width:200 height:100 align:center}"
+	]
+	quest.7E3DA4168D352B42.title: "Veil Mushroom Bog"
+}
