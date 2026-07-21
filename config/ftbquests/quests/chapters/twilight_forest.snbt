@@ -5,10 +5,10 @@
 	group: "5DF77DB923AC9901"
 	id: "0CF61BD8855339B8"
 	images: [{
-		height: 5.0d
+		height: 3.86d
 		image: "ftb_quests:textures/gui/ftb_quests/images/twilight_forest_title.png"
 		rotation: 0.0d
-		width: 12.0d
+		width: 25.0d
 		x: 1.0d
 		y: -9.5d
 	}]

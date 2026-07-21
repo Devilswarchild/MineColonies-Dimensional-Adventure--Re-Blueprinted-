@@ -1,0 +1,32 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "spice_of_life_carrot_edition"
+	group: "0739057429E7DE4D"
+	id: "10DE386E4456F7B2"
+	images: [{
+		height: 4.0d
+		image: "ftb_quests:textures/gui/ftb_quests/images/title_spiceoflife.png"
+		rotation: 0.0d
+		width: 4.0d
+		x: -2.0d
+		y: -4.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "03C002E4A4515E0E"
+		rewards: [{
+			id: "7643D8B2D108BE1E"
+			type: "xp"
+			xp: 5
+		}]
+		tasks: [{
+			id: "4B3E51A0BC5C4197"
+			item: { count: 1, id: "solcarrot:food_book" }
+			type: "item"
+		}]
+		x: -2.0d
+		y: -0.5d
+	}]
+}

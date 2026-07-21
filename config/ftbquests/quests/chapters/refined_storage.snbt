@@ -7,7 +7,15 @@
 		id: "refinedstorage:creative_controller"
 	}
 	id: "15AAF17B6665223D"
-	order_index: 14
+	images: [{
+		height: 10.0d
+		image: "ftb_quests:textures/gui/ftb_quests/images/refined_logo.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: -1.5d
+		y: -12.5d
+	}]
+	order_index: 15
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

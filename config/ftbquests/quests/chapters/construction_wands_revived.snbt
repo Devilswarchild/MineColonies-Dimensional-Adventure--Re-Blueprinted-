@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "construction_wands_revived"
+	group: "250FD3D3997385F0"
+	id: "44F39DFD4FDDE340"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

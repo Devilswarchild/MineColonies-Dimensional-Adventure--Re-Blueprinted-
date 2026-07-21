@@ -1,0 +1,93 @@
+{
+	"chapters/end_remastered.snbt": {
+		quest.17452A76067CC6C0.quest_desc: {
+			new: ["Found in Mineshafts."]
+			old: ["It is told that it was forged by the first blacksmiths of time..."]
+		}
+		quest.7333E2A32FC534C0.quest_desc: {
+			new: ["Found in Desert Pyramids."]
+			old: ["Legends say this eye once belonged to one of the great Sandworms."]
+		}
+		quest.05FFFD19E6761FD9.quest_desc: {
+			new: ["Have a small chance to get it when enchanting."]
+			old: ["No known information was recorded about this eye."]
+		}
+		quest.08FCBB3A1B289757.quest_desc: {
+			new: ["Dropped by The Wither."]
+			old: ["It has witnessed destruction. Maybe it also witnessed your stuff disappear."]
+		}
+		quest.7A6D9E7DAD77F895.quest_desc: {
+			new: ["Craft it using aquatic items."]
+			old: [
+				"Those who followed this eye were never seen again; rumors say they found the great city of Atlantis or lost their way trying."
+				""
+				"Crafted with 1 &bEye of Ender&r, 4 &bCorals&r (bubble, fire, horn, and tube), 2 &bConduits&r, and 2 &bGlow Ink Sacs&r."
+				""
+				""
+				"{image:ftb_quests:textures/gui/ftb_quests/images/er_exotic_eye.png width:160 height:80 align:center}"
+			]
+		}
+		quest.517977BB9C67C6FC.quest_desc: {
+			new: ["Found in Piglin Bastion treasure chests."]
+			old: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives."]
+		}
+		quest.4B9C8C7BAB6C36AF.quest_desc: {
+			new: ["Craft it using an Undead Soul."]
+			old: [
+				"Remembrance of the past lives of those who live in death."
+				""
+				"Crafted with 1 &bPhantom Membrane&r, 1 &bBone,&r 1 &bRotten Flesh&r, 1 &bGhast Tear&r, and 1 &bUndead Soul&r"
+				""
+				""
+				"{image:ftb_quests:textures/gui/ftb_quests/images/er_undead_eye.png width:160 height:80 align:center}"
+			]
+		}
+		quest.34E8AE9BB4D37DA7.quest_desc: {
+			new: ["Get it by killing an Elder Guardian."]
+			old: ["It has been seen many warriors drown into the depths of the sea."]
+		}
+		quest.3D91D754E66F9811.quest_desc: {
+			new: ["Dropped by Evokers."]
+			old: ["Without this eye, the Evoker has no power."]
+		}
+		quest.7BB9B1E8888BA04F.quest_desc: {
+			new: ["Found in Nether Fortresses."]
+			old: ["It was lost by a demon in the battle between the Aether and the Nether."]
+		}
+		quest.4B7870B5DBF67428.quest_desc: {
+			new: ["Found in Igloos."]
+			old: ["One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world."]
+		}
+		quest.202C506FA06B4E39.quest_desc: {
+			new: ["Buy it from a master cleric."]
+			old: [
+				"Bought from &dMaster-level Cleric Villagers&r for &bEmeralds&r and 1 &bRabbit's Foot&r."
+				""
+				"A holy talisman said to protect its owner from bad luck."
+			]
+		}
+		quest.41B4C7B9D3AE6317.quest_desc: {
+			new: ["Craft it using a witch's pupil"]
+			old: [
+				"This pupil is believed to have seen the ancient brewing recipes that were lost in time."
+				""
+				"Crafted with 1 &bEye of Ender&r and 1 &bWitch Pupil&r"
+				""
+				""
+				"{image:ftb_quests:textures/gui/ftb_quests/images/er_witch_eye.png width:160 height:82 align:center}"
+			]
+		}
+		quest.3BCA33834716DA39.quest_desc: {
+			new: ["Found in Buried Chests."]
+			old: ["Pirates say it gave sight to the legendary Black Pearl."]
+		}
+		quest.19689F3D7477D89D.quest_desc: {
+			new: ["Found in Pillager Outposts,"]
+			old: ["The eye of a greedy king faded in solitude; legend says it will bring infinite fortune to its owner."]
+		}
+		quest.394C24C83DA2ECFE.quest_desc: {
+			new: ["Found in Jungle Pyramids"]
+			old: ["The eye is believed to have given our ancestors the knowledge of Redstone."]
+		}
+	}
+}

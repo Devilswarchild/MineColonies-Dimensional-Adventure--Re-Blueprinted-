@@ -20,7 +20,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
-			image: "atm:textures/questpics/deepndark/dnd_biome.png"
+			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_biome.png"
 			order: 2
 			rotation: 0.0d
 			width: 3.0d
@@ -86,78 +86,6 @@
 			width: 2.5d
 			x: 3.0d
 			y: 0.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -7.5d
-			y: 1.5d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -7.5d
-			y: -5.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -1.0d
-			y: 1.5d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: 5.5d
-			y: 8.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: 5.5d
-			y: -5.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: 5.5d
-			y: 1.5d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -1.0d
-			y: -5.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -1.0d
-			y: 8.0d
-		}
-		{
-			height: 8.0d
-			image: "minecraft:block/sculk"
-			rotation: 0.0d
-			width: 8.0d
-			x: -7.5d
-			y: 8.0d
 		}
 	]
 	order_index: 1
@@ -1315,18 +1243,6 @@
 			}]
 			x: -4.5d
 			y: 1.0d
-		}
-		{
-			id: "01ECFBB5F0574C24"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [{
-				id: "5B7FD7C2F05FA64D"
-				type: "checkmark"
-			}]
-			x: -1.0d
-			y: 1.5d
 		}
 	]
 }

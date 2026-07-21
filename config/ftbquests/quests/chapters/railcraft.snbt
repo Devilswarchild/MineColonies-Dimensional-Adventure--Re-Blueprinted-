@@ -8,7 +8,7 @@
 		id: "railcraft:steam_locomotive"
 	}
 	id: "2FB24A5A597459FC"
-	order_index: 13
+	order_index: 14
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

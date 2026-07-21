@@ -1,17 +1,27 @@
 {
 	quest.05FFFD19E6761FD9.quest_desc: ["Have a small chance to get it when enchanting."]
+	quest.05FFFD19E6761FD9.quest_subtitle: "Chance of dropping when enchanting items"
 	quest.08FCBB3A1B289757.quest_desc: ["Dropped by The Wither."]
+	quest.08FCBB3A1B289757.quest_subtitle: "Dropped by the Wither"
 	quest.17452A76067CC6C0.quest_desc: ["Found in Mineshafts."]
+	quest.17452A76067CC6C0.quest_subtitle: "Found in Mineshaft chests"
 	quest.19689F3D7477D89D.quest_desc: ["Found in Pillager Outposts,"]
+	quest.19689F3D7477D89D.quest_subtitle: "Found in Pillager Outpost chests"
 	quest.202C506FA06B4E39.quest_desc: ["Buy it from a master cleric."]
 	quest.34E8AE9BB4D37DA7.quest_desc: ["Get it by killing an Elder Guardian."]
+	quest.34E8AE9BB4D37DA7.quest_subtitle: "Dropped by Elder Guardians"
 	quest.394C24C83DA2ECFE.quest_desc: ["Found in Jungle Pyramids"]
+	quest.394C24C83DA2ECFE.quest_subtitle: "Found in Jungle Pyramid chests"
 	quest.3BCA33834716DA39.quest_desc: ["Found in Buried Chests."]
+	quest.3BCA33834716DA39.quest_subtitle: "Found in Buried Treasure chests"
 	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
+	quest.3D91D754E66F9811.quest_subtitle: "Found in Woodland Mansion chests"
 	quest.41B4C7B9D3AE6317.quest_desc: ["Craft it using a witch's pupil"]
 	quest.4B7870B5DBF67428.quest_desc: ["Found in Igloos."]
+	quest.4B7870B5DBF67428.quest_subtitle: "Found in Igloo chests"
 	quest.4B9C8C7BAB6C36AF.quest_desc: ["Craft it using an Undead Soul."]
 	quest.517977BB9C67C6FC.quest_desc: ["Found in Piglin Bastion treasure chests."]
+	quest.517977BB9C67C6FC.quest_subtitle: "Found in Bastion Remnant chests"
 	quest.5ACCF56D41A5CC27.quest_desc: [
 		"In order to find the dungeon, the player must throw one of the Eyes which will fly for a few blocks in the direction of the nearest End Gate before dropping to the ground. By default, the eyes have a 10% chance to shatter upon being thrown. "
 		""
@@ -21,6 +31,8 @@
 	]
 	quest.5ACCF56D41A5CC27.title: "Use 12 eyes to visit the End"
 	quest.7333E2A32FC534C0.quest_desc: ["Found in Desert Pyramids."]
+	quest.7333E2A32FC534C0.quest_subtitle: "Found in Desert Pyramid chests"
 	quest.7A6D9E7DAD77F895.quest_desc: ["Craft it using aquatic items."]
 	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
+	quest.7BB9B1E8888BA04F.quest_subtitle: "Found in Nether Fortress chests"
 }

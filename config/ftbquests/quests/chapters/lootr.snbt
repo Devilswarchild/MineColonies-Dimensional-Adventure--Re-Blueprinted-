@@ -1,0 +1,93 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lootr"
+	group: "637A26B4655998C2"
+	id: "342CA1CDE7BA8082"
+	images: [{
+		height: 6.0d
+		image: "ftb_quests:textures/gui/ftb_quests/images/lootr_logo.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: 0.0d
+		y: -2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "46CB1AAE1BB94F87"
+			rewards: [{
+				id: "09A2B392A9503838"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "lootr:1chest"
+				criterion: ""
+				id: "511938669761FDF4"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["46CB1AAE1BB94F87"]
+			id: "53EA32CC19AE896C"
+			tasks: [{
+				advancement: "lootr:10loot"
+				criterion: ""
+				id: "7C303E5E765A6767"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["53EA32CC19AE896C"]
+			id: "265E6BBDB288E97A"
+			rewards: [{
+				id: "66DC63DAA7DB010D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "lootr:25loot"
+				criterion: ""
+				id: "675377A3D62217C8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["265E6BBDB288E97A"]
+			id: "74448AA44DC11420"
+			rewards: [{
+				id: "3F3838805E79934A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "lootr:50loot"
+				criterion: ""
+				id: "4EA2BBF25DDCAAA1"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["74448AA44DC11420"]
+			id: "145414B77583E1AA"
+			tasks: [{
+				advancement: "lootr:100loot"
+				criterion: ""
+				id: "77F8CADF023431AD"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+	]
+}
