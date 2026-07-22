@@ -217,6 +217,11 @@
 	quest.0A5AE5ADB477805C.title: "Pinnacle Refinement: The &9Marid Crusher&r"
 	quest.0AE0E58BA5703400.quest_desc: ["Slay the Snow Queen found at the top of the Aurora Palace."]
 	quest.0AE0E58BA5703400.title: "Slay a Snow Queen"
+	quest.0B1DF8A040826D87.quest_desc: [
+		"Now that you have &cRossinite&r, you can mix it with &aBenitoite&r to create &dInsanite&r ingots."
+		""
+		"&aBenitoite Ore&r can be found in the Nether."
+	]
 	quest.0B51F404F1E84C17.quest_desc: [
 		"Step 3: Town Hall"
 		""
@@ -397,6 +402,15 @@
 	quest.145414B77583E1AA.quest_subtitle: "Open 100 Containers"
 	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
 	quest.14B3542ECB59869C.title: "Creating &dLoot"
+	quest.14E5349DD740D026.quest_desc: [
+		"To insert fuel into the reactor, you'll need to pick one of the sides that has a &9Reactor Solid Access Port&r and pump in &eUranium&r from an inventory."
+		""
+		"The easiest way to do this is to use something like a &aStorage Drawer&r or even just a &aChest&r with an &9Item Pipe&r connected at the top, like the image shown below.\\n"
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/import.png width:150 height:150 align:center}"
+	]
+	quest.14E5349DD740D026.title: "Passive Reactor Fueling"
 	quest.14E93FEC6AE1ABA9.quest_subtitle: "These non craftable tools of glory seem to greatly increase your reach"
 	quest.14E93FEC6AE1ABA9.title: " Holy Arms"
 	quest.1565DEE3F59CEDD4.title: "Visit the Twilight Forest"
@@ -453,6 +467,16 @@
 	quest.17C2C8F64B4AE6EE.title: "&2Dweller&r"
 	quest.1808E988F815E641.quest_subtitle: "Highly resistant clouds"
 	quest.1808E988F815E641.title: "New Building Materials!"
+	quest.186731580B14F9D2.quest_desc: [
+		"To interact with our Turbine, we'll need several &6Ports&r."
+		""
+		"The &9Fluid Port&r is used to insert vapors like &bSteam&r, or extract exhaust, like &9water&r. "
+		""
+		"Because of this, you'll need two for your Turbine."
+		""
+		"The &cPower Tap&r extracts power, and is required to complete the multiblock."
+	]
+	quest.186731580B14F9D2.title: "Port O' Turbine"
 	quest.19047AF0EDED198B.quest_desc: [
 		"No ritual matrix is complete without a proper &cSacrifice&r to appease the entities waiting on the other side."
 		""
@@ -646,6 +670,15 @@
 	quest.253657BE5D9D9162.quest_subtitle: "Section VI: Legacy Storage Amalgamation"
 	quest.253657BE5D9D9162.title: "Buffer Interface: Data Integration Matrices"
 	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
+	quest.25D4406CB86C8CBB.quest_desc: [
+		"Now that we are collecting some &9waste&r from our reactor, part of the progression requires you to \"Fluidize\" some of the ingots you get. "
+		""
+		"You know what that means?\\n\\nWe need to make a &aFluidizer&r! "
+		""
+		"The main component is the &aFluidizer Controller&r. Once built, you can right-click on this to open up the interface. "
+		""
+		"Here, you can turn it on or off, see what's inside, and the current power level."
+	]
 	quest.2615A9F7168A46CD.quest_subtitle: "Craft and sacrifice a piece of each of these new equipments to unlock further guidance"
 	quest.2615A9F7168A46CD.title: "A whole new Inventory?"
 	quest.265E6BBDB288E97A.quest_subtitle: "Open 25 containers"
@@ -698,6 +731,11 @@
 	quest.2A20000FAEC2E16A.title: "Interacting with the Reactor"
 	quest.2AC8314F7AA00426.quest_desc: ["Build a portal out of glowstone and activate it with water!"]
 	quest.2AC8314F7AA00426.quest_subtitle: "Use the book of lore to explore items"
+	quest.2AF31F1769085641.quest_desc: [
+		"The &aReprocessor&r is a 3x3x7 multiblock structure that has specific rules to complete the construction of the multiblock."
+		""
+		"The heart of this multiblock is the &aController&r, and can be placed on any vertical face as long as it isn't on the frame."
+	]
 	quest.2B27E4E04A628C60.quest_desc: [
 		"To overcome the mechanical latency inherent to standard logistical components, an engineer must install specialized tuning sub-processors within the network framework. "
 		""
@@ -732,6 +770,8 @@
 	]
 	quest.2CFEE04BA574921E.quest_subtitle: "Section X: Physical World Construction Interfaces"
 	quest.2CFEE04BA574921E.title: "&bMatter Fabrication&r: Automated Block Placement"
+	quest.2D592669F4D41793.quest_desc: ["Just like the Reactor, the frame must be built out of &dCasings&r, but the walls can be &9Turbine Glass&r instead!"]
+	quest.2D592669F4D41793.title: "Glass Case"
 	quest.2D7161D9084B377B.quest_desc: [
 		"Executing &6Abras' Open Commanding Conjure&r programs your ritual field to forcefully tether a volatile &cAfrit&r fire spirit directly into the physical mass of an overworld pig. Because your facility performs this ceremony without the structural stabilization field of Red Chalk, the grid's containment parameters are severely compromised—meaning the matrix is only strong enough to manifest a highly aggressive, &9unbound&r entity."
 		""
@@ -839,6 +879,14 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_ancient.png width:200 height:100 align:center}"
 	]
 	quest.353AEEC116A5DEEF.title: "Ancient Sea"
+	quest.354086C858E10154.quest_desc: [
+		"Now that we have some Cyanite from our baby reactor, we'll want a way to reprocess that waste into something useful."
+		""
+		"To do this, we'll need to build another multiblock: the &aReprocessor&r."
+		""
+		"This takes a lot of Cyanite, so start stocking up! You might want to upgrade to a bigger reactor as well. "
+	]
+	quest.354086C858E10154.title: "Reprocessing Waste"
 	quest.36389696767EFB4E.quest_desc: [
 		"True to its name, the Barren Abyss is utterly desolate, housing nothing but hostile creatures and scattered pebbles. "
 		""
@@ -918,6 +966,17 @@
 	quest.3B84215240D9F2CB.title: "Defensive Protocol: Access Restriction"
 	quest.3BCA33834716DA39.quest_desc: ["Found in Buried Chests."]
 	quest.3BCA33834716DA39.quest_subtitle: "Found in Buried Treasure chests"
+	quest.3C3FE45CEF5E242B.quest_desc: [
+		"While the other &aReprocessor Parts&r have a mandatory spot when building, these three parts can be placed on any vertical face as long as they aren't on the frame!"
+		""
+		"The &cPower Port&r is used to give power to the multiblock machine to process waste."
+		""
+		"The &9Fluid Injector Port&r is used to inject the liquid needed, which will depend on the type of waste injected. "
+		""
+		"For Cyanite, that means water!\\n\\nThe &aOutput Port&r is used to output the reprocessed material. "
+		""
+		"You can right click it to grab the material out by hand, or pipe it out for automation."
+	]
 	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
 	quest.3C4B6468B14C039E.title: "Buckets made easy"
 	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
@@ -943,6 +1002,8 @@
 	quest.3E890BABC4C41370.quest_subtitle: "Section IV: Wireless Network Extension"
 	quest.3E890BABC4C41370.title: "Signal Bridge: Detached Terminal Frequency"
 	quest.3F8EEE1AD4420702.title: "&b64k Storage Part"
+	quest.3F9D553C9FA64F2A.quest_desc: ["Reactors are multi-block structures, meaning you can create your own custom size!\\n\\nIf you're using &aBasic Reactor Parts&r, the largest size reactor you can build is 5x5x5.\\n\\nThe &lBiggest&r Reactor that you can make using &eReinforced Reactor Parts&r is 32x32x48. There are a lot of variables that contribute to the overall output of a reactor, so make sure to experiment!\\n\\nSome overall tips:\\n\\nThe taller the reactor, the more fuel it can hold and burn because there are more fuel rods, meaning more overall power. This also means a higher &cburn rate&r.\\n\\nThe wider the reactor, the more efficient it is, as long as you don't add more fuel rods to the design. This means less consumption overall."]
+	quest.3F9D553C9FA64F2A.title: "Expanding The Reactor"
 	quest.3FD801D7DE9176FB.title: "&e4k Storage Part"
 	quest.403271A8740E9141.quest_desc: [
 		"The volatile oils within &cDemon's Dream Fruit&r possess highly exotic, flammable properties."
@@ -1016,6 +1077,20 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smogstem.png width:200 height:100 align:center}"
 	]
 	quest.43FD4AEBB9548E57.title: "Smogstem Forest"
+	quest.4415C9F8DA2D7E68.quest_desc: [
+		"With Cyanite, we can create the heart of the Turbine, the &9Turbine Controller&r."
+		""
+		"Turbines are multi-block structures, just like Reactors! "
+		""
+		"They input vapors like &7Steam&r made by &dActively Cooled&r Reactors to create TONS of power! "
+		""
+		"We'll need a few other pieces to be able to build our first one."
+		""
+		"Note: Basic Turbine parts can only be used to build a max size Turbine of 5x5x10. "
+		""
+		"To build a bigger Turbine, you must use &aReinforced Turbine Parts&r."
+	]
+	quest.4415C9F8DA2D7E68.title: "Creating Turbines"
 	quest.44881E39AB1D62AA.quest_desc: [
 		"To transform encoded blueprints into tangible military assets, an engineer must deploy the &3Autocrafter&r."
 		""
@@ -1071,7 +1146,23 @@
 	]
 	quest.4710379C44BA78C9.quest_subtitle: "Fragmenting deep-slate vibrations to bind late-game colored modifiers."
 	quest.4710379C44BA78C9.title: "Resonance Coupling: Cyan Chalk"
+	quest.4745152F6FF242B3.quest_desc: ["When the reactor burns up fuel, it creates &9waste&r or a &dReactant&r that you'll also want to extract. That is what the other Solid Access Port is for! Make sure to set it to output, then pipe it into some type of storage."]
+	quest.4745152F6FF242B3.title: "Waste Not"
 	quest.4756A1D3F1F9F5B2.quest_subtitle: "This machine incubates wild moas eggs, a new mount for you!"
+	quest.476755275B948A5F.quest_desc: [
+		"Reactors can also be used to heat up &bcoolants&r like water to create &bvapor&r, like &bSteam&r."
+		""
+		"To do this, you'll need to build a reinforced reactor. "
+		""
+		"This is built in the same way that you built your 3x3x3 reactor, but all of the parts will need to be &aReinforced Reactor Parts&r instead. "
+		""
+		"I'd also suggest on it being bigger than a 3x3x3."
+		""
+		"To input a coolant, you'll need a &9Forge Fluid Port&r. "
+		""
+		"This will port in any fluids like Water into the reactor. This will also be used to export the vapor created in the reactor."
+	]
+	quest.476755275B948A5F.title: "Actively Cooled Reactor"
 	quest.47732892296BD6FE.quest_desc: [
 		"Reaching the absolute pinnacle of occult geometry requires you to forge a foundation medium capable of anchoring the most volatile entities in the cosmos. Utilizing the dense containment field of &cSevira's Permanent Confinement&r, you can force highly unstable skeletal catalysts to fuse with terrestrial alloys."
 		""
@@ -1200,6 +1291,20 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_field.png width:200 height:100 align:center}"
 	]
 	quest.4E3D548E5D8D7D26.title: "Forgotten Fields"
+	quest.4ED36AA3766E842B.quest_desc: [
+		"Instead of building the smallest Turbine at this point, it's better to build a Turbine based off of the design of your &9Reactor&r."
+		""
+		"For starters, you want to build a Turbine that can handle the &9Vapor Production Rate&r of your reactor. "
+		""
+		"To get the most power out of it, it'll need to maintain either 900RPM or 1800RPM as well. "
+		""
+		"This takes a lot of experimenting with different coils, # of blades, and overall size of the Turbine!"
+		""
+		"Note: To complete this quest, you'll need to create a &dTask Screen&r of any size. "
+		""
+		"Once placed, you can right-click the screen and select this quest as the requirement, then output power into the task screen block to fill it up and complete the quest."
+	]
+	quest.4ED36AA3766E842B.title: "&dThe Turbine"
 	quest.4F3B4990BE6C2A4A.quest_desc: [
 		"The gentle &7Scintlings&r thrive as the small, innocent gastropods found crawling across nearly every corner of the &2&lUndergarden&r. "
 		""
@@ -1225,6 +1330,11 @@
 	quest.4F5A2E2A5C7F4837.title: "&aForgotten&r"
 	quest.4FA6BEA4E646B742.quest_desc: ["Before we can start building our reactor, we'll need to smelt some Coal or Charcoal to create &9Graphite Ingots&r.\\n\\nGraphite, coupled with Iron, is one of the main materials when making a Reactor."]
 	quest.4FA6BEA4E646B742.title: "Graphite for Casings"
+	quest.501C6B7580453410.quest_desc: [
+		"The &aFluidizer&r is a customizable multiblock that has a minimum size of 3x3x3. "
+		""
+		"Just like the other multiblocks, the frame will need to be made out of Casings, while the faces can be made out of Glass."
+	]
 	quest.505E193E3466871A.quest_desc: [
 		"Your next metallurgical milestone requires the acquisition of &cIesnium&r, an exotic ore crucial for forging top-tier ritual components."
 		""
@@ -1309,6 +1419,11 @@
 	quest.54E1E84080816F13.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need some Arcane Crystals. Go sieve some Dust."]
 	quest.54E1E84080816F13.title: "&6&lForbidden \\& Arcanus"
 	quest.555AA7172905288B.title: "Slay a Lich"
+	quest.55DCA040C84DCEF3.quest_desc: [
+		"If you want to get your hands on the product the &aFluidizer&r makes, you'll need an &aOutput Port&r on one of the faces."
+		""
+		"The &aFluidizer&r will need power to operate, so a &cPower Port&r is required to complete the structure."
+	]
 	quest.56208AC5F5672FC3.quest_desc: [
 		"While the baseline satchel significantly reduces field inventory clutter, its mechanical placement cycle introduces noticeable construction downtime as your production lines expand. Achieving complete spatial efficiency requires channeling the stabilization field of the &cSevira's Permanent Confinement&r matrix to manufacture an upgraded Artisanal Ritual Satchel."
 		""
@@ -1345,6 +1460,19 @@
 	quest.580148D1141446A6.title: "Lost Souls"
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
 	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
+	quest.5914D015D8543875.quest_desc: [
+		"The &aFluidizer&r can operate in one of 3 modes: Solid to Fluid, Combining 2 Solids into a Fluid, or combining 2 Fluids into a new Fluid. "
+		""
+		"This all depends on the type of &aInjectors&r you use for the multiblock."
+		""
+		"For example, if you want to convert &dBlutonium&r into a fluid, you can use 1 &aSolid Injector&r."
+		""
+		"If you want to combine two solids together into something new, you'll build the multiblock with 2 &aSolid Injectors&r."
+		""
+		"If you want to combine two fluids, you'll use 2 &9Fluid Injectors&r."
+		""
+		"This might seem confusing, but is important for progression. For example, you'll want to convert Magentite into a fluid in the Fluidizer first, then send it to a &aReprocessor&r with Ludicrite to create Ridiculite."
+	]
 	quest.59F5ED931FD70C55.quest_desc: [
 		"To transition an outpost from manual workbench labor to absolute industrial autonomy, a master engineer must establish a centralized schematic archive. "
 		""
@@ -1356,6 +1484,11 @@
 	]
 	quest.59F5ED931FD70C55.quest_subtitle: "Section XXI: The Foundation of Network Autocrafting"
 	quest.59F5ED931FD70C55.title: "Schematic Registry: Automated Manufacturing Blueprints"
+	quest.5A615BB74A5CD332.quest_desc: [
+		"Using the &aReprocessor&r, we can combine everything we've made so far to make a few new ingots."
+		""
+		"Note: You might need a &9Fluidizer&r to complete this step!"
+	]
 	quest.5A79137D9EA9EFC0.quest_desc: [
 		"Managing mass-resource generation lines demands a sophisticated logistical backbone. If you have not yet established a digitized inventory network, anchoring your logistics to a &dDimensional Storage&r network is highly recommended."
 		""
@@ -1374,6 +1507,7 @@
 		"The Portal Room is located right after the final puzzle. In order to activate the portal, you need to find 11 eyes and to craft the powered core. "
 	]
 	quest.5ACCF56D41A5CC27.title: "Use 12 eyes to visit the End"
+	quest.5AD80D3242DD3F60.quest_desc: ["One of the hardest materials to get in the mod!"]
 	quest.5AE0DA6972811771.quest_desc: [
 		"Securing the complete spectrum of alchemical chalks demands that you manifest and terminate an unyielding, hostile &cAfrit&r entity."
 		""
@@ -1604,6 +1738,21 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_sploogie.png width:125 height:100 align:center}"
 	]
 	quest.67A2347534269528.title: "&9Sploogie&r"
+	quest.67AFCBCE7AAC3089.quest_desc: [
+		"To get a Turbine spinning, we'll need these &crequired&r components:"
+		""
+		"- &9Rotor Bearings&r are placed at one end of the shaft of the turbine. This can be on any face, but dictates where the shaft extrude from. This is typically placed in the center of the bottom face."
+		""
+		"- &eRotor Shafts&r extend from one Rotor Bearing to the opposite side of the turbine, all the way to a single Turbine Housing block, creating the shaft for the Turbine."
+		""
+		"- &9Rotor Blades&r make the rotor spin. These are placed onto the Rotor Shafts and can be multiple blocks in length. Each Blade can handle a certain amount of vapor, and determines how many are needed based on your reactor's production rates."
+		""
+		"Here is an example of a Vertical Shaft setup for a Turbine, with the Turbine Coil of Lead on the top."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/maxbasicturbine.png width:150 height:150 align:center}"
+	]
+	quest.67AFCBCE7AAC3089.title: "Turbine Shaft"
 	quest.67F454DF06908583.quest_subtitle: "You should try feeding this to animals"
 	quest.67F454DF06908583.title: "Purple Shooty Plant"
 	quest.681FB9758B02412D.quest_desc: [
@@ -1642,6 +1791,30 @@
 	quest.6904EC449FBEE387.title: "STRUCTURAL CONDUIT: REINFORCED DATA WIRING"
 	quest.6918F58588CE9115.quest_desc: ["Reach the top of the massive tower and slay the Ur Ghast. Killing Carminite Ghastlings near the Ghast Traps, then powering the trap when the Ur Ghast is near will do heavy damage to it."]
 	quest.6918F58588CE9115.title: "Slay the Ur Ghast"
+	quest.69642A3618E86DED.quest_desc: [
+		"To build the frame for the &aReprocessor&r, you'll need a lot of Casings. This also means a lot of Cyanite."
+		""
+		"Start by building a hollow 3 block wide, 3 block deep, and 7 block tall structure. This is the frame."
+		""
+		"If done right, you'll have an empty spot in the middle of the bottom and top face. "
+		""
+		"For the vertical faces, you can either use &aReprocessor Glass&r or one of the required &aReprocessor&r parts like the Power Port, Controller, etc."
+		""
+		"If you'd like to see an image of what the frame will look like, check the images below!"
+		""
+		"The frame of the Reprocessor multiblock:"
+		"{image:ftb_quests:textures/gui/ftb_quests/images/reprocessorframe.png width:150 height:175 align:center}"
+		""
+		""
+		"A fully built Reprocessor:"
+		"{image:ftb_quests:textures/gui/ftb_quests/images/reprocessorfull.png width:150 height:150 align:center}"
+	]
+	quest.69642A3618E86DED.title: "The Frame"
+	quest.6ADDFD55AD0DF7D4.quest_desc: [
+		"Combining &9Ridiculite Ingots&r with &cRossinite&r in a &aReprocessor&r will create &dInanite Ingots&r."
+		""
+		"We can now use these to make a block of &dInanite&r."
+	]
 	quest.6B04FC81351CD1AB.quest_desc: [
 		"To project the advanced data streams of an empire's central database directly into the field, an operative must establish a high-frequency atmospheric relay."
 		""
@@ -1884,6 +2057,23 @@
 		""
 		"Hint: If you’re not able to place the Supply Camp/Ship, try it block by block: one to the right, left, closer or further from the area you cleared. The area cannot contain any holes or have any flowers, grass, ferns, seaweed, coral etc."
 	]
+	quest.775D176081DD75F5.quest_desc: [
+		"Right-clicking on a Turbine Controller when it is fully built will show you the Turbine Interface."
+		""
+		"Here, you can see all of the stats for the Turbine. "
+		""
+		"Hovering over each will tell you more info about each one."
+		""
+		"On the bottom left, you'll have 2 arrows to control the &9Flow Rate&r. "
+		""
+		"This controls how much heated vapor is pumped into the Turbine. "
+		""
+		"To know how much you should set this to, check your reactor's &dVapor Production Rate&r as a starting point."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/turbineui.png width:200 height:150 align:center}"
+	]
+	quest.775D176081DD75F5.title: "Turbine Interface"
 	quest.785AC64B477BAC33.quest_subtitle: "Makes various Nether Materials"
 	quest.787415570026FFAA.quest_desc: [
 		"To maximize resource yields from raw geologic excavations, an engineer can infuse the mechanical core of a &4Destructor&r with potent arcanum modifiers. "
@@ -1948,6 +2138,15 @@
 	quest.7B4AAC741F0A6073.title: "Reactor Control Rods"
 	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
 	quest.7BB9B1E8888BA04F.quest_subtitle: "Found in Nether Fortress chests"
+	quest.7C4D8AA107780795.quest_desc: [
+		"By using the &aFluidizer&r, we can combine &dBlutonium&r with &eYellorium&r to make &2Verderium."
+		""
+		"When used as fuel in a reactor, &2Verderium&r produces &cRossinite&r as a reactant. We need this!"
+		""
+		"To use &2Verderium&r as a fuel, you'll need to make &cFuel Injection Ports&r for your reactor."
+		""
+		"Note: You might need to empty out the fuel currently in your reactor, or make a new reactor for this purpose. "
+	]
 	quest.7C4E4793DA887DE4.quest_desc: ["Based off of the original mod &eBig Reactors&r, &aExtreme Reactors&r allows you to build customizable multiblock Reactors!\\n\\nThe main element is of course, Uranium. You'll need this and a lot of coal and iron to get building.\\n\\nIf you're ever lost along the way, refer to &aThe Extreme Book&r for help! "]
 	quest.7C4E4793DA887DE4.title: "Welcome to &9Extreme Reactors&r!"
 	quest.7C9CB235D52BFE01.quest_desc: ["This place seems to have it's own set of tools, although your current ones should still do their job, somewhat."]
@@ -1956,6 +2155,11 @@
 	quest.7CDA9D29A9BC04B1.title: "Find a Snowy Forest"
 	quest.7E010951FA8E6F84.quest_subtitle: "Obtain ALL the fabled rare moa eggs!"
 	quest.7E010951FA8E6F84.title: "The ultimate challenge"
+	quest.7E07C5A6FA6B6B1F.quest_desc: [
+		"Once you've built a fully functional &aReprocessor&r, you can pump in power, water, and &9Cyanite&r to create &dBlutonium&r."
+		""
+		"This can be used as a fuel for your reactor, and creates its own waste called &9Magentite&r. "
+	]
 	quest.7E3DA4168D352B42.quest_desc: [
 		"At first glance, these mushrooms appear ordinary. "
 		""

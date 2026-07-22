@@ -39,16 +39,8 @@
 			image: "ftb_quests:textures/gui/ftb_quests/images/extreme_reactors_logo.png"
 			rotation: 0.0d
 			width: 15.0d
-			x: -1.5d
+			x: -4.5d
 			y: -3.0d
-		}
-		{
-			height: 8.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/titleimage2.png"
-			rotation: 0.0d
-			width: 10.0d
-			x: -10.0d
-			y: 13.5d
 		}
 	]
 	order_index: 2
