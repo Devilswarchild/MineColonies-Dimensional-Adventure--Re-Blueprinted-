@@ -168,6 +168,7 @@
 		{
 			id: "6E7C4228CD2B6BB9"
 			invisible: true
+			optional: true
 			rewards: [{
 				id: "0FD69563E29D5235"
 				type: "xp"
@@ -427,24 +428,11 @@
 				"2A30595DC6DDBFF7"
 			]
 			id: "3E8C2E7769DFBF35"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "323CE7B5DF51379F"
-					type: "choice"
-				}
-				{
-					id: "47B1663F4FB70941"
-					item: {
-						components: {
-							"ftbquests:missing_item": "mekanism:basic_energy_cube"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "323CE7B5DF51379F"
+				type: "choice"
+			}]
 			shape: "octagon"
 			tasks: [{
 				id: "4E067D0ECE1D5ACB"
@@ -1171,17 +1159,6 @@
 		{
 			dependencies: ["475E307844E3AF7F"]
 			id: "61C93ABE07742DCD"
-			rewards: [{
-				id: "009834038A2A9F5C"
-				item: {
-					components: {
-						"ftbquests:missing_item": "mekanism:basic_energy_cube"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			tasks: [{
 				id: "1962F3D4A0B4F465"
 				item: { count: 1, id: "railcraft:turbine_rotor" }
@@ -1189,39 +1166,6 @@
 			}]
 			x: 8.5d
 			y: -1.5d
-		}
-		{
-			icon_scale: 2.0d
-			id: "50A286C268F38E09"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5F45F6ACFC0536A4"
-				type: "choice"
-			}]
-			tasks: [{
-				id: "7B128D5D8D5530A8"
-				type: "checkmark"
-			}]
-			x: 0.0d
-			y: -1.5d
-		}
-		{
-			id: "5F458D79D43D8842"
-			invisible: true
-			optional: true
-			shape: "circle"
-			tasks: [
-				{
-					id: "11741300813AF742"
-					type: "checkmark"
-				}
-				{
-					id: "7BB13793B38DFC2C"
-					type: "checkmark"
-				}
-			]
-			x: 2.0d
-			y: -1.0d
 		}
 	]
 }
