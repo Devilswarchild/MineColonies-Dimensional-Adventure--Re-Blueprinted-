@@ -8,6 +8,14 @@
 		id: "railcraft:steam_locomotive"
 	}
 	id: "2FB24A5A597459FC"
+	images: [{
+		height: 2.0d
+		image: "ftb_quests:textures/gui/ftb_quests/images/railcraft_title_template.png"
+		rotation: 0.0d
+		width: 9.07d
+		x: 0.0d
+		y: -6.0d
+	}]
 	order_index: 14
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -166,6 +174,8 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["31094CC16E710040"]
+			hide_dependency_lines: true
 			id: "6E7C4228CD2B6BB9"
 			invisible: true
 			optional: true
@@ -179,8 +189,8 @@
 				item: { count: 1, id: "railcraft:seasons_crowbar" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: -2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -207,8 +217,8 @@
 				item: { count: 1, id: "railcraft:reinforced_track" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 0.0d
+			x: -4.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -235,8 +245,8 @@
 				item: { count: 1, id: "railcraft:high_speed_track" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 0.0d
+			x: -4.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -263,8 +273,8 @@
 				item: { count: 1, id: "railcraft:electric_track" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 1.0d
+			x: -4.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -291,8 +301,8 @@
 				item: { count: 1, id: "railcraft:high_speed_electric_track" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 1.0d
+			x: -4.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -319,8 +329,8 @@
 				item: { count: 1, id: "railcraft:strap_iron_track" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 2.0d
+			x: -4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["035C52EF63AD23A7"]
@@ -347,8 +357,8 @@
 				item: { count: 1, id: "railcraft:abandoned_track" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -1.0d
+			x: -4.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["64C105E1E2F97900"]
@@ -364,7 +374,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abandoned_wye_track)item(railcraft:iron_wye_track)item(railcraft:strap_iron_wye_track)item(railcraft:reinforced_wye_track)item(railcraft:electric_wye_track)item(railcraft:high_speed_wye_track)item(railcraft:high_speed_electric_wye_track))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: -3.0d
 		}
 		{
@@ -381,7 +391,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abandoned_turnout_track)item(railcraft:iron_turnout_track)item(railcraft:strap_iron_turnout_track)item(railcraft:reinforced_turnout_track)item(railcraft:electric_turnout_track)item(railcraft:high_speed_turnout_track)item(railcraft:high_speed_electric_turnout_track))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: 0.0d
 			y: -3.0d
 		}
 		{
@@ -398,7 +408,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:abandoned_junction_track)item(railcraft:iron_junction_track)item(railcraft:strap_iron_junction_track)item(railcraft:reinforced_junction_track)item(railcraft:electric_junction_track)item(railcraft:high_speed_junction_track)item(railcraft:high_speed_electric_junction_track))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.0d
 			y: -3.0d
 		}
 		{
@@ -509,7 +519,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:tank_minecart)item(railcraft:energy_minecart))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -0.5d
+			x: -1.5d
 			y: 5.0d
 		}
 		{
@@ -525,7 +535,7 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(railcraft:track_layer)item(railcraft:track_relayer)item(railcraft:track_remover)item(railcraft:track_undercutter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.5d
 			y: 5.0d
 		}
 		{
@@ -552,8 +562,8 @@
 				item: { count: 1, id: "railcraft:item_loader" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 6.0d
+			x: -2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["55D7CD0FA8F1AE48"]
@@ -580,7 +590,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 6.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["55D7CD0FA8F1AE48"]
@@ -610,7 +620,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 6.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["55D7CD0FA8F1AE48"]
@@ -636,8 +646,8 @@
 				item: { count: 1, id: "railcraft:cart_dispenser" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 6.0d
+			x: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["365D4B1DC953D406"]
@@ -663,8 +673,8 @@
 				item: { count: 1, id: "railcraft:train_dispenser" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 7.0d
+			x: 2.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["17F7964611D893BE"]
@@ -691,7 +701,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: 7.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["54F2CB52D3A7BA87"]
@@ -718,7 +728,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: 7.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["2D00F85379A4D591"]
@@ -744,8 +754,8 @@
 				item: { count: 1, id: "railcraft:advanced_item_loader" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 7.0d
+			x: -2.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -765,7 +775,7 @@
 				item: { count: 1, id: "railcraft:switch_track_lever" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: -4.0d
 		}
 		{
@@ -790,7 +800,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: -1.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["068294A7C21DE550"]
@@ -813,8 +823,8 @@
 				item: { count: 1, id: "railcraft:coupler_track_kit" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: -1.0d
+			x: 3.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["068294A7C21DE550"]
@@ -861,8 +871,8 @@
 				item: { count: 1, id: "railcraft:one_way_track_kit" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 0.0d
+			x: 3.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["068294A7C21DE550"]
@@ -885,8 +895,8 @@
 				item: { count: 1, id: "railcraft:whistle_track_kit" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 1.0d
+			x: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["068294A7C21DE550"]
@@ -909,7 +919,7 @@
 				item: { count: 1, id: "railcraft:routing_track_kit" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 3.5d
 			y: 2.0d
 		}
 		{
@@ -934,7 +944,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["068294A7C21DE550"]
@@ -1153,8 +1163,8 @@
 				item: { count: 1, id: "railcraft:steam_oven" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: -1.5d
+			x: 10.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["475E307844E3AF7F"]
@@ -1164,8 +1174,8 @@
 				item: { count: 1, id: "railcraft:turbine_rotor" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -1.5d
+			x: 7.5d
+			y: -0.5d
 		}
 	]
 }
