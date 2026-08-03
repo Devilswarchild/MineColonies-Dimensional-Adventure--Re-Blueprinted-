@@ -6,6 +6,7 @@
 	id: "342CA1CDE7BA8082"
 	images: [{
 		height: 6.0d
+		id: "0D2CD18C42053C64"
 		image: "ftb_quests:textures/gui/ftb_quests/images/lootr_logo.png"
 		rotation: 0.0d
 		width: 15.0d

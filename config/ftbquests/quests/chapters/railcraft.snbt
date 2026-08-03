@@ -10,6 +10,7 @@
 	id: "2FB24A5A597459FC"
 	images: [{
 		height: 2.0d
+		id: "64E4A71B0B6ED20C"
 		image: "ftb_quests:textures/gui/ftb_quests/images/railcraft_title_template.png"
 		rotation: 0.0d
 		width: 9.07d

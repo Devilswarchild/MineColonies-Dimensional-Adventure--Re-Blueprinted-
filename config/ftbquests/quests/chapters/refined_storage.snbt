@@ -9,6 +9,7 @@
 	id: "15AAF17B6665223D"
 	images: [{
 		height: 10.0d
+		id: "4C0CA29C9EBFF3EE"
 		image: "ftb_quests:textures/gui/ftb_quests/images/refined_logo.png"
 		rotation: 0.0d
 		width: 15.0d

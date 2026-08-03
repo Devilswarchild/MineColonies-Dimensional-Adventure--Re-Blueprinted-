@@ -7,14 +7,16 @@
 	images: [
 		{
 			height: 18.0d
+			id: "0AC904D746C981FA"
 			image: "ftb_quests:textures/gui/ftb_quests/images/ornate_key.png"
 			rotation: 0.0d
 			width: 15.0d
-			x: 9.5d
-			y: 0.5d
+			x: 10.0d
+			y: 3.0d
 		}
 		{
 			height: 13.0d
+			id: "6CBE844944B17404"
 			image: "ftb_quests:textures/gui/ftb_quests/images/logo.png"
 			rotation: 0.0d
 			width: 18.0d
@@ -24,48 +26,65 @@
 		{
 			color: 16755200
 			height: 4.0d
+			id: "7010F8AC86F491E9"
 			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			order: -1
 			rotation: 0.0d
 			width: 4.0d
-			x: -16.5d
-			y: 17.6d
+			x: 10.0d
+			y: 11.5d
 		}
 		{
+			click_action: "none:"
 			color: 5635925
-			height: 3.0d
+			height: 4.0d
+			id: "5CD8DF3AA3378252"
 			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			rotation: 0.0d
-			width: 3.0d
-			x: -6.0d
-			y: 17.65d
+			width: 4.0d
+			x: 17.5d
+			y: 0.0d
 		}
 		{
+			click_action: "none:"
 			color: 16733525
-			height: 3.0d
+			height: 4.0d
+			id: "028D33FBF0349FC7"
 			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
 			rotation: 0.0d
-			width: 3.0d
-			x: -6.0d
-			y: 20.5d
+			width: 4.0d
+			x: 2.5d
+			y: 0.0d
 		}
 		{
-			color: 5592575
-			height: 3.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
+			click_action: "none:"
+			height: 10.0d
+			id: "6DD1E8000AE14406"
+			image: "ftb_quests:textures/gui/ftb_quests/images/chalks.png"
 			rotation: 0.0d
-			width: 3.0d
-			x: 3.0d
+			width: 15.0d
+			x: 18.0d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 10.0d
+			id: "4447BF512760353D"
+			image: "ftb_quests:textures/gui/ftb_quests/images/rituals.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 10.0d
+			id: "55B9B08FE2AD03B4"
+			image: "ftb_quests:textures/gui/ftb_quests/images/tools.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 10.5d
 			y: 12.0d
-		}
-		{
-			color: 3477759
-			height: 3.0d
-			image: "ftb_quests:textures/gui/ftb_quests/images/pentagram.png"
-			rotation: 0.0d
-			width: 3.0d
-			x: 37.0d
-			y: 14.0d
 		}
 	]
 	order_index: 9
@@ -99,8 +118,8 @@
 				item: { count: 1, id: "occultism:datura_seeds" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: -5.0d
+			x: 10.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["4BD97F45798CD89C"]
@@ -115,8 +134,8 @@
 				item: { count: 1, id: "occultism:dictionary_of_spirits" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -2.5d
+			x: 8.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["4BD97F45798CD89C"]
@@ -126,8 +145,8 @@
 				item: { count: 1, id: "occultism:datura" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -2.5d
+			x: 11.5d
+			y: -0.5d
 		}
 		{
 			dependencies: [
@@ -163,8 +182,8 @@
 				item: { count: 1, id: "minecraft:flint_and_steel" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 0.0d
+			x: 10.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["403271A8740E9141"]
@@ -199,8 +218,8 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
-			y: 3.5d
+			x: 10.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["681FB9758B02412D"]
@@ -215,8 +234,8 @@
 				item: { count: 1, id: "occultism:divination_rod" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.5d
+			x: 11.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["681FB9758B02412D"]
@@ -235,8 +254,8 @@
 				id: "27421DAF862375BC"
 				type: "checkmark"
 			}]
-			x: 9.5d
-			y: 5.0d
+			x: 10.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
@@ -252,8 +271,8 @@
 				id: "6FDE41B84EA1BDDC"
 				type: "checkmark"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: 11.5d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -262,6 +281,8 @@
 				"19047AF0EDED198B"
 				"5C776EA056A14C57"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/summon_foliot_crusher"
 			}
@@ -299,8 +320,8 @@
 					type: "item"
 				}
 			]
-			x: -16.5d
-			y: 17.65d
+			x: 1.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["0423D99FBFB5CB32"]
@@ -319,8 +340,8 @@
 					type: "item"
 				}
 			]
-			x: -17.5d
-			y: 16.5d
+			x: 8.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
@@ -338,8 +359,8 @@
 					type: "item"
 				}
 			]
-			x: -15.5d
-			y: 16.5d
+			x: 9.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
@@ -358,12 +379,13 @@
 					type: "item"
 				}
 			]
-			x: -15.0d
-			y: 18.5d
+			x: 12.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
 			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "5C776EA056A14C57"
 			tasks: [
 				{
@@ -382,8 +404,8 @@
 					type: "item"
 				}
 			]
-			x: -18.0d
-			y: 18.5d
+			x: 16.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4C46EF35796A9833"]
@@ -394,8 +416,8 @@
 				item: { count: 1, id: "occultism:butcher_knife" }
 				type: "item"
 			}]
-			x: -18.5d
-			y: 15.5d
+			x: 10.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["64A6C2A397051CFA"]
@@ -418,8 +440,8 @@
 					type: "item"
 				}
 			]
-			x: -16.5d
-			y: 21.0d
+			x: 8.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["64A6C2A397051CFA"]
@@ -428,11 +450,13 @@
 				id: "1F2F1FE1B5912F5E"
 				type: "checkmark"
 			}]
-			x: -9.5d
-			y: 17.65d
+			x: 0.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7A3D002083346C50"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "103F99D9C4385248"
 			rewards: [{
 				id: "28410C194B05E59D"
@@ -457,8 +481,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 17.65d
+			x: 17.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["103F99D9C4385248"]
@@ -481,11 +505,13 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 15.5d
+			x: 11.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["103F99D9C4385248"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "5A79137D9EA9EFC0"
 			rewards: [{
 				id: "54A1D7496F34AA70"
@@ -509,8 +535,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: 20.5d
+			x: 12.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5A79137D9EA9EFC0"]
@@ -533,8 +559,8 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: 21.5d
+			x: 11.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5A79137D9EA9EFC0"]
@@ -549,11 +575,13 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:storage_stabilizer_tier1)item(occultism:storage_stabilizer_tier2)item(occultism:storage_stabilizer_tier3)item(occultism:storage_stabilizer_tier4))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 24.5d
+			x: 10.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["103F99D9C4385248"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_craft"
 			}
@@ -577,8 +605,8 @@
 					type: "item"
 				}
 			]
-			x: -1.5d
-			y: 17.65d
+			x: 2.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["45CEDDB7FDD0276F"]
@@ -594,7 +622,7 @@
 				item: { count: 1, id: "occultism:otherworld_goggles" }
 				type: "item"
 			}]
-			x: -1.0d
+			x: 10.0d
 			y: 15.0d
 		}
 		{
@@ -611,11 +639,13 @@
 				item: { count: 1, id: "occultism:ritual_satchel_t1" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 16.0d
+			x: 9.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["45CEDDB7FDD0276F"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_lime_impure"
 			}
@@ -637,11 +667,13 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: 17.65d
+			x: 18.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["45CEDDB7FDD0276F"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_green_impure"
 			}
@@ -663,11 +695,13 @@
 					type: "item"
 				}
 			]
-			x: 1.0d
-			y: 21.5d
+			x: 16.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["72BD673DBEBD98B8"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_possess"
 			}
@@ -700,11 +734,13 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 20.5d
+			x: 1.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["72BD673DBEBD98B8"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_summon"
 			}
@@ -736,11 +772,13 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 17.65d
+			x: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["72BD673DBEBD98B8"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_craft"
 			}
@@ -772,8 +810,8 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 15.0d
+			x: 2.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["53C460B13560066F"]
@@ -789,8 +827,8 @@
 				id: "143BC372A137B776"
 				type: "checkmark"
 			}]
-			x: 2.0d
-			y: 14.0d
+			x: 0.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["6DB9E297C9248966"]
@@ -801,8 +839,8 @@
 				item: { count: 1, id: "ars_ocultas:altar" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 19.5d
+			x: 12.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["53C460B13560066F"]
@@ -817,11 +855,13 @@
 				item: { count: 1, id: "occultism:soul_gem" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 12.0d
+			x: 9.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["6DB9E297C9248966"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_orange_impure"
 			}
@@ -838,11 +878,13 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 17.65d
+			x: 18.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["53C460B13560066F"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_gray_impure"
 			}
@@ -864,8 +906,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 15.0d
+			x: 17.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -906,8 +948,8 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
-			y: 15.5d
+			x: 9.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["4B535B3689DF24DF"]
@@ -922,11 +964,13 @@
 				item: { count: 1, id: "occultism:iesnium_ore" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 12.5d
+			x: 10.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["505E193E3466871A"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "6FF8291A3D5763F2"
 			rewards: [{
 				id: "4DEE8FAC75D39264"
@@ -938,8 +982,8 @@
 				item: { count: 1, id: "occultism:iesnium_pickaxe" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 11.5d
+			x: 11.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["6FF8291A3D5763F2"]
@@ -964,11 +1008,13 @@
 					type: "item"
 				}
 			]
-			x: 15.5d
-			y: 11.5d
+			x: 8.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["4B535B3689DF24DF"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_red_impure"
 			}
@@ -990,11 +1036,13 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 16.5d
+			x: 16.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2D7161D9084B377B"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_pink_impure"
 			}
@@ -1012,8 +1060,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 20.5d
+			x: 17.0d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -1021,6 +1069,8 @@
 				"54468ED84F34EEFE"
 				"5BDADF6C889BB9D1"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_misc"
 			}
@@ -1029,8 +1079,8 @@
 				id: "2A323BE18E61A0B1"
 				type: "checkmark"
 			}]
-			x: 6.0d
-			y: 23.0d
+			x: 1.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -1068,11 +1118,13 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
-			y: 19.0d
+			x: 3.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["5AE0DA6972811771"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_craft"
 			}
@@ -1109,8 +1161,8 @@
 					type: "item"
 				}
 			]
-			x: 13.5d
-			y: 16.5d
+			x: 3.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["41EDEF510157A6F8"]
@@ -1126,8 +1178,8 @@
 				item: { count: 1, id: "occultism:ritual_satchel_t2" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 14.5d
+			x: 11.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["41EDEF510157A6F8"]
@@ -1143,8 +1195,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:iesnium_sacrificial_bowl)item(occultism:dark_iesnium_sacrificial_bowl))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: 13.5d
+			x: 9.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["41EDEF510157A6F8"]
@@ -1160,11 +1212,13 @@
 				id: "303D6C09ED07D006"
 				type: "checkmark"
 			}]
-			x: 15.0d
-			y: 14.5d
+			x: 2.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["41EDEF510157A6F8"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_black_impure"
 			}
@@ -1181,11 +1235,13 @@
 					type: "item"
 				}
 			]
-			x: 16.5d
-			y: 16.5d
+			x: 17.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["47732892296BD6FE"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_summon"
 			}
@@ -1222,11 +1278,13 @@
 					type: "item"
 				}
 			]
-			x: 20.5d
-			y: 16.5d
+			x: 1.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["29953CDAA8A3B0B6"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_blue_impure"
 			}
@@ -1248,11 +1306,13 @@
 					type: "item"
 				}
 			]
-			x: 23.5d
-			y: 16.5d
+			x: 18.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["5ED35874D59A7595"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_craft"
 			}
@@ -1287,8 +1347,8 @@
 					type: "item"
 				}
 			]
-			x: 25.5d
-			y: 14.0d
+			x: 1.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["0D15A75331737FBB"]
@@ -1299,14 +1359,16 @@
 				item: { count: 1, id: "occultism:iesnium_anvil" }
 				type: "item"
 			}]
-			x: 23.5d
-			y: 12.0d
+			x: 12.0d
+			y: 16.0d
 		}
 		{
 			dependencies: [
 				"0D15A75331737FBB"
 				"0A5AE5ADB477805C"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_magenta_impure"
 			}
@@ -1323,11 +1385,13 @@
 					type: "item"
 				}
 			]
-			x: 27.0d
-			y: 12.0d
+			x: 18.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5ED35874D59A7595"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_summon"
 			}
@@ -1359,8 +1423,8 @@
 					type: "item"
 				}
 			]
-			x: 25.0d
-			y: 18.5d
+			x: 2.5d
+			y: 5.5d
 		}
 		{
 			dependencies: [
@@ -1398,11 +1462,13 @@
 					type: "item"
 				}
 			]
-			x: 17.0d
-			y: 22.5d
+			x: 17.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0A5AE5ADB477805C"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_cyan_impure"
 			}
@@ -1419,11 +1485,13 @@
 					type: "item"
 				}
 			]
-			x: 26.5d
-			y: 20.5d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["5ED35874D59A7595"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_possess"
 			}
@@ -1458,11 +1526,13 @@
 					type: "item"
 				}
 			]
-			x: 27.0d
-			y: 16.5d
+			x: 3.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["36ED3AE12A48BD4D"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:chalk_brown_impure"
 			}
@@ -1479,8 +1549,8 @@
 					type: "item"
 				}
 			]
-			x: 30.0d
-			y: 16.5d
+			x: 17.0d
+			y: 5.0d
 		}
 		{
 			dependencies: [
@@ -1490,6 +1560,8 @@
 				"5BDADF6C889BB9D1"
 				"54468ED84F34EEFE"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			icon: {
 				id: "occultism:ritual_dummy/custom_ritual_misc"
 			}
@@ -1582,8 +1654,8 @@
 					type: "item"
 				}
 			]
-			x: 33.5d
-			y: 16.5d
+			x: 2.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["72E3BA59807C4464"]
@@ -1593,8 +1665,8 @@
 				item: { count: 1, id: "occultism:trinity_gem" }
 				type: "item"
 			}]
-			x: 37.0d
-			y: 14.0d
+			x: 8.0d
+			y: 16.0d
 		}
 		{
 			dependencies: [
@@ -1603,6 +1675,8 @@
 				"05252B9E55232054"
 				"403A4FCD9ECB1282"
 			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			hide_details_until_startable: true
 			id: "05369F8F4DF5A5BA"
 			min_width: 300
@@ -1612,11 +1686,13 @@
 				id: "08346C479E2B4584"
 				type: "checkmark"
 			}]
-			x: 43.0d
-			y: 16.5d
+			x: 17.5d
+			y: 11.25d
 		}
 		{
 			dependencies: ["72E3BA59807C4464"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "21FF14E8B61F515F"
 			rewards: [{
 				id: "03C9D15166C44458"
@@ -1628,19 +1704,21 @@
 				item: { count: 1, id: "occultism:chalk_rainbow" }
 				type: "item"
 			}]
-			x: 36.5d
-			y: 16.5d
+			x: 17.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["21FF14E8B61F515F"]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
 			id: "10B6FDA1362E3C52"
 			tasks: [{
 				id: "4E91F7C2EB46C52A"
 				item: { count: 1, id: "occultism:chalk_void" }
 				type: "item"
 			}]
-			x: 39.0d
-			y: 16.5d
+			x: 18.0d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -1653,8 +1731,8 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(occultism:celestial_chalice)item(occultism:eldritch_chalice))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 37.0d
-			y: 19.5d
+			x: 10.0d
+			y: 17.0d
 		}
 	]
 }

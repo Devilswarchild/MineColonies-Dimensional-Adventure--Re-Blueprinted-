@@ -6,6 +6,7 @@
 	id: "10DE386E4456F7B2"
 	images: [{
 		height: 4.0d
+		id: "28EF12DD163D829A"
 		image: "ftb_quests:textures/gui/ftb_quests/images/title_spiceoflife.png"
 		rotation: 0.0d
 		width: 4.0d

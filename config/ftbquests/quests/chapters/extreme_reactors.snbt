@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.75d
+			id: "09151F70B2781DE8"
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
 			width: 1.75d
@@ -19,6 +20,7 @@
 		{
 			color: 14679808
 			height: 1.75d
+			id: "3D0B1B52FE948191"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.75d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.0d
+			id: "42938289E347FE40"
 			image: "ftbquests:block/base_input"
 			order: -1
 			rotation: 0.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4C3A29E6AB9DA77C"
 			image: "ftb_quests:textures/gui/ftb_quests/images/extreme_reactors_logo.png"
 			rotation: 0.0d
 			width: 15.0d

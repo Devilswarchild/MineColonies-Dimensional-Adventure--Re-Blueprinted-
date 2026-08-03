@@ -7,6 +7,7 @@
 	images: [
 		{
 			height: 3.867403314917127d
+			id: "4EC62E2E0BD1A544"
 			image: "ftb_quests:textures/gui/ftb_quests/images/minecolonies_logo_medium.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -15,6 +16,7 @@
 		}
 		{
 			height: 2.0d
+			id: "776AA465413F8621"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_feed_the_machine.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -23,6 +25,7 @@
 		}
 		{
 			height: 0.4657039711191336d
+			id: "1B122D8E29061039"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_logistics.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -31,6 +34,7 @@
 		}
 		{
 			height: 0.6323529411764706d
+			id: "08657E69923DCE9B"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_utility.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -39,6 +43,7 @@
 		}
 		{
 			height: 1.5d
+			id: "00C2A95794AB3487"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_university_research.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -47,6 +52,7 @@
 		}
 		{
 			height: 1.5d
+			id: "240768787A30AD11"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_the_builder.png"
 			rotation: 0.0d
 			width: 3.1601941747572813d
@@ -55,6 +61,7 @@
 		}
 		{
 			height: 0.5d
+			id: "1F2E2BC8AE2B7EA7"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hc_defense.png"
 			rotation: 0.0d
 			width: 2.880952380952381d

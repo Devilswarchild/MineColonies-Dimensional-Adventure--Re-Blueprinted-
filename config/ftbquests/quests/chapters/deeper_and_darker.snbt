@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "3D6D87CFD80080E1"
 			image: "ftb_quests:textures/gui/ftb_quests/images/title_deeper_and_darker.png"
 			order: 2
 			rotation: 0.0d
@@ -20,6 +21,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "3AED8E9C9427EF74"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_biome.png"
 			order: 2
 			rotation: 0.0d
@@ -30,6 +32,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "6C0EE0D897C25DD9"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_blocks.png"
 			order: 2
 			rotation: 0.0d
@@ -40,6 +43,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "7E1DC21CBA8D16A8"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_blocks.png"
 			order: 2
 			rotation: 0.0d
@@ -50,6 +54,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "15ED9DFDE97EC294"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_plants.png"
 			order: 2
 			rotation: 0.0d
@@ -60,6 +65,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "3D8ADF3CABF735EB"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_plants.png"
 			order: 2
 			rotation: 0.0d
@@ -70,6 +76,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "328E5B3C0A8519EA"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_gear.png"
 			order: 2
 			rotation: 0.0d
@@ -80,6 +87,7 @@
 		{
 			dependency: "76F14C2B866B4EAD"
 			height: 1.0d
+			id: "36CBE9EA1F3C3E3B"
 			image: "ftb_quests:textures/gui/ftb_quests/images/dnd_mobs.png"
 			order: 2
 			rotation: 0.0d

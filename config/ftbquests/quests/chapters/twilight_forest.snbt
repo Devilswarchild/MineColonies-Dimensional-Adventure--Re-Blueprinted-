@@ -6,6 +6,7 @@
 	id: "0CF61BD8855339B8"
 	images: [{
 		height: 3.86d
+		id: "2CAF9B16C2D8F220"
 		image: "ftb_quests:textures/gui/ftb_quests/images/twilight_forest_title.png"
 		rotation: 0.0d
 		width: 25.0d

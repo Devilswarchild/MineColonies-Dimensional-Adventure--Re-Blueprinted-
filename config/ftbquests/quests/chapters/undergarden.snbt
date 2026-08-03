@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "669DFF1062041A8E"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_title_3.png"
 			rotation: 0.0d
 			width: 17.434343434343436d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "06FC11E426F46DFA"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_vegetation.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.25d
+			id: "1D92CE1F19A76740"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_biomes.png"
 			rotation: 0.0d
 			width: 3.6315789473684212d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 3.0d
+			id: "468C07C5F8CB8A90"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_neutral.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 2.5d
+			id: "7E9BC1C940085671"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_hostile.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 2.5d
+			id: "113D4838989829E3"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_friendly.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 3.0d
+			id: "43A5C01C4FF22F3B"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_tools.png"
 			rotation: 0.0d
 			width: 10.257142857142858d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1F3CDE278D5C3AE9"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_gloomper.png"
 			rotation: 0.0d
 			width: 2.301980198019802d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7F6F8AE83188B6F2"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_brute.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 2.0d
+			id: "20B00105AFF5F417"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_rotling.png"
 			rotation: 0.0d
 			width: 1.5617715617715617d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 3.0d
+			id: "20CBFE4AB2782149"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_rotwalker.png"
 			rotation: 0.0d
 			width: 1.478527607361963d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2043020C020E5F81"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_rotbeast.png"
 			rotation: 0.0d
 			width: 2.8649706457925634d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6A05D7B28A7CD22F"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_guardian.png"
 			rotation: 0.0d
 			width: 2.0809248554913293d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 2.0d
+			id: "56932FB3B9FF3C40"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_muncher.png"
 			rotation: 0.0d
 			width: 1.8853868194842407d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4B08AB39FC1CB06A"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_stoneborn.png"
 			rotation: 0.0d
 			width: 1.0316091954022988d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5ABFAE3CFE20C5F9"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_mog.png"
 			rotation: 0.0d
 			width: 1.5603112840466926d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 2.0d
+			id: "39DD9E33AA160339"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_smog.png"
 			rotation: 0.0d
 			width: 1.8461538461538463d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1170F46A6A5AB8EE"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_minion.png"
 			rotation: 0.0d
 			width: 2.1219512195121952d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2F31D50128ED9E49"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_gronglet.png"
 			rotation: 0.0d
 			width: 2.185185185185185d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 3.0d
+			id: "27F1D80105560AC0"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_grongle.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -171,6 +191,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0E7B7F9A5AE1DB72"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_ink.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -179,6 +200,7 @@
 		}
 		{
 			height: 3.0d
+			id: "55CB65FE936DE405"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_veil.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -187,6 +209,7 @@
 		}
 		{
 			height: 3.0d
+			id: "601BD0F7FCD4C851"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_blood.png"
 			rotation: 0.0d
 			width: 5.4288407163053725d
@@ -195,6 +218,7 @@
 		}
 		{
 			height: 6.0d
+			id: "64537D6482A4D972"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_background.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -202,8 +226,9 @@
 			y: 6.0d
 		}
 		{
-			corner: true
+			corner: 1b
 			height: 6.0d
+			id: "499E88B58A331913"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_background_flipped.png"
 			rotation: 0.0d
 			width: 10.656d
@@ -212,6 +237,7 @@
 		}
 		{
 			height: 4.0d
+			id: "087A0D01317E8C75"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_vine_2.png"
 			rotation: 0.0d
 			width: 8.5d
@@ -220,6 +246,7 @@
 		}
 		{
 			height: 4.25d
+			id: "7DCA0D0AA4290B6D"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_vine_2.png"
 			rotation: 0.0d
 			width: 8.5d
@@ -228,6 +255,7 @@
 		}
 		{
 			height: 4.0d
+			id: "54F402CB05622BE8"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_vine_2.png"
 			rotation: 0.0d
 			width: 8.5d
@@ -236,6 +264,7 @@
 		}
 		{
 			height: 4.0d
+			id: "75E37D80C1BD1259"
 			image: "ftb_quests:textures/gui/ftb_quests/images/undergarden_vine_2.png"
 			rotation: 0.0d
 			width: 8.5d

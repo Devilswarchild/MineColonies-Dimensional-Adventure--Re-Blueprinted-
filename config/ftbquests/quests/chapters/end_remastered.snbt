@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "3894F7D2058E6692"
 			image: "endrem:item/cursed_eye"
 			rotation: 0.0d
 			width: 7.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6AE5FB562F4C2D9F"
 			image: "ftb_quests:textures/gui/ftb_quests/images/title_end_remastered.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7AB8929D545D3B28"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4531480FC59EA8A1"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "398AF39941E04BBB"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75595DC923B4CB22"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "468685D13F3E5546"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "492064F0D6DA441C"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "56D30EA01230E585"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5B5B4991AE2C5EF3"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0437D1AF50FEBF25"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D1EA4369F713D8A"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "18A4AB6559A0EA23"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C4C3147C9FAA6FD"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0AFF62ED3D960EFA"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6CC5EB54225B1763"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69F2B8CF2D34BD1B"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 1.0d
+			id: "11257160912C6FEC"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 0.0d
 			width: 1.0d

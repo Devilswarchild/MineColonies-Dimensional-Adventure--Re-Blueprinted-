@@ -9,6 +9,7 @@
 	id: "4EBB2171D5A3AAAC"
 	images: [{
 		height: 15.0d
+		id: "21FD4EBE721D73E6"
 		image: "ftb_quests:textures/gui/ftb_quests/images/fb_ogo.png"
 		rotation: 0.0d
 		width: 25.0d

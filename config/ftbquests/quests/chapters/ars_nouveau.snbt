@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "70EDC3728447BBF0"
 			image: "ars_nouveau:item/starbuncle_shards"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.5d
+			id: "56C7B5383443FE89"
 			image: "ftb_quests:textures/gui/ftb_quests/images/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 8.0d

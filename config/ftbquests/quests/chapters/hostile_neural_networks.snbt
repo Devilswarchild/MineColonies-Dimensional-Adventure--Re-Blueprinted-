@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "04B23D3899A606F4"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.5d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 10.0d
+			id: "6F9637C46CE79B63"
 			image: "ftb_quests:textures/gui/ftb_quests/images/hnn.png"
 			rotation: 0.0d
 			width: 10.0d

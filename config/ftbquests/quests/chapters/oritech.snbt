@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.5d
+			id: "6CF0395B1AB2D083"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 3.0d
+			id: "794A39FC5ACCC223"
 			image: "oritech:block/uranium_crystal"
 			rotation: 0.0d
 			width: 3.0d
