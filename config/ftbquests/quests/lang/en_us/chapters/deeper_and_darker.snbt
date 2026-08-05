@@ -25,9 +25,9 @@
 		"Gather all the rare loot you can carry before activating the portal, and walk quietly to avoid drawing the attention of the monster lurking in the shadows."
 		""
 		""
-		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
+		"{image:ftb_quests:textures/gui/ftb_quests/images/all_city.png width:200 height:100 align:center}"
 	]
-	quest.0B11EAB8D76529E0.title: "Visit an &6Ancient City&r"
+	quest.0B11EAB8D76529E0.title: "Visit an &6Ancient City"
 	quest.0B718FC37699B822.quest_desc: [
 		"You can gather plenty of &aEcho Logs&r by chopping down the unique &aEcho Trees&r found throughout the &5Echoing Forest&r."
 		""
