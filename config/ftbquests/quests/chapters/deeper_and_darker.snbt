@@ -16,7 +16,7 @@
 			rotation: 0.0d
 			width: 10.0d
 			x: -1.0d
-			y: -6.5d
+			y: -5.5d
 		}
 		{
 			dependency: "76F14C2B866B4EAD"
@@ -94,6 +94,96 @@
 			width: 2.5d
 			x: 3.0d
 			y: 0.0d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "7B2716C9B2F632D3"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -1.0d
+			y: -5.45d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "51533C418DDCEC7E"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -1.0d
+			y: 1.4d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "0462FB6C088681B9"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -7.75d
+			y: -5.45d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "5C22640E275C334E"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: 5.75d
+			y: -5.45d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "2818C7E784FE49E7"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: 5.75d
+			y: 1.4d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "3948F189E1358EE8"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: 5.75d
+			y: 8.25d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "10F0BB849A85B77B"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -1.0d
+			y: 8.25d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "458EB1D532089EF4"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -7.75d
+			y: 8.25d
+		}
+		{
+			click_action: "none:"
+			height: 8.0d
+			id: "06F67F74055B2D2B"
+			image: "minecraft:block/sculk"
+			rotation: 0.0d
+			width: 8.0d
+			x: -7.75d
+			y: 1.4d
 		}
 	]
 	order_index: 1
