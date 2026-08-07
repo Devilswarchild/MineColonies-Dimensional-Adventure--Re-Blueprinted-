@@ -154,6 +154,14 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/dnd_land.png width:200 height:100 align:center}"
 	]
 	quest.0450060852F290CA.title: "&9Deeplands"
+	quest.04D9F6587EF8D9B7.quest_desc: [
+		"Crafting a &9Potion Jar&r is the perfect way to declutter your packs, letting you store up to 100 potions inside a single block."
+		""
+		"Pulling your brews back out on the trail is incredibly simple: just tap the jar with an empty glass bottle or a handy potion flask to fill it right up."
+		""
+		"If you decide to automate your base camp, make sure to link these jars up—friendly Wixies will actively use them as supply tanks during automated Potion Autocrafting."
+	]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "Storing Potions"
 	quest.0501F76E80B4BC31.quest_subtitle: "Bring your pickaxe along!"
 	quest.0501F76E80B4BC31.title: "Small underground Mazes"
 	quest.050D8480EE9D8E62.quest_desc: [
@@ -235,6 +243,11 @@
 		"Keep your eyes on the ground while exploring, because they spawn as a rare find hidden deep inside the &9Deeplands&r"
 	]
 	quest.0850F88E2205623F.title: "&3Sculk Tendrils"
+	quest.088FCB5267CB7A89.quest_desc: [
+		"Equipping this belt gives you a fantastic edge in battle by randomly splashing you with positive potion buffs that last for a short time."
+		""
+		"The overall strength of these effects changes every single time they trigger, keeping you boosted with a mix of useful powers."
+	]
 	quest.08D9C809CF4062E8.quest_desc: [
 		"The Underbean stands as the true cornerstone of subterranean survival, a versatile harvest that has kept many explorers from starvation. "
 		""
@@ -258,6 +271,11 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_indigo.png width:200 height:100 align:center}"
 	]
 	quest.0A0A991BAC99092C.title: "Indigo Mushroom Bog"
+	quest.0A1ABE9CF7740AAA.quest_desc: [
+		"The protective Rings of Discount function as an essential accessory, applying a small bonus modifier to your maximum mana ceiling and accelerating your passive mana regeneration rates."
+		""
+		"Furthermore, keeping this ring equipped tunes your arcane focus to systematically reduce the total energy cost required to execute any custom spell from your book."
+	]
 	quest.0A1D6E233C0ECC8E.quest_desc: [
 		"The vicious predators known as &dNargoyles&r claim absolute dominion over the deep earth, manifesting as a persistent plague within the dark tunnels underground. "
 		""
@@ -362,6 +380,13 @@
 	]
 	quest.0D15A75331737FBB.quest_subtitle: "Harnessing maximum-tier atmospheric compression for final elemental transmutations."
 	quest.0D15A75331737FBB.title: "Zenith Synthesis: &9Uphyxes' Inverted Tower&r"
+	quest.0D330FAD6C993DBC.quest_desc: [
+		"This volume serves as the direct second-tier advancement for your magical armament."
+		""
+		"Compiling this book expands your maximum internal mana pool and accelerates your passive mana regeneration rates."
+		""
+		"Furthermore, the upgraded binding unlocks advanced casting permissions, allowing an arcanist to configure and cast powerful Tier 2 Glyphs within their spells."
+	]
 	quest.0D56A15EC335C11A.quest_subtitle: "This ice has fused with stone itself, creating a new type of block with some unique uses"
 	quest.0D56A15EC335C11A.title: "Compressed Ice"
 	quest.0D91A6B36BD2F526.quest_desc: [
@@ -376,6 +401,11 @@
 		"It is an instrument designed for the immovable executioner, not the swift duelist."
 	]
 	quest.0D91A6B36BD2F526.title: "Ultimate Weapon!"
+	quest.0E2AD156E5EF263A.quest_desc: [
+		"The fragile Spell Parchment serves as a vital blank slate used to permanently inscribe your chosen spells at the Scribe's Table."
+		""
+		"By pressing your spellbook against its surface, you infuse the paper with active arcane code, locking the spell into a portable, single-use scroll for rapid deployment in battle."
+	]
 	quest.0F00BBDF3618B3BA.quest_desc: [
 		"While a standard viewport allows a logistics officer to survey an outpost's hoard, an efficient garrison demands the immediate synthesis of components without constantly shifting between a ledger and an anvil. "
 		""
@@ -453,6 +483,15 @@
 	]
 	quest.10E025288BB00657.title: "&bSludge"
 	quest.10E8BC20D406D9FB.quest_subtitle: "Makes various Nether Materials"
+	quest.111649D7E16D869F.quest_desc: [
+		"The handy &9Caster's Wand&r is a specialized tool that only holds a single spell at a time, which you have to lock in using your Scribe's Table."
+		""
+		"Every single spell you put onto this wand automatically forces a Projectile and Accelerate modifier onto the front of it, so you must always use a basic effect that doesn't already have its own shape like touch or self-cast."
+		""
+		"Carrying this tool is a great trick on the trail because it lets you cast extra magic completely bypassing your standard 10-spell hotbar limit."
+		""
+		"If you just want a quick way to mine blocks, simply engrave the wand with the Break effect all by itself!"
+	]
 	quest.1187F9D4F4E0D254.quest_desc: [
 		"The &3Wrench&r stands as an indispensable, dual-purpose implement forged explicitly for the physical upkeep and structural calibration of a digital network. "
 		""
@@ -538,6 +577,15 @@
 	quest.145414B77583E1AA.quest_subtitle: "Open 100 Containers"
 	quest.14B3542ECB59869C.quest_desc: ["The &5Loot Fabricator&r is the machine that gets you that sweet, sweet loot from Mob Predictions.\\n\\nWhen given power and a successful Mob Prediction, you will be able to choose which item you'd like to get from that mob's Data Model. The machine will remember your choice, so it can be automated.\\n\\nExamples of Mob Predictions:\\n\\n- &dEnder Dragons&r for &dDragon Eggs\\n - &2Zombies&r for Iron\\n - &0Withers&r for &5Nether Stars"]
 	quest.14B3542ECB59869C.title: "Creating &dLoot"
+	quest.14DB8A515CA50932.quest_desc: [
+		"The powerful &9Enchanter's Sword&r lets you attach a custom Touch Spell straight to your blade for combat."
+		""
+		"Any spell you choose to lock onto the sword gets a free bonus, automatically adding one extra Amplify modifier to its very last effect."
+		""
+		"Applying your custom magic is easy: just head over to your Scribe's Table."
+		""
+		"When you build the spell for the blade, make sure to just select your effects and leave the delivery form completely blank."
+	]
 	quest.14E5349DD740D026.quest_desc: [
 		"To insert fuel into the reactor, you'll need to pick one of the sides that has a &9Reactor Solid Access Port&r and pump in &eUranium&r from an inventory."
 		""
@@ -549,6 +597,15 @@
 	quest.14E5349DD740D026.title: "Passive Reactor Fueling"
 	quest.14E93FEC6AE1ABA9.quest_subtitle: "These non craftable tools of glory seem to greatly increase your reach"
 	quest.14E93FEC6AE1ABA9.title: " Holy Arms"
+	quest.151648179684B088.quest_desc: [
+		"Grab some Runic Chalk whenever you want to draw permanent magical trap circles directly on the ground."
+		""
+		"These floor runes will instantly cast an attached spell onto any creature or enemy that accidentally walks over them."
+		""
+		"Setting one up is easy: just lock your chosen magic onto a &eSpell Parchment&r using a Scribe's Table, then use it to program the trap."
+		""
+		"Just make sure you set the rune up near your base jars, because it completely relies on nearby Source power to activate."
+	]
 	quest.1565DEE3F59CEDD4.title: "Visit the Twilight Forest"
 	quest.15A8F04BC10E619E.quest_desc: [
 		"While most flora in these lands isolates itself to specific realms, the Dense Forest defies the natural order. "
@@ -637,6 +694,13 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_dweller.png width:100 height:100 align:center}"
 	]
 	quest.17C2C8F64B4AE6EE.title: "&2Dweller&r"
+	quest.17D7D34F519F7E5F.quest_desc: [
+		"To forge the absolute final tier of your spellbook, you must first hunt down and destroy the legendary &6Wilden Chimera&r."
+		""
+		"Summoning this apex beast requires you to assemble a sacred &9Ritual Brazier&r and successfully complete its dangerous summoning ritual."
+		""
+		"Winning this battle proves your mastery, unlocking the ultimate secrets required to bind the highest order of magic into your volume."
+	]
 	quest.17F7964611D893BE.quest_desc: [
 		"The Fluid Loader will be helpful to keeping your &3Steam Locomotives&r up and running. "
 		""
@@ -673,6 +737,15 @@
 		"The &cPower Tap&r extracts power, and is required to complete the multiblock."
 	]
 	quest.186731580B14F9D2.title: "Port O' Turbine"
+	quest.18A2FBE2D4133FA2.quest_desc: [
+		"You'll need to craft a set of Arcane Pedestals if you want to use the Ritual Brazier or start manufacturing advanced magical items with the Enchanting Apparatus."
+		""
+		"These blocks function as pedestals that hold extra ingredients around your main crafting machines."
+		""
+		"Go ahead and craft yourself a total of 8 pedestals right away so you have enough to cover every high-level recipe on the trail."
+	]
+	quest.18A2FBE2D4133FA2.quest_subtitle: "Really Fancy Tables"
+	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
 	quest.19047AF0EDED198B.quest_desc: [
 		"No ritual matrix is complete without a proper &cSacrifice&r to appease the entities waiting on the other side."
 		""
@@ -706,6 +779,15 @@
 	]
 	quest.1984ECEC68F48221.quest_subtitle: "Hunting for Materials"
 	quest.1984ECEC68F48221.title: "Holy Tools"
+	quest.19D02325579F2AA8.quest_desc: [
+		"Setting up a Volcanic Sourcelink lets you generate a steady stream of Source power simply by feeding it burnable items and fuel."
+		""
+		"If you want a massive power boost, toss in a stack of Archwood logs to claim some awesome bonus energy."
+		""
+		"Keep your boots back while it works: as the link burns through your items, it melts down nearby stone blocks into burning lava pools."
+		""
+		"This intense volcanic heat also causes unique Lava Lilies to sprout right on top of the newly formed lava!"
+	]
 	quest.19D85E1B63ADFF34.quest_desc: [
 		"Step 1: Supply Camp/Supply Ship"
 		""
@@ -759,6 +841,11 @@
 	quest.1C9032F0B333E605.title: "New Iron?"
 	quest.1CF790252F0F1A77.quest_subtitle: "You've obtained temporal control over the aether, congrats!"
 	quest.1CF790252F0F1A77.title: "The Final Block"
+	quest.1D86B2E553503E53.quest_desc: [
+		"The powerful Dominion Wand acts as your primary apparatus for commanding and controlling the various creatures you encounter on your travels."
+		""
+		"Every entity responds differently to its magical wavelengths, making it vital to study their unique behaviors in the Worn Notebook before initiating contact."
+	]
 	quest.1E13D7CE5A9EFF74.quest_desc: [
 		"The Frostfields stretch out as one of the most frigid, unforgiving biomes within the &2&lUndergarden&r. "
 		""
@@ -856,6 +943,14 @@
 		""
 		"Yet, beneath its thick rind lies a volatile anatomy entirely alien to regular crops; when mixed with the correct catalysts, the compressed gases within the gourd react violently, allowing it to be repurposed into a devastating explosive."
 	]
+	quest.227DBA8836021B0B.quest_desc: [
+		"The fundamental energy matrix that powers all arcane machinery within this discipline is known as &9Source&r."
+		""
+		"To begin harvesting and accumulating this fluid power, you must first construct a specialized Source Jar storage vessel."
+		""
+		"This volatile essence is highly mobile; you can safely transport it across your facility utilizing standard iron buckets, or relocate entire networks by simply fracturing and picking up full Source Jars into your inventory."
+	]
+	quest.227DBA8836021B0B.quest_subtitle: "Storing Source"
 	quest.22F80D267321BFC5.quest_desc: [
 		"As an industrial facility expands, manual tracking of scattered assembly nodes becomes an engineered logistical hazard."
 		""
@@ -976,6 +1071,16 @@
 	]
 	quest.291AF252E3415CC1.quest_subtitle: "Imbuing baseline flora into concentrated alchemical pastes."
 	quest.291AF252E3415CC1.title: "Organic Extraction: &2Green Chalk&r"
+	quest.295C77EEC89000FC.quest_desc: [
+		"Setting up a Vitalic Sourcelink is the ultimate shortcut to power if you already have a working mob grinder or animal farm."
+		""
+		"This clever machine generates massive streams of Source energy by detecting creature deaths and animal breeding events within 15 blocks."
+		""
+		"It fits perfectly on top of a standard mob farm, turning enemy drops into pure magical fuel."
+		""
+		"As an awesome bonus, any baby animals standing close to the link will absorb its energy and grow up much faster, trickling even more power back into your storage jars while they age!"
+	]
+	quest.295C77EEC89000FC.quest_subtitle: "Source from Mobs and Animals"
 	quest.295DA5B88AC567AE.quest_desc: [""]
 	quest.29953CDAA8A3B0B6.quest_desc: [
 		"This operation marks the final entry in the Abras ritual sequence, engineered to breach the deep layers of the Otherworld and pull a top-tier, highly volatile &9Marid&r fire spirit across the planar barrier."
@@ -1049,6 +1154,14 @@
 		""
 		"It has to be above the &6Track&r and can be configured to what you'll want loaded onto your &7Carts&r below."
 	]
+	quest.2D0CF18C8B2ABB7D.quest_desc: [
+		"Placing this generator down next to growing crops or tree saplings will start trickling Source energy right into your jars."
+		""
+		"If you want to maximize your power output, plant native Archwood trees around it instead, as they produce way more energy than regular plants."
+		""
+		"Just keep in mind that using bone meal to cheat the growth timers won't generate any extra power...."
+	]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "Source from Plants"
 	quest.2D592669F4D41793.quest_desc: ["Just like the Reactor, the frame must be built out of &dCasings&r, but the walls can be &9Turbine Glass&r instead!"]
 	quest.2D592669F4D41793.title: "Glass Case"
 	quest.2D7161D9084B377B.quest_desc: [
@@ -1139,6 +1252,17 @@
 		""
 		"The different &4Crowbars&r just give different looks and damage."
 	]
+	quest.3142A40E1EAEBAA3.quest_desc: [
+		"Deploying the mystical &6Dowsing Rod&r grants a sorcerer active bursts of Magic Find and Scrying attributes upon use."
+		""
+		"Channeling this artifact reveals the hidden silhouettes of nearby magical creatures through solid terrain, while simultaneously tuning your awareness to help you locate buried veins of amethyst gems."
+	]
+	quest.3142A40E1EAEBAA3.quest_subtitle: "Magic Finder"
+	quest.3182E8AF755104E4.quest_desc: [
+		"The protective &9Enchanter's Shield&r functions as a vital defensive arm, granting a brief surge of Mana Regeneration and Spell Damage statistics whenever you successfully block incoming physical trauma."
+		""
+		"Furthermore, this master-crafted bulwark features an autonomous restoration matrix, drawing steadily upon your personal mana pool to automatically repair its own broken durability over time."
+	]
 	quest.32BF2E4192A2652C.quest_desc: ["Even the ground has changed, it seems those changes go beyond just the surface."]
 	quest.32BF2E4192A2652C.quest_subtitle: "Be careful while harvesting!"
 	quest.32BF2E4192A2652C.title: "Faster Sand"
@@ -1147,6 +1271,14 @@
 		""
 		"Stone and ores are another major need for any colony, so a Mine is the next logical step."
 	]
+	quest.33682F4B44950123.quest_desc: [
+		"If you want to start learning more advanced spells, your next big step is hunting down a unique type of magical wood."
+		""
+		"You can find Archwood trees growing out in the wild across the Overworld."
+		""
+		"Keep an eye out for their bright, glowing canopies, and make sure to chop down plenty of logs to bring back to your crafting table!"
+	]
+	quest.33682F4B44950123.title: "Archwood Logs"
 	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
 	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
 	quest.34D15631537C26AE.quest_desc: [
@@ -1342,6 +1474,20 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/dnd_column.png width:200 height:100 align:center}"
 	]
 	quest.3CF2DFB7F0CE065B.title: "&cOvercast Columns"
+	quest.3D4D88B8BE881351.quest_desc: [
+		"To manipulate advanced magic, an arcanist must construct a &6Scribe's Table&r to discover new glyphs for their spellbook. "
+		""
+		"Glyphs are divided into three escalating tiers, each requiring specific material offerings and player experience to research."
+		""
+		"Beyond inscription, the station binds active spells onto disposable Spell Parchments; place a parchment onto the surface, highlight the chosen spell inside your spellbook, and sneak-right-click the volume onto the table to infuse it. "
+		""
+		"To craft a fresh glyph, right-click the table with an open spellbook, find your target formula, and press the Select button."
+		""
+		"Hand-deliver the remaining components by right-clicking the block, or allow the table to automatically siphon materials from neighboring chests. "
+		""
+		"Once created, consume the finished glyph to permanently master its power.\""
+	]
+	quest.3D4D88B8BE881351.quest_subtitle: "Upgrading Spells"
 	quest.3D579A1F7EFEDD5C.quest_desc: [
 		"The &9&lWarden&r stands as the most difficult boss monster inside &2&lMinecraft&r, residing deep within the game's most dangerous structural complexes."
 		""
@@ -1355,6 +1501,18 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/warden_roar.png width:100 height:100 align:center}"
 	]
 	quest.3D579A1F7EFEDD5C.title: "Kill the &9&lWarden&r"
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"You'll use the &9Enchanting Apparatus&r to manufacture most of your high-tier gear and magical items as you progress."
+		""
+		"Keep in mind that this machine won't do a thing without a steady supply of Source power nearby."
+		""
+		"Setting up this multiblock station is easy: first, dig a hole and place an Arcane Core flat in the ground."
+		""
+		"Next, slap the Enchanting Apparatus right on top of that core block, and then surround the whole setup with a ring of Arcane Pedestals to hold your extra crafting ingredients."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/enchanting_app.png width:200 height:175 align:1}"
+	]
 	quest.3D91D754E66F9811.quest_desc: ["Dropped by Evokers."]
 	quest.3D91D754E66F9811.quest_subtitle: "Found in Woodland Mansion chests"
 	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
@@ -1397,6 +1555,13 @@
 	quest.3F8EEE1AD4420702.title: "&b64k Storage Part"
 	quest.3F9D553C9FA64F2A.quest_desc: ["Reactors are multi-block structures, meaning you can create your own custom size!\\n\\nIf you're using &aBasic Reactor Parts&r, the largest size reactor you can build is 5x5x5.\\n\\nThe &lBiggest&r Reactor that you can make using &eReinforced Reactor Parts&r is 32x32x48. There are a lot of variables that contribute to the overall output of a reactor, so make sure to experiment!\\n\\nSome overall tips:\\n\\nThe taller the reactor, the more fuel it can hold and burn because there are more fuel rods, meaning more overall power. This also means a higher &cburn rate&r.\\n\\nThe wider the reactor, the more efficient it is, as long as you don't add more fuel rods to the design. This means less consumption overall."]
 	quest.3F9D553C9FA64F2A.title: "Expanding The Reactor"
+	quest.3FD702B5AB006402.quest_desc: [
+		"The weightless Levitation Belt allows an arcanist to effortlessly hover above the ground rather than walking."
+		""
+		"To initialize its floating enchantment, you must simply jump or fall into the air and press your sneak command key."
+		""
+		"This halts your descent immediately, letting you glide smoothly across treacherous chasms and gaps."
+	]
 	quest.3FD801D7DE9176FB.title: "&e4k Storage Part"
 	quest.403271A8740E9141.quest_desc: [
 		"The volatile oils within &cDemon's Dream Fruit&r possess highly exotic, flammable properties."
@@ -1424,6 +1589,12 @@
 		""
 		"Set a pattern for what you want to be deployed then give it a redstone signal."
 	]
+	quest.40BC67BDEE15D1DE.quest_desc: [
+		"To manufacture foundational Source Gems, an arcanist must deposit either standard Lapis Lazuli or raw Amethyst Shards into the central repository of the Imbuement Chamber."
+		""
+		"Once sealed within the vessel, the items will gradually absorb the surrounding energy fields, systematically converting into refined Source Gems over time."
+	]
+	quest.40BC67BDEE15D1DE.title: "&5Source Gems"
 	quest.4101F8275B41C79B.title: "&61k Storage Part"
 	quest.4141EF8B8C316118.quest_desc: [
 		"&7Cloggrum&r reigns undisputed as the foundational iron of the &2&lUndergarden&r, serving as the absolute bedrock of subterranean craftsmanship. "
@@ -1435,6 +1606,12 @@
 		"Its presence is so deeply woven into the dimension's biology that even certain ravenous entities have absorbed its raw shards into their flesh, surrendering unrefined chunks of the metal upon their destruction."
 	]
 	quest.4141EF8B8C316118.title: "&7Cloggrum&r"
+	quest.41A0BE357C8A74E1.quest_desc: [
+		"Setting up an &9Alchemical Sourcelink&r lets you siphon raw Source power right out of your nearby potion jars. "
+		""
+		"Keep in mind that not all brews are created equal; the amount of energy you get back changes completely depending on which potion you use and how complex its brewing recipe was."
+	]
+	quest.41A0BE357C8A74E1.quest_subtitle: "Potion Power"
 	quest.41B4C7B9D3AE6317.quest_desc: ["Craft it using a witch's pupil"]
 	quest.41EDEF510157A6F8.quest_desc: [
 		"This operation marks the culmination of the Abras sequence. The ceremony is engineered to pull a top-tier, highly volatile &9Marid&r fire spirit across the planar barrier. Even though your geometric foundation now integrates the containment field of Red Chalk, the raw energetic output of this entity still surpasses the grid's suppression limits. Because the matrix cannot fully &9bind&r the entity into immediate submission, you must prepare for a high-intensity combat encounter to terminate it manually."
@@ -1502,6 +1679,8 @@
 		"To build a bigger Turbine, you must use &aReinforced Turbine Parts&r."
 	]
 	quest.4415C9F8DA2D7E68.title: "Creating Turbines"
+	quest.441C0659ED28D935.quest_desc: ["Tier 1 Glyphs require 3 levels of experience to be made."]
+	quest.441C0659ED28D935.title: "Novice Glyphs"
 	quest.44881E39AB1D62AA.quest_desc: [
 		"To transform encoded blueprints into tangible military assets, an engineer must deploy the &3Autocrafter&r."
 		""
@@ -1536,6 +1715,17 @@
 		"To find them, one must cast their gaze away from the soil and search the high stone ceilings. "
 		""
 		"They cling tightly to the rocky vaults of the world, anchoring themselves to the overhead bedrock and cascading downward in luminescent strands that mirror the glowing flora of the ancient subterranean depths."
+	]
+	quest.457DE8C154641437.quest_desc: [
+		"The handy &9Ritual Brazier&r is your main station for casting high-level magical rituals, though it also makes for a fantastic decorative fire pit around camp."
+		""
+		"If you want to light the flames, don't reach for a flint and steel—you'll need to blast the block with a custom Light spell."
+		""
+		"To actually perform any rituals here, you'll need to set up a few surrounding Arcane Pedestals to feed in the secondary ingredients."
+		""
+		"Since there is a massive library of different rituals to experiment with, make sure to read up on each layout using your &6Worn Notebook&r."
+		""
+		"You can open the book's direct guide menu by keeping the notebook in your pack and holding down the Ctrl key while looking at your Ritual Table."
 	]
 	quest.45C9D975E3731DFE.quest_desc: [
 		"Crafting a powerful &9Reinforced Echo Shard&r requires tracking down three key ingredients across your world."
@@ -1840,6 +2030,17 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smogspires.png width:200 height:100 align:center}"
 	]
 	quest.511144EF336BFAF5.title: "Smog Spires"
+	quest.51162B9185A45BB1.quest_desc: [
+		"The powerful &9Enchanter's Bow&r can be permanently engraved with a custom magical formula by processing it at the Scribe's Table."
+		""
+		"When drawn, it draws upon your internal mana reserves to convert standard ammunition into specialized Spell Arrows that unleash the bound magic directly upon target impact."
+		""
+		"If your quiver runs completely empty, the bow will automatically manifest a phantom spell arrow that deals zero physical damage but still delivers the raw magic."
+		""
+		"Conversely, if your internal mana pool drains completely, the weapon simply fires normal arrows instead."
+		""
+		"Furthermore, this master-crafted bow is fully compatible with rare Augment Arrows, which instantly amplify and empower the effects of your inscribed spell."
+	]
 	quest.5128B119DFFF0C4C.quest_desc: [
 		"The &3Steam Locomotive&r is the most basic &1Locomotive&r. It can be powered by giving it water, furnance fuel, and waiting. "
 		""
@@ -1920,6 +2121,13 @@
 		""
 		"The Arrows on it show which goes where."
 	]
+	quest.542C6D76B579886C.quest_desc: [
+		"Once you harvest your grown crops, you will collect a handful of &5Magebloom Fibers&r."
+		""
+		"These magical threads are exactly what you need to spin into enchanted cloth."
+		""
+		"Take them to your workbench to craft the custom fabric required for sewing your very first sets of wizard robes and magical gear!"
+	]
 	quest.54468ED84F34EEFE.quest_desc: [
 		"Manufacturing your next tier of runic modifiers requires you to harvest high-density organic compounds from extra-dimensional shock troops. You must initiate &6Abras' Open Commanding Conjure&r to force a wave of Demon Possessed Zombified Piglins to cross into the material plane."
 		""
@@ -1989,6 +2197,19 @@
 	]
 	quest.5737623C55009253.quest_subtitle: "Bypassing standard mechanics to achieve hyper-optimized gear modification."
 	quest.5737623C55009253.title: "Unbreaking Synthesis: The &bIesnium Anvil&r"
+	quest.5766C8B9E850C186.quest_desc: [
+		"To synthesize the &9Source Gem&r, a foundational material required for most high-tier arcane crafting, you must construct an &6Imbuement Chamber&r."
+		""
+		"This apparatus processes recipes by focusing concentrated Source energy onto a target item."
+		""
+		"While the chamber generates a minimal amount of internal energy on its own, it can draw power directly from nearby Source Jars to fuel complex tasks."
+		""
+		"Furthermore, several advanced imbuing formulas require you to arrange auxiliary Arcane Pedestals around the central block to hold secondary material ingredients."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/imbuement.png width:200 height:150 align:1}"
+	]
+	quest.5766C8B9E850C186.quest_subtitle: "Creating Source Gems"
 	quest.579A707576F931C8.quest_desc: ["Eat 115 pieces of Experiment 115. But why stop there? Why ever stop?"]
 	quest.580148D1141446A6.quest_desc: [
 		"&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r!\\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around.\\n\\nYou can kill them for the Souls that they drop! It is much less efficient though...\\n"
@@ -2020,6 +2241,13 @@
 	quest.5866438E5D19AB69.title: "&3Sculk Leech"
 	quest.58C2ABED43B2EA61.quest_desc: ["&9Model Frameworks&r are the starting point for creating Data Models.\\n\\nTo start collecting data on a specific mob, you'll want to make one of these then &9right click&r the mob you'd like to gather data on. When done properly, the Model Framework will turn into the Data Model of the mob you clicked on.\\n\\nTo gather data for that mob, place the newly created Data Model inside of a &aDeep Learner&r, then start killing that specific mob with the Deep Learner in your inventory."]
 	quest.58C2ABED43B2EA61.title: "&9Modeling Mobs"
+	quest.58EC47584C773B82.quest_desc: [
+		"Fire up your Enchanting Apparatus setup, because it is time to craft your very first magical crop: the &5Magebloom Seed&r."
+		""
+		"Planting and farming these special seeds will yield unique magical fibers, which are the essential material you need to craft your first sets of enchanted clothing!"
+	]
+	quest.58EC47584C773B82.quest_subtitle: "Growing Magic"
+	quest.58EC47584C773B82.title: "Magebloom Seed"
 	quest.5914D015D8543875.quest_desc: [
 		"The &aFluidizer&r can operate in one of 3 modes: Solid to Fluid, Combining 2 Solids into a Fluid, or combining 2 Fluids into a new Fluid. "
 		""
@@ -2119,6 +2347,13 @@
 	]
 	quest.5BDADF6C889BB9D1.quest_subtitle: "Processing high-density ice aggregates into advanced colored modifiers."
 	quest.5BDADF6C889BB9D1.title: "Thermal Extraction: Light Blue Chalk"
+	quest.5C3FF43CF16BCF30.quest_desc: [
+		"Once you have a steady supply of Source Gems, you can finally start building advanced magical machinery by crafting baseline blocks of &5Sourcestones&r."
+		""
+		"Think of this material as your essential construction brick—you'll need it as a core ingredient for almost every machine you create."
+	]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "Formerly \"Arcana Stones\""
+	quest.5C3FF43CF16BCF30.title: "Sourcestone"
 	quest.5C776EA056A14C57.quest_desc: [
 		"Before you can begin shackling entities to your automated factory lines, you must manufacture the fundamental medium of all occult geometry: &aChalk&r."
 		""
@@ -2145,6 +2380,21 @@
 		"They seem to be purely decorative blocks meant to add some nice ambience to the caves."
 	]
 	quest.5CCF573B67317591.title: "&bGlowing Roots"
+	quest.5CFBA24B3E0CDEDD.quest_desc: [
+		"While holding your open spellbook, press the C key to open the central spell creation menu."
+		""
+		"Every magical formula requires a physical shape, and you begin with three basic forms: Projectile, Self-cast, and Touch."
+		""
+		"The added Effect dictates exactly what transpires upon casting, and a single spell can handle up to 9 combined effects."
+		""
+		"Your initial options include Harm and Break."
+		""
+		"Simply select one form and one effect, give your custom spell a unique name, and press create to finalize the pattern."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/spellbook.png width:200 height:150 align:1}"
+	]
+	quest.5CFBA24B3E0CDEDD.title: "Creating the First Spell"
 	quest.5D1F4B6E9CED99E7.quest_desc: ["Once you have located a swamp, go the the centre and you will find a mostly buried maze containing the Minoshroom boss."]
 	quest.5D1F4B6E9CED99E7.title: "Slay a Minoshroom"
 	quest.5D229FA3A5F92954.quest_desc: [
@@ -2279,8 +2529,19 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_turbine.png width:100 height:100 align:center}"
 	]
 	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
+	quest.632BC46928CC9A8C.quest_desc: [
+		"The mystical &9Enchanter's Mirror&r functions as a specialized utility tool that instantly channels a bound Self Spell directly onto the user."
+		""
+		"Any magical enchantment cast through this glass requires significantly less mana to execute and receives a flat bonus to its active duration."
+		""
+		"To permanently etch a magical formula onto its face, you must utilize the Scribe's Table."
+		""
+		"When compiling this specific mirror enchantment, simply select your target effects inside your book while omitting any delivery forms entirely."
+	]
 	quest.632BFEC0E8AF7126.quest_desc: ["Have a full block of Experiment 115 with Redstone sprinkles."]
 	quest.632BFEC0E8AF7126.title: "Making a note: Huge Success!"
+	quest.63DD7F5A4441ACE7.quest_desc: ["Tier 2 Glyphs require 5 levels of experience to be made. \\n\\nThey also require a &9Mage's Spell Book&r to create."]
+	quest.63DD7F5A4441ACE7.title: "&9Mage&r Glyphs"
 	quest.647A87E800C703C3.quest_desc: [
 		"The Green Jungle stands as a breathtaking spectacle within the realm. "
 		""
@@ -2314,6 +2575,18 @@
 	quest.64A6C2A397051CFA.title: "&bFirst &dRitual"
 	quest.64C105E1E2F97900.quest_desc: ["The Spike Mauls are used on normal &6Tracks&r to switch their modes. Very helpful for trying to make intersections!"]
 	quest.64C105E1E2F97900.title: "Smart Switch"
+	quest.64D0E66CB4FBEC82.quest_desc: [
+		"To get your foot in the door with magic, you'll need to craft a &6Novice Spellbook&r."
+		""
+		"This is your personal journal for creating and storing every spell you learn."
+		""
+		"Hitting the &9C&r key opens up the creation screen, where you'll find three main tabs: Spell Creation, Color Picker, and Familiars."
+		""
+		"Just remember that this entry-tier book only lets you cast basic Tier 1 Glyphs."
+		""
+		"If you want to use more powerful magic on the trail, you'll have to upgrade the book itself!\""
+	]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "First Spellbook"
 	quest.64D73FF43C7D5AB9.quest_desc: ["Go back to the Troll Cave, locate the large obsidian vault and mine inside with the giant pickaxe to obtain the Lamp of Cinders."]
 	quest.64E85274D24FE394.quest_desc: [
 		"To maintain immediate, visual command over a facility's skyrocketing material counts without constantly referencing a terminal screen, an engineer must affix the &9Storage Monitor&r to the structure's walls. "
@@ -2471,6 +2744,11 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/reprocessorfull.png width:150 height:150 align:center}"
 	]
 	quest.69642A3618E86DED.title: "The Frame"
+	quest.6A1C0B17B22CE50F.quest_desc: [
+		"Equipping the &9Amulet of Mana Boost&r is a fantastic shortcut to instantly expand your maximum mana pool for bigger spell combos."
+		""
+		"If you find yourself running out of fuel too quickly on the trail, swap over to the &6Amulet of Mana Regen&r to make your energy recharge much faster."
+	]
 	quest.6ADDFD55AD0DF7D4.quest_desc: [
 		"Combining &9Ridiculite Ingots&r with &cRossinite&r in a &aReprocessor&r will create &dInanite Ingots&r."
 		""
@@ -2492,6 +2770,15 @@
 		""
 		"If your style is wood, it’s recommended to build a Forester’s Hut next. That way your new Forester can start gathering wood for your next builds and for tools and other items."
 	]
+	quest.6B511C8B572E8940.quest_desc: [
+		"A specialized status bar rests permanently at the bottom left of your screen, representing your active mana pool."
+		""
+		"As your magical capabilities grow, you can deploy several different methodologies to expand this energy reservoir or optimize the casting efficiency of your custom spells."
+		""
+		"Furthermore, systematically upgrading the binding tier of your central spellbook provides an immediate flat increase to your maximum mana limits."
+	]
+	quest.6B511C8B572E8940.quest_subtitle: "Mage Power"
+	quest.6B511C8B572E8940.title: "Mana"
 	quest.6BB948F44B0950E8.quest_desc: [
 		"You will find &3Sculk Stone&r making up the walls and floors of almost every single biome here, except for the burning &cOvercast Columns&r."
 		""
@@ -2532,6 +2819,15 @@
 		""
 		"These imposing structures possess an adaptive resilience, claiming domain across multiple territories: they anchor the suffocating Smogstem Forests, choke the light from the Dense Forests, and even take root within the damp soil of the Indigo Mushroom Bogs."
 	]
+	quest.6DAA82B5F94AF9F8.quest_desc: [
+		"Activating the &9Jar of Light&r calls down a friendly, floating light source that follows you everywhere you walk."
+		""
+		"If your packs are getting full of junk, swap to the &6Jar of Voiding&r, which automatically destroys specified items as you pick them up and turns them into free mana."
+		""
+		"You can easily filter what it deletes by holding an item in your offhand and right-clicking the jar, or by putting the jar on a Scribe's Table and using the items on it."
+		""
+		"Just make sure the jar stays on your active hotbar, or it won't work at all!"
+	]
 	quest.6DB65926EE6D6C2E.quest_desc: [
 		"These &cTracks Kits&r are for changing momentum with your &7Carts&r."
 		""
@@ -2556,6 +2852,12 @@
 	]
 	quest.6DB9E297C9248966.quest_subtitle: "Constructing organic catalysts and manual ignition criteria."
 	quest.6DB9E297C9248966.title: "Lethal Anchors: &5Possession Rituals&r"
+	quest.6E0E13806F388D7E.quest_desc: [
+		"Welcome to &aArs Nouveau&f!"
+		""
+		"Ars Nouveau is a magic mod that allows you to create custom spells with the different Glyphs made within the mod!"
+	]
+	quest.6E0E13806F388D7E.title: "Welcome to &aArs Nouveau&f!"
 	quest.6E38CF6E7360E9CA.quest_desc: [
 		"Slaying the &9&lWarden&r yields several valuable resources, but the &9Heart of the Deep&r remains your main priority."
 		""
@@ -2593,6 +2895,8 @@
 	quest.6E901EF1CB411088.title: "&9Warden&r Armor"
 	quest.6EB945C2C1B04265.quest_subtitle: "In the past, this mythical armor bestowed wings upon the heavenly warriors, only the cape retained a fraction of that ancient power"
 	quest.6EB945C2C1B04265.title: "The ultimate armor"
+	quest.6F3602F5600A6221.quest_desc: ["Tier 3 Glyphs require 10 levels of experience to be made. \\n\\nThey also require an &6Archmage Spell Book&r."]
+	quest.6F3602F5600A6221.title: "&6Archmage&r Glyphs"
 	quest.6F416275B6F6D8F0.quest_desc: [
 		"Deep within the choking fumes of the Smog Spires hangs the volatile fruit known as Blisterberries. "
 		""
@@ -2830,6 +3134,14 @@
 		"Arm yourself with a high-tier hoe tool and mount your expedition into the heart of the &3&lOtherside&r."
 	]
 	quest.76F14C2B866B4EAD.title: "The &3&lOtherside"
+	quest.77145113CD5B26FB.quest_desc: [
+		"When it comes to powering up your jars, farming Source Berries is a fantastic choice since they produce way more Source energy than most other options."
+		""
+		"You'll want to watch where you plant them, though: the berries radiate a strange energy that will transform all regular grass or dirt blocks in a 3x3 zone around them into purple Mycelium."
+		""
+		"If there are any open spaces left empty around the bush, the soil will also start sprouting wild mushrooms out of nowhere."
+	]
+	quest.77145113CD5B26FB.quest_subtitle: "Source From Food"
 	quest.774420C19F369850.quest_desc: [
 		"Step 1: Supply Camp/Supply Ship"
 		""
@@ -3083,6 +3395,7 @@
 	task.2A2D77813F3127A6.title: "Rails"
 	task.2A323BE18E61A0B1.title: "Osorin"
 	task.2AD4F4CB819E930D.title: "Eldritch Chalice"
+	task.2BC0F5A88E2F03C3.title: "Archwood Logs"
 	task.303D6C09ED07D006.title: "Repairing Items"
 	task.30DCA9D5C68655B5.title: "Sacrificial Bowls"
 	task.3490AE43AD653256.title: "Turnout Tracks"
