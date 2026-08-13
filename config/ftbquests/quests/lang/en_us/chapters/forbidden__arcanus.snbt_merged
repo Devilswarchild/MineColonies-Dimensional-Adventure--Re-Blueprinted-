@@ -1,0 +1,10 @@
+{
+	quest.092BB595F75D5536.quest_desc: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need to start Mining underground... deep underground. \\n\\nLike Y Level 1 and below. "]
+	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
+	quest.3999AE0921641E60.quest_desc: ["&8Dark Matter&r is created by Smelting Edelwood. \\n\\n&5Corrupti Dust&r is made with &5Obsidiansteel&r and some Mob Drops. \\n\\nThrow both these on the ground together and a &8Black Hole&r will spawn! \\n\\nThe &8Black Hole&r will void every Item or Projectile that comes near, but what we want to feed it is &aExperience&r! \\n\\nWhen you feed it enough &aEXP&r it will give back an &aXpetrified Orb&r."]
+	quest.580148D1141446A6.quest_desc: [
+		"&c&lNether&r too scary for you? Then, you can look for Souls in the &2&lOverworld&r!\\n\\nWithin your World (I made you go to Dark Forests because old &l&6Forbidden \\& Arcanus&r used to have Blocks there) you might find some Lost Souls wandering around.\\n\\nYou can kill them for the Souls that they drop! It is much less efficient though...\\n"
+		"If you are having troubles finding Souls, you might wanna look into Soul Looting enchantment on your sword. Killing mobs with this enchantment will occassionally spawn Souls."
+	]
+	quest.580148D1141446A6.title: "Lost Souls"
+}

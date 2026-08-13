@@ -1,0 +1,14 @@
+{
+	"chapters/forbidden__arcanus.snbt": {
+		quest.092BB595F75D5536.quest_desc: {
+			new: ["Welcome to &6&lForbidden \\& Arcanus&r! \\n\\nTo start this Mod we'll need to start Mining underground... deep underground. \\n\\nLike Y Level 1 and below. "]
+			old: [
+				"Welcome to the dark arts of &6&lForbidden \\& Arcanus&r."
+				""
+				"To initialize your research into these forbidden secrets, you must equip your pickaxe and begin mining deep beneath the earth's surface."
+				""
+				"Your primary excavation efforts must focus strictly at Y-level 1 and below to discover the rare foundational ores of this mod."
+			]
+		}
+	}
+}

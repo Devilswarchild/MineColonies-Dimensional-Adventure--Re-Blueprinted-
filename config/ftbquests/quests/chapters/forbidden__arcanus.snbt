@@ -7,42 +7,127 @@
 		id: "forbidden_arcanus:hephaestus_forge_tier_1"
 	}
 	id: "4EBB2171D5A3AAAC"
-	images: [{
-		height: 15.0d
-		id: "21FD4EBE721D73E6"
-		image: "ftb_quests:textures/gui/ftb_quests/images/fb_ogo.png"
-		rotation: 0.0d
-		width: 25.0d
-		x: 13.0d
-		y: -12.0d
-	}]
+	images: [
+		{
+			height: 15.0d
+			id: "21FD4EBE721D73E6"
+			image: "ftb_quests:textures/gui/ftb_quests/images/fb_ogo.png"
+			rotation: 0.0d
+			width: 25.0d
+			x: 13.0d
+			y: -16.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "08398BA33F71158F"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_clibano.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "40B42C4C6F199126"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_tier1.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 11.0d
+			y: -5.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "2B67302C23E51DFF"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_relics.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 17.599999999999998d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "5CC72965D45264B4"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_tier2.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "22C72AB51EF1D5D5"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_tier3.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "2581C335894BDC94"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_tier4.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 22.0d
+			y: -3.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "506442F4D0E51D32"
+			image: "ftb_quests:textures/gui/ftb_quests/images/forbidden_title_tier5.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: 25.0d
+			y: -3.5d
+		}
+	]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
 			icon: {
-				id: "forbidden_arcanus:hephaestus_forge_tier_1"
+				components: {
+					"ftbquests:icon": "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
+				}
+				id: "ftbquests:custom_icon"
 			}
 			id: "092BB595F75D5536"
 			rewards: [{
-				count: 5
-				id: "3E9F25BFE28D3AE6"
+				id: "48C8905C6ACD8070"
 				item: {
 					count: 1
-					id: "forbidden_arcanus:arcane_crystal"
+					id: "minecraft:iron_pickaxe"
 				}
 				type: "item"
 			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
-				id: "1B3F38BCC546540A"
-				item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
-				type: "item"
+				dimension: "minecraft:overworld"
+				id: "12714242174C68E7"
+				ignore_dimension: false
+				position: [I;
+					0
+					0
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
 			}]
-			x: 2.6772195296794408d
-			y: -0.625d
+			x: 2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["092BB595F75D5536"]
@@ -67,10 +152,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"092BB595F75D5536"
-				"4C93FCBAB7F3C00D"
-			]
+			dependencies: ["092BB595F75D5536"]
 			hide_dependent_lines: true
 			icon: {
 				id: "forbidden_arcanus:runic_deepslate"
@@ -91,14 +173,11 @@
 				item: { count: 1, id: "forbidden_arcanus:rune" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -2.0d
+			x: 4.0d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"092BB595F75D5536"
-				"4C93FCBAB7F3C00D"
-			]
+			dependencies: ["092BB595F75D5536"]
 			icon: {
 				id: "forbidden_arcanus:stella_arcanum"
 			}
@@ -118,8 +197,8 @@
 				item: { count: 1, id: "forbidden_arcanus:stellarite_piece" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 4.0d
+			y: -2.0d
 		}
 		{
 			id: "2D3C8905B783A212"
@@ -165,7 +244,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["092BB595F75D5536"]
+			dependencies: ["173095F549E2D035"]
 			id: "49D0B6D3ED3DCCCD"
 			rewards: [{
 				count: 3
@@ -319,13 +398,19 @@
 			dependencies: ["31AD9826FB036C98"]
 			id: "40B757772D0FBAC9"
 			rewards: [{
-				id: "6D21710E315BC55A"
+				id: "32D1AC56A0F54D9C"
 				item: {
 					components: {
-						"ftbquests:missing_item": "mob_grinding_utils:spikes"
+						"forbidden_arcanus:essence_storage": {
+							data: {
+								amount: 3000
+								type: "blood"
+							}
+							limit: 3000
+						}
 					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "forbidden_arcanus:blood_test_tube"
 				}
 				type: "item"
 			}]
@@ -339,20 +424,21 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["3999AE0921641E60"]
 			id: "2ADA491A2485061C"
 			rewards: [{
-				count: 8
+				count: 2
 				id: "6D9CC88499D544BC"
 				item: {
 					count: 1
-					id: "minecraft:experience_bottle"
+					id: "forbidden_arcanus:xpetrified_orb"
 				}
 				type: "item"
 			}]
 			size: 1.2d
 			tasks: [{
-				id: "659DCADAC821ECB7"
-				item: { count: 1, id: "minecraft:experience_bottle" }
+				id: "7D6673827E17717C"
+				item: { count: 1, id: "forbidden_arcanus:xpetrified_orb" }
 				type: "item"
 			}]
 			x: 12.0d
@@ -476,7 +562,7 @@
 					id: "460FECA4973A1F25"
 					item: {
 						count: 1
-						id: "minecraft:experience_bottle"
+						id: "forbidden_arcanus:xpetrified_orb"
 					}
 					type: "item"
 				}
@@ -634,7 +720,7 @@
 					id: "2E8E7B0E6243FD22"
 					item: {
 						count: 1
-						id: "minecraft:experience_bottle"
+						id: "forbidden_arcanus:xpetrified_orb"
 					}
 					type: "item"
 				}
@@ -678,10 +764,8 @@
 			y: -0.5d
 		}
 		{
-			dependencies: [
-				"46567ED894E9883C"
-				"3999AE0921641E60"
-			]
+			dependencies: ["46567ED894E9883C"]
+			hide_dependent_lines: true
 			id: "5A6FF0D4BA894306"
 			rewards: [{
 				count: 10
@@ -788,7 +872,7 @@
 					id: "4850F9B9A12B1EF5"
 					item: {
 						count: 1
-						id: "minecraft:experience_bottle"
+						id: "forbidden_arcanus:xpetrified_orb"
 					}
 					type: "item"
 				}
@@ -898,7 +982,7 @@
 					id: "6BF3392D003B3882"
 					item: {
 						count: 1
-						id: "minecraft:experience_bottle"
+						id: "forbidden_arcanus:xpetrified_orb"
 					}
 					type: "item"
 				}
@@ -920,10 +1004,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"692183ACBB2AABF7"
-				"5A6FF0D4BA894306"
-			]
+			dependencies: ["692183ACBB2AABF7"]
 			hide_dependent_lines: true
 			id: "66FE4552E09B5EFF"
 			rewards: [{
@@ -942,14 +1023,11 @@
 				item: { count: 1, id: "forbidden_arcanus:elementarium" }
 				type: "item"
 			}]
-			x: 18.200000000000003d
-			y: -3.9000000000000004d
+			x: 18.3d
+			y: -5.4d
 		}
 		{
-			dependencies: [
-				"692183ACBB2AABF7"
-				"5A6FF0D4BA894306"
-			]
+			dependencies: ["692183ACBB2AABF7"]
 			hide_dependent_lines: true
 			id: "67CCEFEBA4D79429"
 			rewards: [{
@@ -968,14 +1046,15 @@
 				item: { count: 1, id: "forbidden_arcanus:divine_pact" }
 				type: "item"
 			}]
-			x: 19.5d
-			y: -5.2d
+			x: 19.599999999999998d
+			y: -6.7d
 		}
 		{
 			dependencies: [
 				"4BE209D5DAF1F321"
-				"092BB595F75D5536"
+				"173095F549E2D035"
 			]
+			hide_dependent_lines: true
 			icon: {
 				id: "forbidden_arcanus:arcane_crystal_obelisk"
 			}
@@ -1037,7 +1116,6 @@
 				"356102D5B5F3CA1E"
 				"5CD0E6F349F2F32D"
 			]
-			hide_dependent_lines: true
 			icon: {
 				components: {
 					"ftbquests:icon": "forbidden_arcanus:block/black_hole_aura_0"
@@ -1125,10 +1203,7 @@
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"692183ACBB2AABF7"
-				"46567ED894E9883C"
-			]
+			dependencies: ["692183ACBB2AABF7"]
 			hide_dependent_lines: true
 			id: "2002AB7D061007FA"
 			rewards: [{
@@ -1147,8 +1222,8 @@
 				item: { count: 1, id: "forbidden_arcanus:artisan_relic" }
 				type: "item"
 			}]
-			x: 16.900000000000002d
-			y: -3.9000000000000004d
+			x: 17.0d
+			y: -5.4d
 		}
 		{
 			dependencies: [
@@ -1375,22 +1450,55 @@
 				id: "14E43D7B404B8AD4"
 				type: "dimension"
 			}]
-			x: 17.5d
-			y: -5.5d
+			x: 17.599999999999998d
+			y: -7.0d
 		}
 		{
+			dependencies: ["092BB595F75D5536"]
+			hide_dependent_lines: true
 			icon: {
-				id: "occultism:ritual_dummy/custom_ritual_summon"
+				id: "forbidden_arcanus:deepslate_arcane_crystal_ore"
 			}
-			id: "4C93FCBAB7F3C00D"
-			size: 1.5d
-			tasks: [{
-				id: "63D5DE02A5E407A1"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(occultism:miners)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+			id: "173095F549E2D035"
+			rewards: [{
+				count: 6
+				id: "3B7F9BC32A3C650A"
+				item: {
+					count: 1
+					id: "forbidden_arcanus:arcane_crystal"
+				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: -0.75d
+			shape: "square"
+			tasks: [{
+				id: "5597CD5C3524D906"
+				item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["692183ACBB2AABF7"]
+			id: "5C1272F7C1D1A098"
+			rewards: [{
+				count: 10
+				id: "0FA71D8367CA48FC"
+				item: {
+					count: 1
+					id: "forbidden_arcanus:mundabitur_dust"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "3E7A8A19643CD36C"
+				item: { count: 1, id: "forbidden_arcanus:crimson_stone" }
+				type: "item"
+			}]
+			x: 15.600000000000001d
+			y: -6.500000000000001d
 		}
 	]
 }

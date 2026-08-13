@@ -17,7 +17,6 @@
 		""
 		"Furthermore, keeping this ring equipped tunes your arcane focus to systematically reduce the total energy cost required to execute any custom spell from your book."
 	]
-	quest.0A1ABE9CF7740AAA.title: ""
 	quest.0D330FAD6C993DBC.quest_desc: [
 		"This volume serves as the direct second-tier advancement for your magical armament."
 		""
@@ -278,7 +277,6 @@
 		""
 		"If you find yourself running out of fuel too quickly on the trail, swap over to the &6Amulet of Mana Regen&r to make your energy recharge much faster."
 	]
-	quest.6A1C0B17B22CE50F.title: ""
 	quest.6B511C8B572E8940.quest_desc: [
 		"A specialized status bar rests permanently at the bottom left of your screen, representing your active mana pool."
 		""
@@ -297,7 +295,6 @@
 		""
 		"Just make sure the jar stays on your active hotbar, or it won't work at all!"
 	]
-	quest.6DAA82B5F94AF9F8.title: ""
 	quest.6E0E13806F388D7E.quest_desc: [
 		"Welcome to &aArs Nouveau&f!"
 		""
