@@ -1,0 +1,44 @@
+{
+	id: "45E5DFB80FA259A8"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{
+			count: 15
+			id: "7D58D31D3AA3151B"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+		}
+		{
+			count: 4
+			id: "1D0F7E1797F4E6D6"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{ id: "6D7DA2792D744E94", item: { count: 1, id: "ars_nouveau:greater_experience_gem" } }
+		{ id: "2D43965BFA307418", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 2
+			id: "3CFBE207A7DC0821"
+			item: {
+				count: 1
+				id: "minecraft:phantom_membrane"
+			}
+		}
+		{ id: "354FF09F3FEAA37A", item: { count: 1, id: "minecraft:nautilus_shell" } }
+		{ id: "27AB530D5612B1C2", item: { count: 1, id: "minecraft:heart_of_the_sea" } }
+		{
+			count: 5
+			id: "1649961FE0A49C35"
+			item: {
+				count: 1
+				id: "minecraft:echo_shard"
+			}
+		}
+		{ id: "1AF3A61EAC22D065", item: { count: 1, id: "pipez:advanced_upgrade" } }
+	]
+}

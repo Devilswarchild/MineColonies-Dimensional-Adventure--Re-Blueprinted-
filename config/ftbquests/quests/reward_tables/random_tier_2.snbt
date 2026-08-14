@@ -1,0 +1,106 @@
+{
+	id: "7A3E0F5EB3354A41"
+	loot_size: 5
+	order_index: 4
+	rewards: [
+		{
+			id: "217C528CFF41076F"
+			item: {
+				count: 1
+				id: "ars_nouveau:greater_experience_gem"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "5731E0807BFCF2EA"
+			item: {
+				count: 1
+				id: "minecraft:heart_of_the_sea"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "3D8F9B4A9B933EBD"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 45.0f
+		}
+		{
+			id: "7F2EF7B29597BC69"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+			weight: 20.0f
+		}
+		{
+			id: "7EEBF43595792486"
+			item: {
+				count: 1
+				id: "minecraft:phantom_membrane"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "585C4A1221F3E1E7"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 3
+			id: "1E021DE615C26E92"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 5
+			id: "2F315D6BA6C97AE4"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "4D507B332A096F38"
+			item: {
+				count: 1
+				id: "minecraft:turtle_scute"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "2EBB3BAA581F1A64"
+			item: {
+				count: 1
+				id: "twilightforest:hollow_oak_sapling"
+			}
+			weight: 19.0f
+		}
+		{
+			id: "4FCA63DDD786635D"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "65C4C8F9493FD95D"
+			item: {
+				count: 1
+				id: "ars_nouveau:amethyst_golem_charm"
+			}
+			weight: 5.0f
+		}
+		{ id: "5D6445C6E20E3423", item: { count: 1, id: "pipez:advanced_upgrade" } }
+	]
+}

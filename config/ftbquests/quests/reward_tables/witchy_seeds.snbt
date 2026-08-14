@@ -1,0 +1,19 @@
+{
+	id: "026C888DFC933DA4"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 3
+			id: "78552906BBACBCB4"
+			item: {
+				count: 1
+				id: "hexerei:sage_seed"
+			}
+		}
+		{ id: "07C68C3D46D91206", item: { count: 1, id: "hexerei:belladonna_flowers" } }
+		{ id: "7E6A5AC4E8A4B2CF", item: { count: 1, id: "hexerei:yellow_dock_bush" } }
+		{ id: "0E20BE6B66C7FE01", item: { count: 1, id: "hexerei:mugwort_bush" } }
+		{ id: "1DF40B880F214948", item: { count: 1, id: "hexerei:mandrake_flowers" } }
+	]
+}

@@ -510,17 +510,14 @@
 				count: 2
 				id: "08975132914D0D9B"
 				item: {
-					components: {
-						"ftbquests:missing_item": "modern_industrialization:plutonium_dust"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "oritech:plutonium_dust"
 				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "6CBC44DF8F1CD43F"
-				item: { components: { "ftbquests:missing_item": "modern_industrialization:plutonium_dust" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "oritech:plutonium_dust" }
 				type: "item"
 			}]
 			x: -5.5d

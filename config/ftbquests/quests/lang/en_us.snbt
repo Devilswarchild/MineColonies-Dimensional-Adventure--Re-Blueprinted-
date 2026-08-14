@@ -10,6 +10,7 @@
 	chapter.13B172FA69904D9F.title: "Deeper and Darker"
 	chapter.149D2C983550FDEE.title: "Ars Nouveau"
 	chapter.15AAF17B6665223D.title: "Refined Storage"
+	chapter.16A6E852FCFF0916.title: "Hexerei"
 	chapter.1AF0719459F5D7A4.title: "Hostile Neural Networks"
 	chapter.1B77050413CE8ABC.title: "Enchanting Realms"
 	chapter.1C88686C9C5005E8.title: "Lithereal"
@@ -106,6 +107,17 @@
 		""
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_tank.png width:100 height:100 align:center}"
 	]
+	quest.02CA3D4397E8BA25.quest_desc: [
+		"You can attach a &bSatchel&r to your &bBroom&r both as a cute decoration, and as a way to store items on the go!"
+		""
+		"There are three Satchel items: &bSmall Satchel&r, &bMedium&r, and &bLarge&r. Only one can be equipped at any given time."
+		""
+		"The Medium Satchel requires a Small Satchel in order to craft. The Large requires one Small and one Medium, and combines them together on your Broom."
+		""
+		"Crouch and right-click your Broom to access its &aaccessories and inventory&r."
+	]
+	quest.02CA3D4397E8BA25.quest_subtitle: "Portable storage"
+	quest.02CA3D4397E8BA25.title: "Obtain a Small Satchel"
 	quest.02F2DF9D9DA7833A.quest_desc: [
 		"To extract captive &9Corrupt Souls&r, an artisan must first delve into the arts of weapon &5Enchanting&r."
 		""
@@ -164,6 +176,7 @@
 	quest.03C78165C5CBD9E1.title: "&a16k Storage Part"
 	quest.0423D99FBFB5CB32.quest_subtitle: "Best Tool for Acquiring Sacrifical Meat!"
 	quest.0423D99FBFB5CB32.title: "Tools of the Trade: Butcher's Knife"
+	quest.04331D16FB50EEE3.quest_desc: ["&bMugwort&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
 	quest.0450060852F290CA.quest_desc: [
 		"The &9Deeplands&r is a dark dimension that looks very similar to the Overworld's &3Deep Dark&r biome."
 		""
@@ -174,6 +187,8 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/dnd_land.png width:200 height:100 align:center}"
 	]
 	quest.0450060852F290CA.title: "&9Deeplands"
+	quest.047370ADE354D8DB.quest_desc: ["You'll need an &bAltar&r to place your &bBook of Shadows&r on. In order to craft this magical pedestal, you'll need to find a &bMahogany Tree&r, located in &aJungle&r Biomes."]
+	quest.047370ADE354D8DB.quest_subtitle: "A focal point for magic"
 	quest.04D9F6587EF8D9B7.quest_desc: [
 		"Crafting a &9Potion Jar&r is the perfect way to declutter your packs, letting you store up to 100 potions inside a single block."
 		""
@@ -231,6 +246,20 @@
 	]
 	quest.05369F8F4DF5A5BA.quest_subtitle: "Maximizing the full operational potential of your established occult network."
 	quest.05369F8F4DF5A5BA.title: "Absolute Mastery: The Path Forward"
+	quest.056F7888052BBEF2.quest_desc: ["The &bEnhanced Broom Brush&r has increased durability. Don't forget to hang it out to dry once you've crafted it!"]
+	quest.056F7888052BBEF2.quest_subtitle: "Fancy enhancery"
+	quest.056F7888052BBEF2.title: "Obtain an Enhanced Broom Brush"
+	quest.05772A2D60C9FF3D.quest_desc: [
+		"The &bHerb Jar&r can be crafted by smelting 8 &bSand&r in your &bMixing Cauldron&r. Each Herb Jar can carry &aonly one type&r of Herb, but can &acontain up to 1024&r of that herb!"
+		""
+		"The Herb Jar label will &areflect what is stored inside of it&r, and can be named using an &bAnvil&r. When broken, the Herb Jar retains its inventory."
+		""
+		"&6Left click an &bHerb Jar to withdraw&r 1 item. &6Crouch and left click&r to remove a stack."
+		""
+		"&eFamiliar Crows&r will &agather and deposit harvested herbs&r if the button inside the jar (&6crouch right click&r to access) is pressed."
+	]
+	quest.05772A2D60C9FF3D.quest_subtitle: "Totally herbaceous, dude"
+	quest.05772A2D60C9FF3D.title: "Obtain an Herb Jar"
 	quest.05839D9537FA2FDD.quest_desc: [
 		"Step 4: Tavern"
 		""
@@ -280,6 +309,13 @@
 		""
 		"Furthermore, an armor smith can rub this wax directly onto their heavy boots to expand their personal gravitational pull, dragging loose treasures on the ground much closer to their personal inventory."
 	]
+	quest.082D264993F18EDB.quest_desc: [
+		"In order to locate much of the content of this mod, one must first locate a &aSwamp&r or &aJungle&r biome. These can be found either with the &bNature's Compass&r, or the &bDowsing Rod&r."
+		""
+		"The &bDowsing rod&r's leaves will &achange colors when it points towards&r one of the aforementioned biomes. If one crafts it into the &bNature's Compass&r, you can &asearch the surrounding area&r for any biome."
+	]
+	quest.082D264993F18EDB.quest_subtitle: "A magical compass to lead the way"
+	quest.082D264993F18EDB.title: "Craft a Dowsing Rod"
 	quest.08457BEED799E600.quest_desc: ["These new &7Carts&r are mostly for laying down &6Tracks&r.\\n\\nThe &7Track Layer&r places down &6Tracks&r while the &7Track Remover&r removes &6Tracks&r.\\n\\nThe &7Track Relayer&r replaces the &6Tracks&r with different ones and the &7Track UnderCutter&r replaces the blocks beneath the &6Tracks&r."]
 	quest.0850F88E2205623F.quest_desc: [
 		"&3Sculk Tendrils&r look and act just like the &bTwisting Vines&r you find in the Nether, except they are completely covered in sculk."
@@ -425,6 +461,14 @@
 	quest.0B718FC37699B822.title: "&aEcho Trees"
 	quest.0B9CBAC5D036021A.quest_subtitle: "Discover a new way of dealing ranged damage"
 	quest.0BC2506F05B65F3C.quest_desc: ["Find a Quest Grove and give every colour of wool to the ram."]
+	quest.0BD409AFD13534B3.quest_desc: [
+		"One of the most important tools in a witch's bag is their &bBook of Shadows&r, in which they record their knowledge and experience as they follow their path."
+		""
+		"This one is helpfully &apre-filled with lots of information&r about the magic in the world around you, although it's not a complete guide to everything."
+		""
+		"In order to read your &bBook of Shadows&r, you must first place it on an &bAltar&r."
+	]
+	quest.0BD409AFD13534B3.quest_subtitle: "A witch's best friend"
 	quest.0BF40B5B6ED8203F.quest_subtitle: "Craft yourself a new start with skyroot"
 	quest.0BF40B5B6ED8203F.title: "New Wood!"
 	quest.0C98503A2F20484D.quest_desc: [
@@ -436,6 +480,15 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_frostytrees.png width:200 height:100 align:center}"
 	]
 	quest.0C98503A2F20484D.title: "Frosty Smogstem Forest"
+	quest.0CE78F66E92FB026.quest_desc: [
+		"The &bDipper&r is used for making candles. It can be placed above a &bMixing Cauldron&b filled with &bTallow&r (rendered Animal Fat) and hung with String in order to &6create Candles&r."
+		""
+		"Unlike basic Candles, these can be placed together with Candles of different colors, and may be lit separately!"
+		""
+		"&bTallow&r is created in the Mixing Cauldron with &bAnimal Fat and Honeycombs&r."
+	]
+	quest.0CE78F66E92FB026.quest_subtitle: "Is a \"big dipper\" joke too obvious?"
+	quest.0CE78F66E92FB026.title: "Obtain a Dipper"
 	quest.0D15A75331737FBB.quest_desc: [
 		"Constructing the final geometric perimeter for &9Uphyxes' Inverted Tower&r grants your facility access to the pinnacle tier of &6Infusion Rituals&r. While this highly advanced configuration operates with highly specialized parameters and features a narrow catalog of recipes, its activation is strictly mandatory to unlock late-game logistical progression."
 		""
@@ -452,6 +505,7 @@
 	]
 	quest.0D56A15EC335C11A.quest_subtitle: "This ice has fused with stone itself, creating a new type of block with some unique uses"
 	quest.0D56A15EC335C11A.title: "Compressed Ice"
+	quest.0D8DA3376EF50A60.quest_desc: ["Equip your &eCrow&r with this &bAnkh&r to protect it from danger. It will grant it &aRegen&r while it's playing dead, and &aacts as a &bTotem of Undying&r in case the &eCrow&r dies."]
 	quest.0D91A6B36BD2F526.quest_desc: [
 		"When wielding the formidable &7Cloggrum Battleaxe&r, a warrior commands an offensive weight only slightly inferior to the legendary density of diamond weaponry. "
 		""
@@ -533,6 +587,7 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_guardian.png width:100 height:200 align:center}"
 	]
 	quest.1054168AFD8520D4.title: "&aForgotten Guardian&r"
+	quest.10936C04ABFAA5B1.quest_desc: ["&bYellow Dock&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
 	quest.10B6FDA1362E3C52.quest_desc: [
 		"This advanced tool serves as the ultimate functional upgrade to the Rainbow Chalk, engineered specifically for facility designers who prefer a pristine, unified laboratory environment over rapid, flashing color loops."
 		""
@@ -616,6 +671,12 @@
 	]
 	quest.12A43F82FC67A289.quest_subtitle: "Section XV: Mass Data Drive Configurations"
 	quest.12A43F82FC67A289.title: "Memory Bay: Digital Storage Array's"
+	quest.12BD390D5D9BA40F.quest_desc: ["Adding mushrooms to your hat is a glorious aesthetic choice, although it doesn't offer any tangible benefits."]
+	quest.12BD390D5D9BA40F.quest_subtitle: "The best upgrade, honestly"
+	quest.12BD390D5D9BA40F.title: "Cover your Hat in Mushrooms"
+	quest.12C571F5FBC6B57C.quest_desc: ["Normally, when you enter water while flying, your Broom will dismount you. However, by adding this tip to the end, you can remain in the water without getting thrown off, for a limited time."]
+	quest.12C571F5FBC6B57C.quest_subtitle: "You too can be a sea witch"
+	quest.12C571F5FBC6B57C.title: "Obtain Broom Waterproof Tip"
 	quest.12E5DD67806388F3.quest_subtitle: "Combine with Glowstone for the ultimate builder experience"
 	quest.12E5DD67806388F3.title: "Glorious Brick"
 	quest.130577AD1A1A8222.quest_desc: [
@@ -638,6 +699,12 @@
 	quest.13B338F377951032.title: "&bSonorous Staff"
 	quest.13B658487B62A140.quest_subtitle: "Home to the Sun Spirit"
 	quest.13B658487B62A140.title: "Find The Golden Island"
+	quest.13B72F5C0CF9E9FB.quest_desc: [
+		"Blood Sigils are used to collect blood for rituals. They are crafted with &bRedstone&r and &bPolished Blackstone&r."
+		"Once you have crafted the Sigil, place it in the bottom of your &bMixing Cauldron&r (by &aright-clicking and placing it in the left slot of the crafting interface&r)."
+		"Once it is installed, make sure there is no liquid in your Cauldron, and then &ajump inside of it&r. Blood must be taken from a willing participant, and that means you! Jump 3 times to obtain enough Blood for 1 Bottle. Then, right click the Cauldron with a &bGlass Bottle&r to collect it."
+	]
+	quest.13B72F5C0CF9E9FB.title: "Obtain a Blood Sigil"
 	quest.141681FE9E524FB0.quest_desc: [
 		"The skeletal sentinels known as &7Forgottens&r endure as the tireless warriors bound eternally to the crumbling halls of the Catacomb Structure. "
 		""
@@ -719,6 +786,20 @@
 	quest.161865F4B886E5B7.quest_desc: ["Not everything here seems friendly to strangers, angry clouds, poison spewing plants and chickens combined with a mysterious darkness give off the feeling of a hostile paradise, maybe we aren't as welcome here as we initially thought?"]
 	quest.161865F4B886E5B7.quest_subtitle: "Every poison has its antidote"
 	quest.161865F4B886E5B7.title: "Perfect Paradise?"
+	quest.1698226644682207.quest_desc: [
+		"There are three types of &bBrooms&r, &aWillow&r, &aWitch Hazel&r, and &aMahogany&r. The Witch Hazel and Willow brooms are affordable to make, but slower to control and flammable. The Mahogany broom is faster and fire resistant- a worthy upgrade!"
+		""
+		"You can &6crouch and right click&r your &bBroom&r in order to access its customization options, as well as switch it from &aFloat Mode&r to &aRest Mode&r, which determines what the Broom will do when you dismount."
+		""
+		"You will also need a &bBroom Whistle&r."
+		""
+		"Lost your broom? No worries! Just &6right click&r with your &bBroom Whistle&r to call it to you!"
+		"First, you'll need to &6place the &bWhistle&6 and &bBroom&r in a crafting grid&r to bind them. You can &aunbind&r them by &6putting the &bWhistle&r in alone."
+		""
+		"Be aware that this &dworks best when your broom is in sight&r. It will try to fly to you, but it's just a broom so it's &anot very smart&r and often gets stuck on things."
+	]
+	quest.1698226644682207.quest_subtitle: "Any kind works!"
+	quest.1698226644682207.title: "Make A Broom and Whistle"
 	quest.1698565EBB68DC85.quest_desc: [
 		"The &6Wye Track&r is the second track made by using a Spike Maul. "
 		""
@@ -860,6 +941,9 @@
 	]
 	quest.18A2FBE2D4133FA2.quest_subtitle: "Really Fancy Tables"
 	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
+	quest.18FD7541912B5772.quest_desc: ["Create some &bMixed Seeds&r in order to tame &eWild Crows&r. Once you tame a Crow Familiar, they will help you with tasks around your hut!"]
+	quest.18FD7541912B5772.quest_subtitle: "Squawk goals"
+	quest.18FD7541912B5772.title: "Mix some Seeds in your Mortar"
 	quest.19047AF0EDED198B.quest_desc: [
 		"No ritual matrix is complete without a proper &cSacrifice&r to appease the entities waiting on the other side."
 		""
@@ -882,6 +966,8 @@
 	quest.196003E1486ABB31.title: "&9Warden Upgrade Template"
 	quest.19689F3D7477D89D.quest_desc: ["Found in Pillager Outposts,"]
 	quest.19689F3D7477D89D.quest_subtitle: "Found in Pillager Outpost chests"
+	quest.196ECF57CAC465DF.quest_desc: ["Hidden away in &cSwamps&r is the &cDark Coven&r, a city of &eWitches&r who are up to no good. If you are &6wearing their robes&r, they will ignore you. But anyone not perceived to be one of them is considered an enemy."]
+	quest.196ECF57CAC465DF.title: "Discover the Dark Coven"
 	quest.1984ECEC68F48221.quest_desc: [
 		"While transmuting resources via &dSpiritfire&r is highly efficient, you can also deploy specialized &9Divination Rods&r to survey and extract raw, hidden deposits directly from the environment."
 		""
@@ -1133,6 +1219,9 @@
 		""
 		"The &cGated Kit&r just deploys a Fence Gate connected with the &6track&r."
 	]
+	quest.24C19E2033095FFA.quest_desc: ["The &bMortar and Pestle&r is a tool for grinding herbs. For right now, its primary use is to create a &bSeed Mixture&r to befriend &aCrows&r. A worthy use!"]
+	quest.24C19E2033095FFA.quest_subtitle: "Pester a mortal"
+	quest.24C19E2033095FFA.title: "Obtain a Pestle and Mortar"
 	quest.24D38DA8E86DD897.quest_desc: [
 		"The absolute lowest tier of the spreading corruption, this miserable creature crawls as the smallest and most fragile vector among the &cRot Mobs&r. "
 		""
@@ -1162,6 +1251,7 @@
 	quest.253657BE5D9D9162.quest_subtitle: "Section VI: Legacy Storage Amalgamation"
 	quest.253657BE5D9D9162.title: "Buffer Interface: Data Integration Matrices"
 	quest.2559201BCF5D497C.quest_subtitle: "Makes various Overworld Materials"
+	quest.257F1DCDEC619664.quest_desc: ["The &bReplacer Satchel&r is incredibly useful, as it will &areplace broken &bBroom Brushes&r with ones in its inventory, beginning with the &6top left&r."]
 	quest.25D4406CB86C8CBB.quest_desc: [
 		"Now that we are collecting some &9waste&r from our reactor, part of the progression requires you to \"Fluidize\" some of the ingots you get. "
 		""
@@ -1249,6 +1339,17 @@
 		""
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_electric_rail.png width:150 height:100 align:center}"
 	]
+	quest.2AABE6469023F950.quest_desc: [
+		"Burning Sage is an ancient and well-documented method of purifying an area of negative or wayward energy. In this world, this &aprevents hostile mobs from spawning in a rather large radius around the bundle&r."
+		""
+		"To burn a &bSage Bundle&r, first hang it on a &bDrying Rack&r until the moisture is gone and the leaves are dessicated. Then, place the Bundle on the &bSage Burning Plate&r and light it with a &bFlint and Steel&r."
+		""
+		"The Bundle can be &aextinguished&r (&6 shift right click with empty hand&r) during the daytime and it will &aretain its durability&r in order to be used again the next night."
+		""
+		"A side note: Sage burning is a multicultural practice which is not to be confused with Smudging. Smudging is a closed practice, sacred to First Nations people, and should probably not be attempted in Minecraft."
+	]
+	quest.2AABE6469023F950.quest_subtitle: "A sage choice"
+	quest.2AABE6469023F950.title: "Obtain a Sage Bundle"
 	quest.2AB0FA084739827A.quest_desc: [
 		"To actually use a &9Tunnel Bore&r you'll need a &9Tunnel Bore Head&r."
 		""
@@ -1293,6 +1394,14 @@
 	quest.2B27E4E04A628C60.quest_subtitle: "Section VII: Network Throughput Optimization"
 	quest.2B27E4E04A628C60.title: "Efficiency Integration: &eKinetic Acceleration Modules"
 	quest.2C5A7E4CD8B57E08.quest_desc: ["The Grongle Trees endure as the towering, monolithic pillars of the Gronglegrowth biomes, their massive trunks defying the limits of the sky. \\n\\nThey are ancient titans born of a wild, primordial soil—and it is high within their tangled branches that the elusive &eGronglets&r make their home, hidden far above the forest floor."]
+	quest.2C760E07C84C91F2.quest_desc: [
+		"Crows love music! If you ever lose track of them, you can instantly summon them using the &bCrow Flute&r. You'll need &bMahogany Wood&r and some &bDye&r in order to craft."
+		""
+		"&6Right click while holding the Flute&r to play a tune to call your &eFamiliars&r."
+		""
+		"If you &6crouch and right click a Crow with the Flute&r, you can Select it with the &aSelect&r button. Then, you can select &aPerch&r, and &6crouch and right click a block/inventory item with the Flute&r in order to tell your Crow to perch there. Crows will bring items back to their perch when told to &aGather&r."
+	]
+	quest.2C760E07C84C91F2.quest_subtitle: "Utterly Charming"
 	quest.2C8A8B315B4EC99B.quest_desc: [
 		"A worm farm is a block you can craft to obtain worms that can be used as bait for fishing."
 		""
@@ -1369,6 +1478,27 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_smog.png width:100 height:100 align:center}"
 	]
 	quest.2E596B5A4EA2ABF4.title: "&3S'Mog&r"
+	quest.2E5DB4D84367E11B.quest_desc: [
+		"The &bCoffer&r is a storage box which functions similarly to a &bShulker Box&r, as it &aretains its inventory&r once broken. It also &adisplays its contents&r when the player draws near, making it both useful and decorative!"
+		"The Coffer can be both dyed and renamed."
+	]
+	quest.2E5DB4D84367E11B.quest_subtitle: "Much better than a coffin"
+	quest.2E5DB4D84367E11B.title: "Obtain a Coffer"
+	quest.2EF910B028DA06B7.quest_desc: ["You can breed two tamed &eCrows&r by gifting one of them a shiny &bGolden Nugget&r. It will then bring it to its potential mate, and the two will pair up!"]
+	quest.2EF910B028DA06B7.quest_subtitle: "Oooh, shiny!"
+	quest.2EF910B028DA06B7.title: "Breeding Crows"
+	quest.2F933DC876021A85.quest_desc: [
+		"Once you meet your first &eCrow&r, you're ready to tame. Bring lots of &bSeed Mixture&r because they can be hard to win over!"
+		""
+		"Once you have tamed the Crow Familiar, you can &6crouch and right click it&r to &aaccess its menu&r."
+		"If you &6right click without crouching&r, you will &achange its mode&r to Sit, Follow, and more. You can do that in the menu, as well. By default, it will Follow and sit on your shoulder, unless you crouch."
+		""
+		"&aCrows can be equipped with hats and weapons&r via the menu. It can wear most helmets and wield most melee weapons. Unfortunately, &dthey cannot wear hats from the &lSimple Hats&r&d mod&r. :("
+		"{image:hexerei:textures/book/pictures/crow_gui.png width:100 height:150 align:1}"
+		"Through the menu, you can instruct your &eFamiliar&r to help you farm your crops, or to follow you in combat, or even to &apickpocket villagers&r."
+	]
+	quest.2F933DC876021A85.quest_subtitle: "You look oddly Familiar"
+	quest.2F933DC876021A85.title: "Meet a Crow"
 	quest.2FE6737D0DF28142.quest_desc: [
 		"If you prefer to delay the dangerous construction parameters required to bind a high-tier &9Marid Crusher&r for your &bLight Blue Chalk&r components, you can deploy an intermediate &aDjinni Crusher&r as an efficient stopgap."
 		""
@@ -1409,6 +1539,8 @@
 	quest.30700E99091B712A.title: "Logical Logistics: Complementary Network Feedback Loops"
 	quest.30869148EDA52DBB.quest_desc: ["The leaves turn orange in the centre."]
 	quest.30869148EDA52DBB.title: "Find the Dark Forest Centre"
+	quest.30CF344B2B4C22E8.quest_desc: ["Every witch needs a good &bhat&r. You can craft yours out of &bInfused Fabric&r, or find it in a &dWitch Coven&r in a Swamp biome."]
+	quest.30CF344B2B4C22E8.quest_subtitle: "The icon, the myth, the legend"
 	quest.31094CC16E710040.quest_desc: [
 		"The &4Crowbar&r is the main tool of RailCraft. "
 		""
@@ -1442,6 +1574,12 @@
 	]
 	quest.31AD9826FB036C98.quest_subtitle: "These used to &5Purple&r!"
 	quest.31AD9826FB036C98.title: "Runes"
+	quest.327D93798A7BE211.quest_desc: [
+		"A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular &bCauldron&r with &biron&r and &btorches&r in order to create this advanced crafting tool."
+		"&dBeware! Do not use your Infinity water bucket with this cauldron!&r. It will consume the water and the enchantment."
+	]
+	quest.327D93798A7BE211.quest_subtitle: "A Cauldron that's just cauld-right!"
+	quest.327D93798A7BE211.title: "Make a Mixing Cauldron"
 	quest.32BF2E4192A2652C.quest_desc: ["Even the ground has changed, it seems those changes go beyond just the surface."]
 	quest.32BF2E4192A2652C.quest_subtitle: "Be careful while harvesting!"
 	quest.32BF2E4192A2652C.title: "Faster Sand"
@@ -1458,6 +1596,8 @@
 		"Keep an eye out for their bright, glowing canopies, and make sure to chop down plenty of logs to bring back to your crafting table!"
 	]
 	quest.33682F4B44950123.title: "Archwood Logs"
+	quest.34670D78DC22EC27.quest_desc: ["The &bSage Burning Plate&r will allow you to burn &bSage Bundles&r, which &aprevents hostile mobs from spawning&r within a large radius."]
+	quest.34670D78DC22EC27.title: "Obtain a Sage Burning Plate"
 	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
 	quest.34CD54347E9821B5.title: "Leveling Up Data Models"
 	quest.34D15631537C26AE.quest_desc: [
@@ -1844,6 +1984,11 @@
 		"Keep in mind that not all brews are created equal; the amount of energy you get back changes completely depending on which potion you use and how complex its brewing recipe was."
 	]
 	quest.41A0BE357C8A74E1.quest_subtitle: "Potion Power"
+	quest.41B2EB805FCD2C60.quest_desc: [
+		"&bBelladonna&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."
+		""
+		"Beware, though! The &aBerries are poisonous&r."
+	]
 	quest.41B4C7B9D3AE6317.quest_desc: ["Craft it using a witch's pupil"]
 	quest.41EDEF510157A6F8.quest_desc: [
 		"This operation marks the culmination of the Abras sequence. The ceremony is engineered to pull a top-tier, highly volatile &9Marid&r fire spirit across the planar barrier. Even though your geometric foundation now integrates the containment field of Red Chalk, the raw energetic output of this entity still surpasses the grid's suppression limits. Because the matrix cannot fully &9bind&r the entity into immediate submission, you must prepare for a high-intensity combat encounter to terminate it manually."
@@ -1867,7 +2012,11 @@
 		""
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_reinforced4.png width:150 height:100 align:center}"
 	]
+	quest.427FD234857AEBE8.quest_desc: ["&bInfused Fabric&r is the basis for creating your very first set of &bWitch Robes&r. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric."]
+	quest.427FD234857AEBE8.quest_subtitle: "Of course it's black"
+	quest.427FD234857AEBE8.title: "Obtain Infused Fabric"
 	quest.42D2E85CD0BF6D1F.quest_desc: ["Not essential, but very helpful for finding your way around."]
+	quest.434E391D87C3EBD9.quest_desc: ["The &bEnder Satchel&r is a storage upgrade which &agrants easy access to your Ender Chest inventory!&r."]
 	quest.43A1BC20BB054A14.quest_desc: [
 		"\"Deep within the freezing depths of the Ancient and Icy Seas thrives the elusive Glitterkelp. "
 		""
@@ -2360,6 +2509,13 @@
 		""
 		"Well the Coal part isn't the best for the Environment... eh its &2Minecraft&r what do we care!"
 	]
+	quest.512C813AEE3A5BCD.quest_desc: [
+		"The &bCandelabra&r is a decorative block which can be placed above or below blocks in order to light the surrounding area."
+		""
+		"It seamlessly connects to hanging &bChains&r."
+	]
+	quest.512C813AEE3A5BCD.quest_subtitle: "Abracandelabra!"
+	quest.512C813AEE3A5BCD.title: "Obtain a Candelabra"
 	quest.51641B23C6AED9DC.quest_subtitle: "Craft yourself a makeshift parachute out of clouds"
 	quest.51641B23C6AED9DC.title: "Parachutes!"
 	quest.517977BB9C67C6FC.quest_desc: ["Found in Piglin Bastion treasure chests."]
@@ -2528,6 +2684,12 @@
 		"They don't have any major crafting recipes or survival uses, but they make for absolutely beautiful decoration blocks around your base camp."
 	]
 	quest.56D41A4605C42EB5.title: "&6Crystallized Amber"
+	quest.56D87707F4EA479B.quest_desc: [
+		"The &bRobe&r is the second part of the 3-part &bWitch&r set. This set is slightly weaker than &bDiamond&r, but stronger than &bIron&r due to its inherent magically protective properties."
+		"Unfortunately, witches seem not to care for pants - if you want those, you'll have to look elsewhere."
+	]
+	quest.56D87707F4EA479B.quest_subtitle: "Timelessly stylish, and powerful too"
+	quest.56D87707F4EA479B.title: "Witch's Robe"
 	quest.5737623C55009253.quest_desc: [
 		"Synthesized within the maximum-tier field of &9Uphyxes' Inverted Tower&r, the &bIesnium Anvil&r serves as the ultimate pinnacle of equipment maintenance and modification technology. This mechanical powerhouse completely overhauls standard blacksmithing parameters, offering extensive logistical advantages:"
 		""
@@ -2578,6 +2740,7 @@
 		""
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_abandoned.png width:150 height:100 align:center}"
 	]
+	quest.5857E5BBCF888CDE.quest_desc: ["&bMandrake Root&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
 	quest.5866438E5D19AB69.quest_desc: [
 		"Keep your guard up when smashing ancient vases, because aggressive &3Sculk Leeches&r will sometimes burst right out of them."
 		""
@@ -2612,6 +2775,12 @@
 		""
 		"This might seem confusing, but is important for progression. For example, you'll want to convert Magentite into a fluid in the Fluidizer first, then send it to a &aReprocessor&r with Ludicrite to create Ridiculite."
 	]
+	quest.593B80E42F663D6A.quest_desc: [
+		"The &bWitch's set &agrants bonuses&r depending on how many pieces you're wearing (out of 3)."
+		""
+		"Hold shift on any item from this set to view what the bonuses are."
+	]
+	quest.593B80E42F663D6A.quest_subtitle: "These boots were made for witchin'"
 	quest.59AF80E8EE17C769.quest_desc: [
 		"The &5Echoing Forest&r is a simple biome that grows special &5Echoing Trees&r. "
 		""
@@ -2934,6 +3103,7 @@
 		""
 		"{image:ftb_quests:textures/gui/ftb_quests/images/rail_turbine.png width:100 height:100 align:center}"
 	]
+	quest.621ACA8319D6CB93.quest_desc: ["The &bDrying Rack&r allows you to &6hang your herbs to dry&r. It also makes a lovely decoration."]
 	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
 	quest.632BC46928CC9A8C.quest_desc: [
 		"The mystical &9Enchanter's Mirror&r functions as a specialized utility tool that instantly channels a bound Self Spell directly onto the user."
@@ -3573,6 +3743,12 @@
 	]
 	quest.7617737FC179EA1A.title: "&bFroststeel&r Armor"
 	quest.7617AC4CACC5045C.quest_desc: ["Click to be given a link to the Minecolonies wiki page. Quest only works once so save the link if you need it or use google."]
+	quest.766F6DE3017EB431.quest_desc: [
+		"Similar to moon water in real life, you can obtain &bMoon Dust&r by combining &bRedstone&r and &bGlowstone&r &6during a Full Moon&r."
+		""
+		"It's used for some important recipes, such high level &bStorage Glyphs&r, so it's a good idea to have some on hand! You can use a &bMoon Dial&r to tell what moon phase is currently active. You can &6hold it and right click&r to see how many days remain until the full moon."
+	]
+	quest.766F6DE3017EB431.title: "Moon Dust"
 	quest.7671AFAA1EFD287F.quest_desc: [
 		"To establish a slow, permanent automation loop for the &bAureal&r reserves of your forge, you must acquire two dense &bArcane Crystal Blocks&r, a foundation block of &6Arcane Polished Darkstone&r, and a pinch of volatile &cMundabitur Dust&r."
 		""
@@ -3588,6 +3764,9 @@
 		""
 		"The next major thing you need for your colony is food. The fastest way to get food is to build a Fisher’s Hut. You could build a Farmer’s Hut or one of the animal herders, but a Fisher is faster. Building a Restaurant may also be advisable if you don’t want to feed your colonists (or cook their food) by hand."
 	]
+	quest.76A73E61526B9EE1.quest_desc: ["Much like the Waterproof Tip, the &bNetherite Broom Tip&r will prevent players getting dismounted due to lava. It is recommended to use this with a &bMahogany Broom&r, as it is fire resistant."]
+	quest.76A73E61526B9EE1.quest_subtitle: "Resist the fire"
+	quest.76A73E61526B9EE1.title: "Obtain Broom Netherite Tip"
 	quest.76CDC18D7A208512.quest_desc: [
 		"Deep within the shadowed expanse of the &2&lUndergarden&r, the vile creatures known as &cRot Mobs&r carry a insidious blight, capable of infecting travelers with the corruptive essence of &cUtherium&r. "
 		""
@@ -3663,6 +3842,9 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/turbineui.png width:200 height:150 align:center}"
 	]
 	quest.775D176081DD75F5.title: "Turbine Interface"
+	quest.7793743B2F9DE215.quest_desc: ["As you use your Broom, the Brush will eventually lose durability and need replacing. Begin by making the standard &bWet Broom Brush&r, which can be either immediately upgraded to an &bEnhanced Broom Brush&r, or dried out for use on a &bDrying Rack&r."]
+	quest.7793743B2F9DE215.quest_subtitle: "Re-up your flight subscription"
+	quest.7793743B2F9DE215.title: "Obtain a Replacement Broom Brush"
 	quest.785AC64B477BAC33.quest_subtitle: "Makes various Nether Materials"
 	quest.787415570026FFAA.quest_desc: [
 		"To maximize resource yields from raw geologic excavations, an engineer can infuse the mechanical core of a &4Destructor&r with potent arcanum modifiers. "
@@ -3849,6 +4031,15 @@
 		"To clear the memory matrix and unbind the block, simply shift-right-click into the open air while holding the tool."
 	]
 	quest.7FF3EA602FE7A546.title: "&3Sculk Transmitter"
+	reward_table.026C888DFC933DA4.title: "Witchy Seeds"
+	reward_table.0319AB71DBC9C144.title: "Heads"
+	reward_table.080797145F203F85.title: "Hexerei"
+	reward_table.1CB56D532B985F2C.title: "T1 Choice"
+	reward_table.45E5DFB80FA259A8.title: "T2 Choice"
+	reward_table.479FE27747EEEB1F.title: "Random Tier 3"
+	reward_table.4CAFC1E4AA445442.title: "T3 Choice"
+	reward_table.60565C961FA658E1.title: "Random Tier 1"
+	reward_table.7A3E0F5EB3354A41.title: "Random Tier 2"
 	task.025A45B704969EAE.title: "Wye Tracks"
 	task.03AE084C781CBA31.title: "Moving Cart Track Kits"
 	task.06455C9720302986.title: "Golden Bowls"
@@ -3884,6 +4075,7 @@
 	task.44C6E1CBAF1BC2EA.title: "Obtain an Aquaculture fishing rod"
 	task.49D3731749F20427.title: "Eating 115 Everyday, 115 Years"
 	task.4DE08737E4AB6BFF.title: "Wiki link"
+	task.5B525CDD7316B208.title: "Any Broom"
 	task.5C41759A5534BAB0.title: "Find the Fire Swamp"
 	task.653ED58A9B65C796.title: "Crowbars"
 	task.67D6D0EE816F87A6.title: "Slay the Snow Queen"

@@ -1,0 +1,76 @@
+{
+	id: "60565C961FA658E1"
+	loot_size: 10
+	order_index: 3
+	rewards: [
+		{
+			count: 5
+			id: "088F372DA7CB545F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 3
+			id: "1F82CCD2841E12D3"
+			item: {
+				count: 1
+				id: "minecraft:prismarine_shard"
+			}
+			only_one: true
+			weight: 5.0f
+		}
+		{
+			id: "5877954C765B73CA"
+			item: {
+				count: 1
+				id: "ars_nouveau:experience_gem"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "692E934C95458153"
+			item: {
+				count: 1
+				id: "farmersdelight:organic_compost"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "3987C9FD9A7D5C85"
+			item: {
+				count: 1
+				id: "hexerei:dried_sage_bundle"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3EAD7AC9D6A132E1"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "5BC626C43E28AAE4"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "367E46E3A3B90220"
+			item: {
+				count: 1
+				id: "minecraft:nautilus_shell"
+			}
+			weight: 5.0f
+		}
+		{ id: "7F3860F1A4E64A5D", item: { count: 1, id: "pipez:basic_upgrade" } }
+		{ id: "736428DB9C630B7E", item: { count: 1, id: "functionalstorage:copper_upgrade" } }
+	]
+}

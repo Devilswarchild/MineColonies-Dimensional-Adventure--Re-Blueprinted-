@@ -1,0 +1,88 @@
+{
+	id: "1CB56D532B985F2C"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			count: 2
+			id: "2785A9962B46FEE3"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+		}
+		{
+			count: 3
+			id: "2A4AE3440823ADEA"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			count: 3
+			id: "21955189E6785CFF"
+			item: {
+				count: 1
+				id: "minecraft:prismarine_shard"
+			}
+		}
+		{
+			count: 4
+			id: "309AEBF9B6E527C6"
+			item: {
+				count: 1
+				id: "minecraft:raw_iron"
+			}
+		}
+		{
+			count: 4
+			id: "3A7C66311AB12C46"
+			item: {
+				count: 1
+				id: "minecraft:raw_copper"
+			}
+		}
+		{
+			count: 4
+			id: "5024A7E2DDD3C649"
+			item: {
+				count: 1
+				id: "minecraft:raw_gold"
+			}
+		}
+		{
+			count: 5
+			id: "521AAE611FFC2DEC"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			count: 8
+			id: "23BCF1F0DEA92E2A"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 10
+			id: "2AB9F428B230868F"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 2
+			id: "145C49F556D179FD"
+			item: {
+				count: 1
+				id: "functionalstorage:copper_upgrade"
+			}
+		}
+		{ id: "6113B687F890379D", item: { count: 1, id: "pipez:basic_upgrade" } }
+	]
+}

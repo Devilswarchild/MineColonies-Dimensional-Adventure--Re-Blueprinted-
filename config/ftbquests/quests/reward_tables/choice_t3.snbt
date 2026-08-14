@@ -1,0 +1,10 @@
+{
+	id: "4CAFC1E4AA445442"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{ id: "311C8299175F8FF8", item: { count: 1, id: "minecraft:nether_star" } }
+		{ id: "0F2A1A322ABD27D2", item: { count: 1, id: "minecraft:dragon_egg" } }
+		{ id: "592FCC27477A7139", item: { count: 1, id: "minecraft:netherite_block" } }
+	]
+}

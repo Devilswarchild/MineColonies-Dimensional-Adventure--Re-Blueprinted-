@@ -1,0 +1,76 @@
+{
+	id: "479FE27747EEEB1F"
+	loot_size: 3
+	order_index: 8
+	rewards: [
+		{
+			id: "74ED497578BB1E3C"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			only_one: true
+			weight: 5.0f
+		}
+		{
+			count: 5
+			id: "2B3C526697374E0B"
+			item: {
+				count: 1
+				id: "minecraft:dragon_breath"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "3102C3B1BAFFBE09"
+			item: {
+				count: 1
+				id: "minecraft:totem_of_undying"
+			}
+			only_one: true
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "7228C2DF02CA393A"
+			item: {
+				count: 1
+				id: "minecraft:shulker_shell"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 9
+			id: "5ECE86B7908B834A"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+			weight: 40.0f
+		}
+		{
+			id: "2885F9AF7784533E"
+			item: {
+				count: 1
+				id: "minecraft:ghast_tear"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "7193642D5549B7E7"
+			item: {
+				count: 1
+				id: "twilightforest:time_sapling"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "7E9562739DB5852C"
+			item: {
+				count: 1
+				id: "twilightforest:mining_sapling"
+			}
+			weight: 30.0f
+		}
+	]
+}

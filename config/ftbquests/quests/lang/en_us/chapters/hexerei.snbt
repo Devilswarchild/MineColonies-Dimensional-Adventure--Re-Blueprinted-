@@ -1,0 +1,184 @@
+{
+	quest.02CA3D4397E8BA25.quest_desc: [
+		"You can attach a &bSatchel&r to your &bBroom&r both as a cute decoration, and as a way to store items on the go!"
+		""
+		"There are three Satchel items: &bSmall Satchel&r, &bMedium&r, and &bLarge&r. Only one can be equipped at any given time."
+		""
+		"The Medium Satchel requires a Small Satchel in order to craft. The Large requires one Small and one Medium, and combines them together on your Broom."
+		""
+		"Crouch and right-click your Broom to access its &aaccessories and inventory&r."
+	]
+	quest.02CA3D4397E8BA25.quest_subtitle: "Portable storage"
+	quest.02CA3D4397E8BA25.title: "Obtain a Small Satchel"
+	quest.04331D16FB50EEE3.quest_desc: ["&bMugwort&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
+	quest.047370ADE354D8DB.quest_desc: ["You'll need an &bAltar&r to place your &bBook of Shadows&r on. In order to craft this magical pedestal, you'll need to find a &bMahogany Tree&r, located in &aJungle&r Biomes."]
+	quest.047370ADE354D8DB.quest_subtitle: "A focal point for magic"
+	quest.056F7888052BBEF2.quest_desc: ["The &bEnhanced Broom Brush&r has increased durability. Don't forget to hang it out to dry once you've crafted it!"]
+	quest.056F7888052BBEF2.quest_subtitle: "Fancy enhancery"
+	quest.056F7888052BBEF2.title: "Obtain an Enhanced Broom Brush"
+	quest.05772A2D60C9FF3D.quest_desc: [
+		"The &bHerb Jar&r can be crafted by smelting 8 &bSand&r in your &bMixing Cauldron&r. Each Herb Jar can carry &aonly one type&r of Herb, but can &acontain up to 1024&r of that herb!"
+		""
+		"The Herb Jar label will &areflect what is stored inside of it&r, and can be named using an &bAnvil&r. When broken, the Herb Jar retains its inventory."
+		""
+		"&6Left click an &bHerb Jar to withdraw&r 1 item. &6Crouch and left click&r to remove a stack."
+		""
+		"&eFamiliar Crows&r will &agather and deposit harvested herbs&r if the button inside the jar (&6crouch right click&r to access) is pressed."
+	]
+	quest.05772A2D60C9FF3D.quest_subtitle: "Totally herbaceous, dude"
+	quest.05772A2D60C9FF3D.title: "Obtain an Herb Jar"
+	quest.082D264993F18EDB.quest_desc: [
+		"In order to locate much of the content of this mod, one must first locate a &aSwamp&r or &aJungle&r biome. These can be found either with the &bNature's Compass&r, or the &bDowsing Rod&r."
+		""
+		"The &bDowsing rod&r's leaves will &achange colors when it points towards&r one of the aforementioned biomes. If one crafts it into the &bNature's Compass&r, you can &asearch the surrounding area&r for any biome."
+	]
+	quest.082D264993F18EDB.quest_subtitle: "A magical compass to lead the way"
+	quest.082D264993F18EDB.title: "Craft a Dowsing Rod"
+	quest.0BD409AFD13534B3.quest_desc: [
+		"One of the most important tools in a witch's bag is their &bBook of Shadows&r, in which they record their knowledge and experience as they follow their path."
+		""
+		"This one is helpfully &apre-filled with lots of information&r about the magic in the world around you, although it's not a complete guide to everything."
+		""
+		"In order to read your &bBook of Shadows&r, you must first place it on an &bAltar&r."
+	]
+	quest.0BD409AFD13534B3.quest_subtitle: "A witch's best friend"
+	quest.0CE78F66E92FB026.quest_desc: [
+		"The &bDipper&r is used for making candles. It can be placed above a &bMixing Cauldron&b filled with &bTallow&r (rendered Animal Fat) and hung with String in order to &6create Candles&r."
+		""
+		"Unlike basic Candles, these can be placed together with Candles of different colors, and may be lit separately!"
+		""
+		"&bTallow&r is created in the Mixing Cauldron with &bAnimal Fat and Honeycombs&r."
+	]
+	quest.0CE78F66E92FB026.quest_subtitle: "Is a \"big dipper\" joke too obvious?"
+	quest.0CE78F66E92FB026.title: "Obtain a Dipper"
+	quest.0D8DA3376EF50A60.quest_desc: ["Equip your &eCrow&r with this &bAnkh&r to protect it from danger. It will grant it &aRegen&r while it's playing dead, and &aacts as a &bTotem of Undying&r in case the &eCrow&r dies."]
+	quest.10936C04ABFAA5B1.quest_desc: ["&bYellow Dock&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
+	quest.12BD390D5D9BA40F.quest_desc: ["Adding mushrooms to your hat is a glorious aesthetic choice, although it doesn't offer any tangible benefits."]
+	quest.12BD390D5D9BA40F.quest_subtitle: "The best upgrade, honestly"
+	quest.12BD390D5D9BA40F.title: "Cover your Hat in Mushrooms"
+	quest.12C571F5FBC6B57C.quest_desc: ["Normally, when you enter water while flying, your Broom will dismount you. However, by adding this tip to the end, you can remain in the water without getting thrown off, for a limited time."]
+	quest.12C571F5FBC6B57C.quest_subtitle: "You too can be a sea witch"
+	quest.12C571F5FBC6B57C.title: "Obtain Broom Waterproof Tip"
+	quest.13B72F5C0CF9E9FB.quest_desc: [
+		"Blood Sigils are used to collect blood for rituals. They are crafted with &bRedstone&r and &bPolished Blackstone&r."
+		"Once you have crafted the Sigil, place it in the bottom of your &bMixing Cauldron&r (by &aright-clicking and placing it in the left slot of the crafting interface&r)."
+		"Once it is installed, make sure there is no liquid in your Cauldron, and then &ajump inside of it&r. Blood must be taken from a willing participant, and that means you! Jump 3 times to obtain enough Blood for 1 Bottle. Then, right click the Cauldron with a &bGlass Bottle&r to collect it."
+	]
+	quest.13B72F5C0CF9E9FB.title: "Obtain a Blood Sigil"
+	quest.1698226644682207.quest_desc: [
+		"There are three types of &bBrooms&r, &aWillow&r, &aWitch Hazel&r, and &aMahogany&r. The Witch Hazel and Willow brooms are affordable to make, but slower to control and flammable. The Mahogany broom is faster and fire resistant- a worthy upgrade!"
+		""
+		"You can &6crouch and right click&r your &bBroom&r in order to access its customization options, as well as switch it from &aFloat Mode&r to &aRest Mode&r, which determines what the Broom will do when you dismount."
+		""
+		"You will also need a &bBroom Whistle&r."
+		""
+		"Lost your broom? No worries! Just &6right click&r with your &bBroom Whistle&r to call it to you!"
+		"First, you'll need to &6place the &bWhistle&6 and &bBroom&r in a crafting grid&r to bind them. You can &aunbind&r them by &6putting the &bWhistle&r in alone."
+		""
+		"Be aware that this &dworks best when your broom is in sight&r. It will try to fly to you, but it's just a broom so it's &anot very smart&r and often gets stuck on things."
+	]
+	quest.1698226644682207.quest_subtitle: "Any kind works!"
+	quest.1698226644682207.title: "Make A Broom and Whistle"
+	quest.18FD7541912B5772.quest_desc: ["Create some &bMixed Seeds&r in order to tame &eWild Crows&r. Once you tame a Crow Familiar, they will help you with tasks around your hut!"]
+	quest.18FD7541912B5772.quest_subtitle: "Squawk goals"
+	quest.18FD7541912B5772.title: "Mix some Seeds in your Mortar"
+	quest.196ECF57CAC465DF.quest_desc: ["Hidden away in &cSwamps&r is the &cDark Coven&r, a city of &eWitches&r who are up to no good. If you are &6wearing their robes&r, they will ignore you. But anyone not perceived to be one of them is considered an enemy."]
+	quest.196ECF57CAC465DF.title: "Discover the Dark Coven"
+	quest.24C19E2033095FFA.quest_desc: ["The &bMortar and Pestle&r is a tool for grinding herbs. For right now, its primary use is to create a &bSeed Mixture&r to befriend &aCrows&r. A worthy use!"]
+	quest.24C19E2033095FFA.quest_subtitle: "Pester a mortal"
+	quest.24C19E2033095FFA.title: "Obtain a Pestle and Mortar"
+	quest.257F1DCDEC619664.quest_desc: ["The &bReplacer Satchel&r is incredibly useful, as it will &areplace broken &bBroom Brushes&r with ones in its inventory, beginning with the &6top left&r."]
+	quest.2AABE6469023F950.quest_desc: [
+		"Burning Sage is an ancient and well-documented method of purifying an area of negative or wayward energy. In this world, this &aprevents hostile mobs from spawning in a rather large radius around the bundle&r."
+		""
+		"To burn a &bSage Bundle&r, first hang it on a &bDrying Rack&r until the moisture is gone and the leaves are dessicated. Then, place the Bundle on the &bSage Burning Plate&r and light it with a &bFlint and Steel&r."
+		""
+		"The Bundle can be &aextinguished&r (&6 shift right click with empty hand&r) during the daytime and it will &aretain its durability&r in order to be used again the next night."
+		""
+		"A side note: Sage burning is a multicultural practice which is not to be confused with Smudging. Smudging is a closed practice, sacred to First Nations people, and should probably not be attempted in Minecraft."
+	]
+	quest.2AABE6469023F950.quest_subtitle: "A sage choice"
+	quest.2AABE6469023F950.title: "Obtain a Sage Bundle"
+	quest.2C760E07C84C91F2.quest_desc: [
+		"Crows love music! If you ever lose track of them, you can instantly summon them using the &bCrow Flute&r. You'll need &bMahogany Wood&r and some &bDye&r in order to craft."
+		""
+		"&6Right click while holding the Flute&r to play a tune to call your &eFamiliars&r."
+		""
+		"If you &6crouch and right click a Crow with the Flute&r, you can Select it with the &aSelect&r button. Then, you can select &aPerch&r, and &6crouch and right click a block/inventory item with the Flute&r in order to tell your Crow to perch there. Crows will bring items back to their perch when told to &aGather&r."
+	]
+	quest.2C760E07C84C91F2.quest_subtitle: "Utterly Charming"
+	quest.2E5DB4D84367E11B.quest_desc: [
+		"The &bCoffer&r is a storage box which functions similarly to a &bShulker Box&r, as it &aretains its inventory&r once broken. It also &adisplays its contents&r when the player draws near, making it both useful and decorative!"
+		"The Coffer can be both dyed and renamed."
+	]
+	quest.2E5DB4D84367E11B.quest_subtitle: "Much better than a coffin"
+	quest.2E5DB4D84367E11B.title: "Obtain a Coffer"
+	quest.2EF910B028DA06B7.quest_desc: ["You can breed two tamed &eCrows&r by gifting one of them a shiny &bGolden Nugget&r. It will then bring it to its potential mate, and the two will pair up!"]
+	quest.2EF910B028DA06B7.quest_subtitle: "Oooh, shiny!"
+	quest.2EF910B028DA06B7.title: "Breeding Crows"
+	quest.2F933DC876021A85.quest_desc: [
+		"Once you meet your first &eCrow&r, you're ready to tame. Bring lots of &bSeed Mixture&r because they can be hard to win over!"
+		""
+		"Once you have tamed the Crow Familiar, you can &6crouch and right click it&r to &aaccess its menu&r."
+		"If you &6right click without crouching&r, you will &achange its mode&r to Sit, Follow, and more. You can do that in the menu, as well. By default, it will Follow and sit on your shoulder, unless you crouch."
+		""
+		"&aCrows can be equipped with hats and weapons&r via the menu. It can wear most helmets and wield most melee weapons. Unfortunately, &dthey cannot wear hats from the &lSimple Hats&r&d mod&r. :("
+		"{image:hexerei:textures/book/pictures/crow_gui.png width:100 height:150 align:1}"
+		"Through the menu, you can instruct your &eFamiliar&r to help you farm your crops, or to follow you in combat, or even to &apickpocket villagers&r."
+	]
+	quest.2F933DC876021A85.quest_subtitle: "You look oddly Familiar"
+	quest.2F933DC876021A85.title: "Meet a Crow"
+	quest.30CF344B2B4C22E8.quest_desc: ["Every witch needs a good &bhat&r. You can craft yours out of &bInfused Fabric&r, or find it in a &dWitch Coven&r in a Swamp biome."]
+	quest.30CF344B2B4C22E8.quest_subtitle: "The icon, the myth, the legend"
+	quest.327D93798A7BE211.quest_desc: [
+		"A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular &bCauldron&r with &biron&r and &btorches&r in order to create this advanced crafting tool."
+		"&dBeware! Do not use your Infinity water bucket with this cauldron!&r. It will consume the water and the enchantment."
+	]
+	quest.327D93798A7BE211.quest_subtitle: "A Cauldron that's just cauld-right!"
+	quest.327D93798A7BE211.title: "Make a Mixing Cauldron"
+	quest.34670D78DC22EC27.quest_desc: ["The &bSage Burning Plate&r will allow you to burn &bSage Bundles&r, which &aprevents hostile mobs from spawning&r within a large radius."]
+	quest.34670D78DC22EC27.title: "Obtain a Sage Burning Plate"
+	quest.41B2EB805FCD2C60.quest_desc: [
+		"&bBelladonna&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."
+		""
+		"Beware, though! The &aBerries are poisonous&r."
+	]
+	quest.427FD234857AEBE8.quest_desc: ["&bInfused Fabric&r is the basis for creating your very first set of &bWitch Robes&r. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric."]
+	quest.427FD234857AEBE8.quest_subtitle: "Of course it's black"
+	quest.427FD234857AEBE8.title: "Obtain Infused Fabric"
+	quest.434E391D87C3EBD9.quest_desc: ["The &bEnder Satchel&r is a storage upgrade which &agrants easy access to your Ender Chest inventory!&r."]
+	quest.512C813AEE3A5BCD.quest_desc: [
+		"The &bCandelabra&r is a decorative block which can be placed above or below blocks in order to light the surrounding area."
+		""
+		"It seamlessly connects to hanging &bChains&r."
+	]
+	quest.512C813AEE3A5BCD.quest_subtitle: "Abracandelabra!"
+	quest.512C813AEE3A5BCD.title: "Obtain a Candelabra"
+	quest.56D87707F4EA479B.quest_desc: [
+		"The &bRobe&r is the second part of the 3-part &bWitch&r set. This set is slightly weaker than &bDiamond&r, but stronger than &bIron&r due to its inherent magically protective properties."
+		"Unfortunately, witches seem not to care for pants - if you want those, you'll have to look elsewhere."
+	]
+	quest.56D87707F4EA479B.quest_subtitle: "Timelessly stylish, and powerful too"
+	quest.56D87707F4EA479B.title: "Witch's Robe"
+	quest.5857E5BBCF888CDE.quest_desc: ["&bMandrake Root&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r."]
+	quest.593B80E42F663D6A.quest_desc: [
+		"The &bWitch's set &agrants bonuses&r depending on how many pieces you're wearing (out of 3)."
+		""
+		"Hold shift on any item from this set to view what the bonuses are."
+	]
+	quest.593B80E42F663D6A.quest_subtitle: "These boots were made for witchin'"
+	quest.621ACA8319D6CB93.quest_desc: ["The &bDrying Rack&r allows you to &6hang your herbs to dry&r. It also makes a lovely decoration."]
+	quest.766F6DE3017EB431.quest_desc: [
+		"Similar to moon water in real life, you can obtain &bMoon Dust&r by combining &bRedstone&r and &bGlowstone&r &6during a Full Moon&r."
+		""
+		"It's used for some important recipes, such high level &bStorage Glyphs&r, so it's a good idea to have some on hand! You can use a &bMoon Dial&r to tell what moon phase is currently active. You can &6hold it and right click&r to see how many days remain until the full moon."
+	]
+	quest.766F6DE3017EB431.title: "Moon Dust"
+	quest.76A73E61526B9EE1.quest_desc: ["Much like the Waterproof Tip, the &bNetherite Broom Tip&r will prevent players getting dismounted due to lava. It is recommended to use this with a &bMahogany Broom&r, as it is fire resistant."]
+	quest.76A73E61526B9EE1.quest_subtitle: "Resist the fire"
+	quest.76A73E61526B9EE1.title: "Obtain Broom Netherite Tip"
+	quest.7793743B2F9DE215.quest_desc: ["As you use your Broom, the Brush will eventually lose durability and need replacing. Begin by making the standard &bWet Broom Brush&r, which can be either immediately upgraded to an &bEnhanced Broom Brush&r, or dried out for use on a &bDrying Rack&r."]
+	quest.7793743B2F9DE215.quest_subtitle: "Re-up your flight subscription"
+	quest.7793743B2F9DE215.title: "Obtain a Replacement Broom Brush"
+	task.5B525CDD7316B208.title: "Any Broom"
+}
