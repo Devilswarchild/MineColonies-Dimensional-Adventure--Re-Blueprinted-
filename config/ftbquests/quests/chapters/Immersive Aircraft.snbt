@@ -3,7 +3,7 @@
 	default_quest_shape: "diamond"
 	default_quest_size: 2.0d
 	filename: "Immersive Aircraft"
-	group: ""
+	group: "07D900DD93936D75"
 	icon: {
 		id: "immersive_aircraft:biplane"
 	}

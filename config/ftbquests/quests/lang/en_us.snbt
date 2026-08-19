@@ -26,6 +26,7 @@
 	chapter.33DFD5DA9FE961D5.title: "Moving Elevetors"
 	chapter.341B2F08284371E1.title: "Cyberspace"
 	chapter.342CA1CDE7BA8082.title: "Lootr"
+	chapter.347012AF86B901CE.title: "PneumaticCraft: Repressurized"
 	chapter.37B86466045EF639.title: "VerseWorks"
 	chapter.3904E70D0E85DAA7.title: "Deeper and Darker"
 	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
@@ -56,8 +57,10 @@
 	chapter.710A047603113A91.title: "Hexerei"
 	chapter.78145945818D171A.title: "BiblioCraft Legacy"
 	chapter.7B08C3F2DC373C04.title: "Halcyon | Data \\& Essence"
+	chapter.7B3ADCA4950CB4F0.title: "Oritech"
 	chapter.7D3CAD640A795A3B.title: "The Block Box"
 	chapter_group.0739057429E7DE4D.title: "Food"
+	chapter_group.07D900DD93936D75.title: "Vehicles"
 	chapter_group.0A99FA6EC8572C42.title: "Magic"
 	chapter_group.250FD3D3997385F0.title: "Tech and Storage"
 	chapter_group.43E31B445BBEB0CA.title: "Biomes"
@@ -312,6 +315,14 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_icey.png width:200 height:100 align:center}"
 	]
 	quest.073BA8470EA37A00.title: "Icy Sea"
+	quest.07BA6459A842C2ED.quest_desc: [
+		"&6PneumaticCraft&r is all about putting &bPressure&r to good use!"
+		""
+		"To get started in the mod, we'll need to apply a &osmall amount&r of pressure to some Iron Ingots in the world."
+		""
+		"And by \"small amount,\" we mean you need to blow them up with &cTNT&r :)"
+	]
+	quest.07BA6459A842C2ED.title: "Under Pressure"
 	quest.07BEE6FEC14765DC.quest_desc: [
 		"While assembling this utility from raw materials is a straightforward process requiring clay, iron, and sticky slimeballs, attempting to forge it by hand is highly inefficient."
 		""
@@ -473,6 +484,14 @@
 		"Make sure to try crafting some doors and trapdoors with them, as they turn into awesome fixtures with completely unique visual patterns."
 	]
 	quest.0B718FC37699B822.title: "&aEcho Trees"
+	quest.0B9781072E9E935C.quest_desc: [
+		"The &dAssembly Line&r is a multiblock machine that allows you to craft items with precision. All parts of the assembly line must touch and pressure needs to be provided to the &aController&r."
+		""
+		"A &bProgram&r must be inserted into the &aAssembly Controller&r. Most recipes will use the &bLaser Program&r to start with."
+		""
+		"&aAssembly IO Units&r control the input and output of the recipes. They must be able to reach an inventory, such as a chest, and the assembly platform. They can reach anything with a 3x3 area. "
+	]
+	quest.0B9781072E9E935C.title: "Single File Line"
 	quest.0B9CBAC5D036021A.quest_subtitle: "Discover a new way of dealing ranged damage"
 	quest.0BC2506F05B65F3C.quest_desc: ["Find a Quest Grove and give every colour of wool to the ram."]
 	quest.0BD409AFD13534B3.quest_desc: [
@@ -536,6 +555,11 @@
 		"The fragile Spell Parchment serves as a vital blank slate used to permanently inscribe your chosen spells at the Scribe's Table."
 		""
 		"By pressing your spellbook against its surface, you infuse the paper with active arcane code, locking the spell into a portable, single-use scroll for rapid deployment in battle."
+	]
+	quest.0EC122E853F2083C.quest_desc: [
+		"&dAdvanced Pressure Tubes&r can handle up to the danger zone of 20 &bBar&r and 4 times the volume. At 25 &bBar&r they will explode!"
+		""
+		"Before you can connect these to your machines, make sure they can handle the increased volume and pressure, or you can use a &bRegulator&r instead!"
 	]
 	quest.0F00BBDF3618B3BA.quest_desc: [
 		"While a standard viewport allows a logistics officer to survey an outpost's hoard, an efficient garrison demands the immediate synthesis of components without constantly shifting between a ledger and an anvil. "
@@ -797,6 +821,13 @@
 	]
 	quest.15ECBC8E174FA39B.quest_subtitle: "Section XXVII: The Wireless Grid Terminal"
 	quest.15ECBC8E174FA39B.title: "Remote Viewport: Mobile Data Access"
+	quest.15F655AA668D6541.quest_desc: [
+		"Using the &dPressure Chamber&r, we can craft some more advanced components like the &aFluid Mixer&r."
+		""
+		"The &aFluid Mixer&r mixes two fluids into either an item or another fluid. One significant use for this is producing &aBiodiesel&r."
+		""
+		"Since &0Crude Oil&r isn't a renewable resource, making &aBiodiesel&r from plant or vegetable oil is a better way of automating plastic!"
+	]
 	quest.161865F4B886E5B7.quest_desc: ["Not everything here seems friendly to strangers, angry clouds, poison spewing plants and chickens combined with a mysterious darkness give off the feeling of a hostile paradise, maybe we aren't as welcome here as we initially thought?"]
 	quest.161865F4B886E5B7.quest_subtitle: "Every poison has its antidote"
 	quest.161865F4B886E5B7.title: "Perfect Paradise?"
@@ -960,6 +991,26 @@
 	]
 	quest.18A2FBE2D4133FA2.quest_subtitle: "Really Fancy Tables"
 	quest.18A2FBE2D4133FA2.title: "Arcane Pedestals"
+	quest.18C8FF073435FB10.quest_desc: [
+		"By having access to the &dAmadron Tablet&r, you can buy a &aPCB Blueprint&r and make yourself your first &bUV Light Box&r!"
+		""
+		"This is needed to expose &bEmpty PCBs&r to &bUV Light&r, which is an important process for assembling PCBs."
+		""
+		"You can make Empty PCBs in the &dPressure Chamber&r."
+	]
+	quest.18C8FF073435FB10.title: "PCB TIME!"
+	quest.18CD33B0D1C0D3E6.quest_desc: [
+		"The &aCrop Support&r will work to increase the growth speed of any trees or crops that are planted on it."
+		""
+		"These are pretty cheap and require no upkeep to use, making them really useful for farming!"
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/crop_support.png width:200 height:200 align:center}"
+		""
+		""
+		"{image: width:200 height:100 align:center}"
+	]
+	quest.18CD33B0D1C0D3E6.title: "Farming!"
 	quest.18FD7541912B5772.quest_desc: ["Create some &bMixed Seeds&r in order to tame &eWild Crows&r. Once you tame a Crow Familiar, they will help you with tasks around your hut!"]
 	quest.18FD7541912B5772.quest_subtitle: "Squawk goals"
 	quest.18FD7541912B5772.title: "Mix some Seeds in your Mortar"
@@ -1068,6 +1119,12 @@
 	quest.1C232674CD04024D.title: "Welcome to the &2&lUndergarden&r!"
 	quest.1C9032F0B333E605.quest_subtitle: "Gear made out of this gem seems to be on the same level as iron, however they  bear an innate effect of increasing efficiency the closer they are to being broken"
 	quest.1C9032F0B333E605.title: "New Iron?"
+	quest.1CF3364C49D91769.quest_desc: [
+		"Although a bit expensive, this &dSolar Compressor&r may be an interesting &bAir Compressor&r to have attached to your system as it is a passive source of &bAir Pressure&r!"
+		""
+		"At &e350°C&r, you'll get the most efficiency out of this device. If it gets too hot, the machine will shut down!"
+	]
+	quest.1CF3364C49D91769.title: "Solarizing Pressure!"
 	quest.1CF790252F0F1A77.quest_subtitle: "You've obtained temporal control over the aether, congrats!"
 	quest.1CF790252F0F1A77.title: "The Final Block"
 	quest.1D86B2E553503E53.quest_desc: [
@@ -1085,6 +1142,11 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_frosty.png width:200 height:100 align:center}"
 	]
 	quest.1E13D7CE5A9EFF74.title: "Frostfields"
+	quest.1E39AB995B86D47A.quest_desc: [
+		"By applying a &bPolyethylene&r layer to your &aBasic Pressure Tubes&r, you're able to upgrade them to &2Reinforced Pressure Tubes&r, allowing them to handle up to 10 &bBAR&r of pressure!"
+		""
+		"&cMake sure to balance your pressure system accordingly!&r"
+	]
 	quest.1E81B903137BB62A.quest_desc: [
 		"Standard implements of war will rapidly fail when matched against the horrific predators stalking the &2&lUndergarden&r. "
 		""
@@ -1193,6 +1255,8 @@
 		"This volatile essence is highly mobile; you can safely transport it across your facility utilizing standard iron buckets, or relocate entire networks by simply fracturing and picking up full Source Jars into your inventory."
 	]
 	quest.227DBA8836021B0B.quest_subtitle: "Storing Source"
+	quest.228C9567BB43034A.quest_desc: ["The &aPneumatic Dynamo&r converts excess &bAir Pressure into &cFE&r."]
+	quest.228C9567BB43034A.title: "Pressuring Energy!"
 	quest.22F80D267321BFC5.quest_desc: [
 		"As an industrial facility expands, manual tracking of scattered assembly nodes becomes an engineered logistical hazard."
 		""
@@ -1232,6 +1296,16 @@
 	]
 	quest.23F691FC053F2319.quest_subtitle: "Section XVI: Direct Media Inter-Data Transfer"
 	quest.23F691FC053F2319.title: "Netowrk Amalgamation: Intra-Disk Terminal Bridges"
+	quest.2444EAF58C073E51.quest_desc: [
+		"The basic &aAir Compressor&r is one of the first and easiest methods of generating &bPressure&r."
+		""
+		"This device will consume burnable materials like coal or charcoal to generate &bAir Pressure&r for the network. Be careful not to over-pressurize your systems or they will blow up!"
+		""
+		"We've gifted you a &aSafety Tube Module&r to help with your first &bPressure&r system."
+		""
+		"These modules will help vent excess &bPressure&r when connected to your system, but aren't a great solution for the long term!"
+	]
+	quest.2444EAF58C073E51.title: "Generating &bAir Pressure"
 	quest.247AD8A7F03FC0B1.quest_subtitle: "Salvage those magnificent pillars to incorporate them in your next build!"
 	quest.247AD8A7F03FC0B1.title: "Pillars"
 	quest.249E5C6893387E15.quest_desc: [
@@ -1295,6 +1369,13 @@
 	]
 	quest.26ACAAF08905AF85.quest_subtitle: "Extracting localized biological drops for mid-tier chalk modifiers."
 	quest.26ACAAF08905AF85.title: "Alchemical Metamorphosis: &aIhagan's Enthrallment&r"
+	quest.26B6680DCE14A228.quest_desc: [
+		"The &aCharging Station&r allows you to fill items up with &bCompressed Air&r. "
+		""
+		"It will only fill items to have equal &bPressure&r that the &aCharging Station&r itself has."
+		""
+		"If the item has higher pressure than the &aCharging Station&r, it will empty itself back into the network."
+	]
 	quest.26FDEE21CE8BBD6C.quest_desc: [
 		"The denizens of the Otherworld demand a proper atmosphere, and almost every ritual requires the soft glow of candlelight to anchor the entities to our realm.To harvest the raw materials, craft a &aButcher Knife&r and slay livestock—such as pigs, cows, sheep, horses, or wandering trader llamas—to extract their &aTallow&r for candle crafting. "
 		""
@@ -1353,6 +1434,13 @@
 	]
 	quest.29953CDAA8A3B0B6.quest_subtitle: "Sacrificing forged weaponry to ignite a volatile, high-density elemental rift."
 	quest.29953CDAA8A3B0B6.title: "Planar Concussion: The &9Marid&r Breach"
+	quest.299CD86325D3D74B.quest_desc: [
+		"&aHeat Sinks&r can be placed on a block or machine to help dissipate &cHeat&r faster!"
+		""
+		"Their effectiveness can be greatly increased by using an &aAir Grate&r to vent air over the fins. Combining that with the use of &aVortex Tubes&r can effectively handle all of your temperature problems!"
+		""
+		"&eNote&r: Once a &aHeat Sink&r reaches over 60C or under -60C, it will &cdeal damage when touched&r."
+	]
 	quest.2A20000FAEC2E16A.quest_desc: ["To extract power or items from your reactor, or even input fuel, you'll need these &crequired&r blocks.\\n\\nThe &cPower Tap&r provides a way for you to \"tap\" into the power that a &9passive&r reactor makes. You can attach pipes and cables to extract the power from it.\\n\\nThe &aAccess Ports&r are required for every reactor, and allows you to both input fuel from the reactor, or extract waste. It's usually a good idea to have 2 per reactor, one for each job."]
 	quest.2A20000FAEC2E16A.title: "Interacting with the Reactor"
 	quest.2A30595DC6DDBFF7.quest_desc: [
@@ -1511,6 +1599,15 @@
 	quest.2EF910B028DA06B7.quest_desc: ["You can breed two tamed &eCrows&r by gifting one of them a shiny &bGolden Nugget&r. It will then bring it to its potential mate, and the two will pair up!"]
 	quest.2EF910B028DA06B7.quest_subtitle: "Oooh, shiny!"
 	quest.2EF910B028DA06B7.title: "Breeding Crows"
+	quest.2F91C4B265C670BE.quest_desc: [
+		"When pressurized, the &bAerial Interface&r exposes your inventory as if it were in a chest. Any items inserted into the interface enter your inventory instead."
+		""
+		"Your main inventory is accessed from any horizontal side while your armor is the top face. This can be changed in the UI."
+		""
+		"Having this set up also provides water breathing, at an additional &bAir Pressure&r cost. If you provide it with FE, it will also wirelessly charge all your items! A dispenser upgrade will automatically eat for you, as well as allowing you to pipe experience in and out."
+		""
+		"This can be used to keep your chestplate charged, and your chestplate can be upgraded to charge all other PNC armors and items."
+	]
 	quest.2F933DC876021A85.quest_desc: [
 		"Once you meet your first &eCrow&r, you're ready to tame. Bring lots of &bSeed Mixture&r because they can be hard to win over!"
 		""
@@ -1598,6 +1695,12 @@
 	]
 	quest.31AD9826FB036C98.quest_subtitle: "These used to &5Purple&r!"
 	quest.31AD9826FB036C98.title: "Runes"
+	quest.31B06C6ACEF764E0.quest_desc: [
+		"Before we can start crafting advanced technology, we'll need to find some &0Crude Oil&r first."
+		""
+		"Using a &aSeismic Sensor&r can help you locate these &bOil Deposits&r underground."
+	]
+	quest.31B06C6ACEF764E0.title: "Thar be Oil in them hills...."
 	quest.327D93798A7BE211.quest_desc: [
 		"A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular &bCauldron&r with &biron&r and &btorches&r in order to create this advanced crafting tool."
 		"&dBeware! Do not use your Infinity water bucket with this cauldron!&r. It will consume the water and the enchantment."
@@ -1620,6 +1723,11 @@
 		"Keep an eye out for their bright, glowing canopies, and make sure to chop down plenty of logs to bring back to your crafting table!"
 	]
 	quest.33682F4B44950123.title: "Archwood Logs"
+	quest.34169D76520A5D85.quest_desc: [
+		"The &bCharging Module&r can be placed on a pressure tube and it will charge all items in the inventory it's facing."
+		""
+		"It can also discharge them if their &bPressure&r exceeds the Tube's."
+	]
 	quest.34670D78DC22EC27.quest_desc: ["The &bSage Burning Plate&r will allow you to burn &bSage Bundles&r, which &aprevents hostile mobs from spawning&r within a large radius."]
 	quest.34670D78DC22EC27.title: "Obtain a Sage Burning Plate"
 	quest.34CD54347E9821B5.quest_desc: ["Once you make your first Data Model, you'll need to level it up to be useful.\\n\\nData Models start out at the first tier: &7Faulty&r. You'll need to at least level it to &aBasic&r if you'd like to run some simulations on it!\\n\\nOnce placed inside of the Deep Learner, the HUD will tell you how many kills are required to level it up. You can also see this info in the tooltip of the Model itself."]
@@ -1675,6 +1783,20 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/dnd_temple.png width:200 height:100 align:center}"
 	]
 	quest.35629CB10DBDE340.title: "&6Ancient Temples"
+	quest.35FFAC447F36F05C.quest_desc: [
+		"After we've exposed &aEmpty PCBs&r to &bUV Light&r, we can take the next step in the process by making an &2Etching Tank&r."
+		""
+		"Once the machine has some &bEtching Acid&r inside, insert an &aEmpty PCB&r that has been exposed in a &bUV Light Box.&r"
+		""
+		"This process has a chance to &cfail&r if not fully exposed inside the &bUV Light Box&r. This &cfailed PCB&r can be recycled in a blast furnace."
+		""
+		"If you want the tank to work faster, you can heat it above 50°C, but the &2Etching Acid&r will slowly be used up due to the &cHeat&r."
+		""
+		"If the etching was successful, you will get an &dUnassembled PCB&r as a result. If the process fails, you'll get a &cFailed PCB&r instead."
+		""
+		"If you want to automate this, you can extract &dUnassembled PCBs&r from the sides, and &cFailed PCBs&r from the top or bottom."
+	]
+	quest.35FFAC447F36F05C.title: "Etch that PCB!"
 	quest.36149E69A8C264E4.quest_desc: [
 		"You can spot unique &bIce Lilies&r growing on top of the rare &9Water Ponds&r scattered inside the lush &bBlooming Caverns&r."
 		""
@@ -1788,6 +1910,16 @@
 	]
 	quest.39BED5DD9D24F98E.title: "&3Sculk Grime"
 	quest.39C8E1705EF1CD31.title: "&e256B Fluid Storage Part"
+	quest.3A5A665B1F76BE26.quest_desc: [
+		"&6Pneumatic Armor&r can be extensively upgraded at the cost of having a fairly low base defense."
+		""
+		"These upgrades can give it more Armor, Armor Toughness, Speed, Flight, Night vision, and more!"
+		""
+		"The &aChestplate&r can also be upgraded to charge all of your pneumatic devices."
+		""
+		"This armor does not have infinite durability like some other tech armors, but can be upgraded to automatically repair with pressure."
+	]
+	quest.3A5A665B1F76BE26.title: "I am Compression Man!"
 	quest.3AF7446592D19FA6.quest_desc: [
 		"The glistening gemstone classified as &eRegalium&r reigns as the definitive equivalent to surface-world emeralds within the boundaries of the &2&lUndergarden&r. "
 		""
@@ -1828,6 +1960,11 @@
 	]
 	quest.3C4B6468B14C039E.quest_subtitle: "Take a look at those skyroot buckets, they can't hold lava tho!"
 	quest.3C4B6468B14C039E.title: "Buckets made easy"
+	quest.3CAA89E621ED5B6E.quest_desc: [
+		"The &aCamouflage Applicator&r can make camouflageable blocks such as tubes and heat pipes look like other blocks!"
+		""
+		"Sneak + Right-Click the applicator on a block (like grass or diamond) then click on any camouflageable block to set its appearance."
+	]
 	quest.3CF2DFB7F0CE065B.quest_desc: [
 		"The &cOvercast Columns&r is a fiery, &6Orange&r biome that is much hotter than any other area in this dimension. "
 		""
@@ -1927,6 +2064,19 @@
 	quest.3F8EEE1AD4420702.title: "&b64k Storage Part"
 	quest.3F9D553C9FA64F2A.quest_desc: ["Reactors are multi-block structures, meaning you can create your own custom size!\\n\\nIf you're using &aBasic Reactor Parts&r, the largest size reactor you can build is 5x5x5.\\n\\nThe &lBiggest&r Reactor that you can make using &eReinforced Reactor Parts&r is 32x32x48. There are a lot of variables that contribute to the overall output of a reactor, so make sure to experiment!\\n\\nSome overall tips:\\n\\nThe taller the reactor, the more fuel it can hold and burn because there are more fuel rods, meaning more overall power. This also means a higher &cburn rate&r.\\n\\nThe wider the reactor, the more efficient it is, as long as you don't add more fuel rods to the design. This means less consumption overall."]
 	quest.3F9D553C9FA64F2A.title: "Expanding The Reactor"
+	quest.3FB51F0568B0896C.quest_desc: [
+		"With our newly created &bCompressed Iron&r, we can get started crafting the basic items in &6PneumaticCraft&r!"
+		""
+		"To start, we'll need to make some &aPressure Tubes&r, which are used to carry &bCompressed Air&r. These are similar to \"cables\" from other mods!"
+		""
+		"Fun Fact: Pressure beyond 5 BAR is the danger zone. If the pressure inside of the tubes reaches 7.0 BAR, it will explode!"
+		""
+		""
+		"&bAir Pressure&r also takes time to build up! It relies on a completely &bclosed system&r, meaning it will try to escape if there is a hole somewhere in the pipe network."
+		""
+		"You'll know when there is a hole somewhere, as you'll hear the air rushing out. Right-clicking with a &aPneumatic Wrench&r will close the open section!"
+	]
+	quest.3FB51F0568B0896C.title: "Give it More Pressure"
 	quest.3FD702B5AB006402.quest_desc: [
 		"The weightless Levitation Belt allows an arcanist to effortlessly hover above the ground rather than walking."
 		""
@@ -1935,6 +2085,7 @@
 		"This halts your descent immediately, letting you glide smoothly across treacherous chasms and gaps."
 	]
 	quest.3FD801D7DE9176FB.title: "&e4k Storage Part"
+	quest.400EFC233FBC8CBA.quest_desc: ["The &aFlux Compressor&r converts &cFE&r into &bAir Pressure&r!"]
 	quest.403271A8740E9141.quest_desc: [
 		"The volatile oils within &cDemon's Dream Fruit&r possess highly exotic, flammable properties."
 		""
@@ -1960,6 +2111,11 @@
 		"It can Dispense the whole &1Locomotive&r and more! "
 		""
 		"Set a pattern for what you want to be deployed then give it a redstone signal."
+	]
+	quest.40B00524384110B9.quest_desc: [
+		"The &aVortex Tube&r uses compressed air to make one side &bCold&r and the other side &cHot&r."
+		""
+		"The higher the airflow, the more extreme the temperature difference will be."
 	]
 	quest.40B757772D0FBAC9.quest_desc: [
 		"The vital life-force of &4Blood&r occupies the third essential fluid reservoir that must be continuously replenished inside your &6&lHephaestus Forge&r."
@@ -2050,6 +2206,26 @@
 		""
 		"It is a dish celebrated as much for its eerie, shifting light as it is for its unique sweetness."
 	]
+	quest.43E68DE2E5A53162.quest_desc: [
+		"Although there's a pre-programmed &5Harvesting Drone&r, this questline is going to teach you how to make one yourself. This should give you a good head start on how programming works!"
+		""
+		"To get started, open up your &aProgramming Table&r and import the code:"
+		""
+		"Look for the \"Import Button\" at the top left of the GUI, then click the \"paste from clipboard\" option in the bottom."
+		""
+		"{\"text\": \"Click Here For The Code\", \"underlined\": true, \"color\": \"#FFFFFF\", \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://gist.github.com/ArtpokeBr/e8c83e912c92e28b9d428a07b5fe7fbc\"}}"
+		""
+		"With this you can notice that &bDrone Code&r is done via &3Code Blocks/Steps&r you can start by placing the &a\"Start Block\"&r and then add a block for each respective step of the process."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/quest_drone_1.png width:240 height:200 align:center}"
+		""
+		"You might also notice that when you add commands to harvest and/or import something from a chest, an &aArea Block&r is needed. To easily add the correct coordinates, simply left-click with your GPS Tool to paste them in."
+		""
+		"You can also add &aFilter Blocks&r to certain commands, in this given code, you may want to set one for the Hoe you wish to use."
+		""
+		"&eBonus tip:&r It's good practice to add a &9Standby&r command at the end so your drone can shut itself off when no work is needed, saving some &bPressure&r"
+	]
+	quest.43E68DE2E5A53162.title: "&dDrone&r Harvesting"
 	quest.43E8912CB307E421.quest_desc: [
 		"While securing an empire's assets virtually within digital media blocks completely reorganizes physical vault space, a commander requires a functional viewport to access and command the stockpile. "
 		""
@@ -2269,6 +2445,21 @@
 		"You can store fishing related items and fish bait in one of these."
 		"The Tackle Box is also where you can attatch equipment to the fishing rods."
 	]
+	quest.49E9EBFC7B717D8E.quest_desc: [
+		"&0Crude Oil&r is extremely valuable because it can be refined into some very useful liquids, most importantly &dGasoline&r and eventually &bPlastic&r!"
+		""
+		"To do this, you'll need to set up a &aRefinery&r. This is a small multiblock structure made up of the &aRefinery Controller&r and multiple &2Refinery Outputs&r."
+		""
+		"The &aRefinery Controller&r will need to be heated up, and the outputs determine how many different byproducts you can create when refining. "
+		""
+		"This can easily be done by placing the &aRefinery Controller&r directly over a lava source block, and then stacking the 4 outputs on top of it."
+		""
+		"You'll need to prevent &cHeat&r from dissipating, which can be done by covering each face with &bThermal Lagging&r."
+		""
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/oil_refinery.png width:350 height:200 align:center}"
+	]
+	quest.49E9EBFC7B717D8E.title: "Refining Oil"
 	quest.49EB9FB2133E3219.quest_desc: [
 		"The tattered plating designated as Ancient Armor serves as the standard martial uniform worn exclusively by the skeletal &7Forgottens&r patrolling the tombs. "
 		""
@@ -2438,6 +2629,22 @@
 		"{image:ftb_quests:textures/gui/ftb_quests/images/undergarden_stoneborn.png width:100 height:150 align:center}"
 	]
 	quest.4D836B9D9E3B898F.title: "&2Stoneborn&r"
+	quest.4DD685A3F0F1329F.quest_desc: [
+		"Although there is a pre-programmed &5Collector Drone&r, this quest will show you how to make one for yourself!"
+		""
+		"First, make sure to open your &aProgramming Table&r and import this basic code:"
+		""
+		"{\"text\": \"Click Here For The Code\", \"underlined\": true, \"clickEvent\": {\"action\": \"open_url\", \"value\": \"https://gist.github.com/ArtpokeBr/df8f8e046f85e0e97daf16f2976891e2\"}}"
+		""
+		"As previously mentioned, with this code you should only need to tweak the values to your specific needs."
+		""
+		"{image:ftb_quests:textures/gui/ftb_quests/images/quest_drone_2.png width:240 height:200 align:center}"
+		""
+		"It's also good to note that some &bCode Blocks&r like the &2Export to Chest&r one may have some additional config options that can be accessed via Right-clicking."
+		""
+		"In this case, you can select from which side the &dDrone&r will access the &2Chest&r."
+	]
+	quest.4DD685A3F0F1329F.title: "&d Collector Drone"
 	quest.4E062B9B4960632D.quest_desc: [
 		"Proper, fuel-burning transport... and seats two!"
 		""
@@ -2647,6 +2854,24 @@
 		"{image:undergarden:item/raw_gwibling width:100 height:100 align:center}"
 	]
 	quest.53FDC6C536E50A1A.title: "&bGwibling&r"
+	quest.5407B3A9D7544F43.quest_desc: [
+		"The &dPressure Chamber&r is one of the main crafting machines for &6PNCR&r."
+		""
+		"This multiblock machine can be built in multiple sizes: 3x3x3, 4x4x4, or 5x5x5."
+		""
+		"Bigger chambers will allow for more bulk crafting of recipes with less downtime for repressurizing."
+		""
+		"To build the &dPressure Chamber&r, start by building the frame using &bPressure Chamber Walls&r."
+		""
+		"The faces of the walls can be built out of &bPressure Chamber Glass&r instead of walls if you'd like!"
+		""
+		"To interact with the &dPressure Chamber&r, we'll need to use at least 2 &aPressure Chamber Interfaces&r."
+		""
+		"How you place them will determine whether they can pull or push items. The square is the input side, and the circle is the output!"
+		""
+		"For the &dChamber&r to compress items, we'll need to pump in compressed air into a &aPressure Chamber Valve&r."
+	]
+	quest.5407B3A9D7544F43.title: "My precious...."
 	quest.541D270451DA4320.quest_desc: [
 		"The Switch Track will be needed for moving lanes between the different Special &6Tracks&r. "
 		""
@@ -2674,6 +2899,13 @@
 		"It will take items from the &7Carts&r. This one must also be above the &6Track&r."
 	]
 	quest.555AA7172905288B.title: "Slay a Lich"
+	quest.55B7E3EE706E8D6F.quest_desc: [
+		"&bReinforced Stone&r is the basis for most &6PNCR&r machinery."
+		""
+		"Its hardened and thermally resistant nature makes it a perfect material to contain the high pressure of pneumatic devices."
+		""
+		"You'll need a good bit of these to craft a lot of the machines in the mod!"
+	]
 	quest.55D7CD0FA8F1AE48.quest_desc: [
 		"The reason we're all here, &5Trains&r. "
 		""
@@ -3141,6 +3373,7 @@
 	]
 	quest.621ACA8319D6CB93.quest_desc: ["The &bDrying Rack&r allows you to &6hang your herbs to dry&r. It also makes a lovely decoration."]
 	quest.6224E46C00B69F5D.quest_desc: ["Find the Mazebreaker pickaxe in the secret labyrinth vault."]
+	quest.6252AF176FC134E9.quest_desc: ["&aSpeed Upgrades&r can be used in most &6PNCR&r machines to make them work faster at the cost of using more pressure."]
 	quest.632BC46928CC9A8C.quest_desc: [
 		"The mystical &9Enchanter's Mirror&r functions as a specialized utility tool that instantly channels a bound Self Spell directly onto the user."
 		""
@@ -3152,6 +3385,8 @@
 	]
 	quest.632BFEC0E8AF7126.quest_desc: ["Have a full block of Experiment 115 with Redstone sprinkles."]
 	quest.632BFEC0E8AF7126.title: "Making a note: Huge Success!"
+	quest.633FA983B63A65DD.quest_desc: ["By applying an &bExpansion Module&r to a &dGauge Controller&r, you'll expand its functionalities, allowing you to precisely control its &cRedstone&r behavior."]
+	quest.633FA983B63A65DD.title: "Expanded Capabilities!?"
 	quest.63C95FDAA447CA47.quest_desc: [
 		"The exclusive blueprint requiring the advanced power of your &3&lTier 2&r foundry is the heavy &7Terrastomp Prism&r."
 		""
@@ -3163,6 +3398,21 @@
 	]
 	quest.63DD7F5A4441ACE7.quest_desc: ["Tier 2 Glyphs require 5 levels of experience to be made. \\n\\nThey also require a &9Mage's Spell Book&r to create."]
 	quest.63DD7F5A4441ACE7.title: "&9Mage&r Glyphs"
+	quest.6428F17B7E4873A6.quest_desc: [
+		"&cHeat&r disperses to adjacent blocks, including air, and is a mechanic unique to &6PNCR&r"
+		""
+		"If certain &cHeat&r sources disperse entirely, they can convert to a different block. An example of this would be using lava to heat a machine and it eventually cooling to obsidian."
+		""
+		"You can prevent &cHeat&r from dissipating in the air by making sure each side of the block is covered. &bThermal Lagging&r works well for this!"
+		""
+		""
+		"Some operations are &bEndothermic&r (uses &cHeat&r) while others might be &cExothermic&r (produces &cHeat&r). This will depend on the machine and recipe, so be sure to check JEI and plan accordingly!"
+		""
+		"Certain machines can also share &cHeat&r, meaning it is often useful to put machines that require similar temperatures next to each other."
+		""
+		"You can install &bDispenser Upgrades&r to pipe between them as well!"
+	]
+	quest.6428F17B7E4873A6.title: "Thermodynamics"
 	quest.647A87E800C703C3.quest_desc: [
 		"The Green Jungle stands as a breathtaking spectacle within the realm. "
 		""
@@ -3255,6 +3505,19 @@
 		"Honestly, with so many different dungeons packing it into their treasure chests, it would probably be way easier to list the places where you can't find it!"
 	]
 	quest.66FE4552E09B5EFF.title: "&3Elementarium"
+	quest.670A52F1036507BB.quest_desc: [
+		"&bAir pressure&r, measured in &bBar&r, is what powers most &6PCNR&r machines."
+		""
+		"The higher the &bBar&r, the higher the pressure. It moves from high-pressure areas to low-pressure areas and will try to equalize throughout the system."
+		""
+		"If air pressure in a machine or tube is higher than it can support, the &cmachine will explode&r!"
+		""
+		""
+		"&6PNCR&r machines and tools all have a specific volume, measured in &bml&r that represents how much air they hold at 0 &bBar&r. This can be increased with volume upgrades."
+		""
+		"Machines use compressed air to operate, which constantly lowers the pressure in the system as they consume it."
+	]
+	quest.670A52F1036507BB.title: "School of Pressure"
 	quest.6751F2651063B3A5.quest_desc: [
 		"To encounter a Blood Mushroom is to witness a grotesque anomaly of the lowlands. "
 		""
@@ -3474,6 +3737,16 @@
 		""
 		"Once the monolithic arch stands complete, striking its inner hollow with the elusive Catalyst will ignite the veil and open the path."
 	]
+	quest.6CD6367FB419EA35.quest_desc: [
+		"The &aThermopneumatic Processing Plant&r is your next step for processing the liquids you've gathered from the &aRefinery&r."
+		""
+		"&bHeavy Fuels&r can be cracked into lighter ones, which means &aDiesel&r can be turned into &2Kerosene&r, which can then turn into &3Gasoline&r, and then further into &1LPG&r."
+		""
+		"This machine can also be used to produce &aLubricant&r!"
+		""
+		"Running either &1LPG&r or &aBiodiesel&r through one of these machines can make you &bMolten Plastic&r."
+	]
+	quest.6CD6367FB419EA35.title: "Plastique???"
 	quest.6D4FB6291CA8D1A6.quest_desc: [
 		"The Smogstem Trees are defined by their thick, bulbous bases, reminiscent of the ancient giants that once braced the surface world. "
 		""
@@ -3629,6 +3902,16 @@
 	]
 	quest.70FD8C7E6CDE96DF.quest_subtitle: "Capturing and deploying live specimens for logistical or sacrificial transport."
 	quest.70FD8C7E6CDE96DF.title: "Biological Containment: &dThe Soul Gem"
+	quest.7141C2CA9321B710.quest_desc: [
+		"If you want &dDrones&r to harvest your crops and do your work for you, you'll need a few things."
+		""
+		"First, make yourself a &aProgramming Table&r. This is used to tell your &dDrone&r what you want it to do."
+		""
+		"Next, you'll want to get your hands on some &bPuzzle Pieces&r, with every step of this process requiring 1 piece each."
+		""
+		"It's also a good idea to have &bGPS Tools&r handy, as you'll use these to set coordinates for your &dDrone&r instructions."
+	]
+	quest.7141C2CA9321B710.title: "Do you wanna build a robot?"
 	quest.7145EC3C300E7DBB.quest_subtitle: "Pray for little lag, we wish you success!"
 	quest.7145EC3C300E7DBB.title: "Complete The Final Dungeon"
 	quest.716FD0C8F4A7AD60.title: "Gravity Defying Gravitite"
@@ -3731,6 +4014,13 @@
 		"Has three upgrade slots, one weapon slot, a chest's worth of storage."
 	]
 	quest.73A75FEFDFB27A5C.quest_subtitle: "Da Vinci, is that you?"
+	quest.73E91712D4D9A762.quest_desc: [
+		"The &aMinigun&r will shoot &bMinigun Ammo&r using compressed air by holding right-click."
+		""
+		"Sneak click the Minigun to insert up to 4 &bMinigun Ammo&r boxes, which can be combined with a potion to apply its effects on hit."
+		""
+		"You can install several useful upgrades to the &aMinigun&r in the charging station to improve its functionality!"
+	]
 	quest.74448AA44DC11420.quest_subtitle: "Open 50 Containers"
 	quest.744DBE831C120B2F.quest_desc: [
 		"A sudden shift in the gravel can spell doom for the uninitiated, for what appears to be a dormant stone may well be a camouflaged &2Mog&r. "
@@ -3966,10 +4256,19 @@
 	]
 	quest.7A4D535DC0EDFDA8.title: "Wireless Network Access"
 	quest.7A6D9E7DAD77F895.quest_desc: ["Craft it using aquatic items."]
+	quest.7B30DD6FB76E75A5.quest_desc: [
+		"Once you have some &bMolten Plastic&r, you can cool it off by pouring it somewhere into the world and waiting. This will cool into &bPlastic Sheets&r! You can also automate this process using &cHeat Frame Cooling&r."
+		""
+		"Using the rewards from the previous quest, you should be able to make yourself an &dAmadron Tablet&r. This will allow you to trade on the &bAmadron network&r for all sorts of custom and vanilla villager trades!"
+		""
+		"Make sure you link it to an inventory by sneak+right-clicking it and enjoy all of the new trades! You'll also want to make sure to keep it charged."
+	]
+	quest.7B30DD6FB76E75A5.title: "Trading Netowrk"
 	quest.7B4AAC741F0A6073.quest_desc: ["Every reactor needs &9Reactor Control Rods&r and &9Fuel Rods&r. These control how fuel is inserted into the reactor.\\n\\nThe Control Rods are placed on the top face of the reactor. You can also have more than one per reactor, but you must have at least 1. Typically, the more you have, the more fuel the reactor can use and burn. That can mean more overall power, but at the cost of higher burn rates, depending on the setup of your reactor.\\n\\nFor every Control Rod, you'll need enough Fuel Rods to extend to the base of the reactor. For example, if your reactor is 5 blocks tall, you'll need 3 Fuel Rods extending from each Control Rod.\\n\\nIf you right-click on a Control Rod, you can control how much fuel is burned in the reactor by inserting or retracting the fuel rods. The further that you extend the rods, the less fuel that will be burned."]
 	quest.7B4AAC741F0A6073.title: "Reactor Control Rods"
 	quest.7BB9B1E8888BA04F.quest_desc: ["Found in Nether Fortresses."]
 	quest.7BB9B1E8888BA04F.quest_subtitle: "Found in Nether Fortress chests"
+	quest.7C2617969808F086.quest_desc: ["Slapping some &3Transistors&r and &3Capacitors&r on the &dUnassembled PCB&r will make a &bPrinted Circuit Board&r."]
 	quest.7C4D8AA107780795.quest_desc: [
 		"By using the &aFluidizer&r, we can combine &dBlutonium&r with &eYellorium&r to make &2Verderium."
 		""
