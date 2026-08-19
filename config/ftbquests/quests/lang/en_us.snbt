@@ -491,7 +491,7 @@
 		""
 		"&aAssembly IO Units&r control the input and output of the recipes. They must be able to reach an inventory, such as a chest, and the assembly platform. They can reach anything with a 3x3 area. "
 	]
-	quest.0B9781072E9E935C.title: "Single File Line"
+	quest.0B9781072E9E935C.title: "Single File Line, To Hide Their Numbers..."
 	quest.0B9CBAC5D036021A.quest_subtitle: "Discover a new way of dealing ranged damage"
 	quest.0BC2506F05B65F3C.quest_desc: ["Find a Quest Grove and give every colour of wool to the ram."]
 	quest.0BD409AFD13534B3.quest_desc: [
@@ -1700,7 +1700,7 @@
 		""
 		"Using a &aSeismic Sensor&r can help you locate these &bOil Deposits&r underground."
 	]
-	quest.31B06C6ACEF764E0.title: "Thar be Oil in them hills...."
+	quest.31B06C6ACEF764E0.title: "Thar Be Oil in Them Hills...."
 	quest.327D93798A7BE211.quest_desc: [
 		"A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular &bCauldron&r with &biron&r and &btorches&r in order to create this advanced crafting tool."
 		"&dBeware! Do not use your Infinity water bucket with this cauldron!&r. It will consume the water and the enchantment."
@@ -2871,7 +2871,7 @@
 		""
 		"For the &dChamber&r to compress items, we'll need to pump in compressed air into a &aPressure Chamber Valve&r."
 	]
-	quest.5407B3A9D7544F43.title: "My precious...."
+	quest.5407B3A9D7544F43.title: "My Precious...."
 	quest.541D270451DA4320.quest_desc: [
 		"The Switch Track will be needed for moving lanes between the different Special &6Tracks&r. "
 		""

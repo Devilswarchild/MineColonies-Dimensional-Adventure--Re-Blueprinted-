@@ -4,7 +4,7 @@
 	default_min_width: 250
 	default_quest_shape: ""
 	filename: "pncr"
-	group: ""
+	group: "250FD3D3997385F0"
 	icon: {
 		id: "pneumaticcraft:logistics_drone"
 	}
@@ -146,7 +146,7 @@
 			y: 9.5d
 		}
 	]
-	order_index: 1
+	order_index: 11
 	quest_links: [ ]
 	quests: [
 		{

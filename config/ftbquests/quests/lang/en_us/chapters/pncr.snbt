@@ -14,7 +14,7 @@
 		""
 		"&aAssembly IO Units&r control the input and output of the recipes. They must be able to reach an inventory, such as a chest, and the assembly platform. They can reach anything with a 3x3 area. "
 	]
-	quest.0B9781072E9E935C.title: "Single File Line"
+	quest.0B9781072E9E935C.title: "Single File Line, To Hide Their Numbers..."
 	quest.0EC122E853F2083C.quest_desc: [
 		"&dAdvanced Pressure Tubes&r can handle up to the danger zone of 20 &bBar&r and 4 times the volume. At 25 &bBar&r they will explode!"
 		""
@@ -98,7 +98,7 @@
 		""
 		"Using a &aSeismic Sensor&r can help you locate these &bOil Deposits&r underground."
 	]
-	quest.31B06C6ACEF764E0.title: "Thar be Oil in them hills...."
+	quest.31B06C6ACEF764E0.title: "Thar Be Oil in Them Hills...."
 	quest.34169D76520A5D85.quest_desc: [
 		"The &bCharging Module&r can be placed on a pressure tube and it will charge all items in the inventory it's facing."
 		""
@@ -220,7 +220,7 @@
 		""
 		"For the &dChamber&r to compress items, we'll need to pump in compressed air into a &aPressure Chamber Valve&r."
 	]
-	quest.5407B3A9D7544F43.title: "My precious...."
+	quest.5407B3A9D7544F43.title: "My Precious...."
 	quest.55B7E3EE706E8D6F.quest_desc: [
 		"&bReinforced Stone&r is the basis for most &6PNCR&r machinery."
 		""
